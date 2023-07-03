@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2023/07/03/ugc-privatization-could.html",
+				"title": "UGC privatization could improve AI models",
+				"content_html": "<p>An off the cuff idea:</p>\n<p>AI training on public data is driving privatization of user-generated content (eg Reddit API). This could push users with a real need for the information who today rely on public google search to build private archives. For instance, keeping a copy of the most insightful StackExchange answers that help you do your job.</p>\n<p>If that happens, AI companies that figure out how to ingest private archives will have a training advantage, even if doing so is a gray area legally, as training based on sci-hub was for modern models.</p>\n<p>It might even mean that the quality of the training goes <em>up</em> even as the amount of publicly available UGC goes down, since the private archives are curated by humans, and curation is a quality signal.</p>\n",
+				"content_text": "An off the cuff idea:\n\nAI training on public data is driving privatization of user-generated content (eg Reddit API). This could push users with a real need for the information who today rely on public google search to build private archives. For instance, keeping a copy of the most insightful StackExchange answers that help you do your job.  \n\nIf that happens, AI companies that figure out how to ingest private archives will have a training advantage, even if doing so is a gray area legally, as training based on sci-hub was for modern models.\n\nIt might even mean that the quality of the training goes _up_ even as the amount of publicly available UGC goes down, since the private archives are curated by humans, and curation is a quality signal.\n",
+				"date_published": "2023-07-03T13:52:33-05:00",
+				"url": "https://whispers.micahrl.com/2023/07/03/ugc-privatization-could.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2023/06/14/browsers-need-better.html",
 				"title": "Browsers need better account primitives",
 				"content_html": "<p>Michał Sapka notes that <a href=\"https://michal.sapka.me/2023/reddit-and-the-centralized-web/\">PhpBB is a good way to create a small community</a>. I&rsquo;d like this to be true, but I think this makes the barrier to entry too high for normie participation.</p>\n<p>I think part of the reason Reddit has been so successful is that website account creation is such a chore. If every subreddit required a separate account, would they have a tenth of their users? A hundredth? Less?</p>\n<p>Currently if you&rsquo;re a small blog or community and want to provide persistent identity for commenting/forums, you need to allow some subset of account creation with email and integration with identity providers like Apple, Google, Github, etc. But you can&rsquo;t reasonably offer <em>all</em> of them, because there are too many! It&rsquo;s a front end design problem: do you want commenting on your blog to require searching through the list of all possible identity providers? Sounds very 2007.</p>\n<p>And email as the identity manager is just awful: not only do you have to share a password or use a password manager, but you have wait for the site to send you an email and click a link before your account can be set up.</p>\n<p>What if the browser stored a user&rsquo;s preference for identity provider? Support everyone, let the browser prompt the user to log in with the one they already selected. No overdramatic interstitial &ldquo;WARNING: THIS WILL ALLOW THE WEBSITE example.com READ ONLY ACCESS TO YOUR: PUBLIC PROFILE&rdquo; (the user already accepted it), no email link.</p>\n<p>It&rsquo;s also unphishable, as it happens in browser chrome.</p>\n",
@@ -74,7 +82,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/17/blue-skies-sierra.html",
 				
 				"content_html": "<p>Blue skies, Sierra Ferrel, chickenshit bingo. Thanks <a href=\"https://luckpresents.com/luck-tx-events/2023luckreunion\">Luck</a>.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Blue skies, Sierra Ferrel, chickenshit bingo. Thanks [Luck](https://luckpresents.com/luck-tx-events/2023luckreunion).\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/4dd496c2b3.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/9131f124e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Blue skies, Sierra Ferrel, chickenshit bingo. Thanks [Luck](https://luckpresents.com/luck-tx-events/2023luckreunion).\n\n<img src=\"uploads/2023/4dd496c2b3.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"uploads/2023/9131f124e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-17T22:37:49-05:00",
 				"url": "https://whispers.micahrl.com/2023/03/17/blue-skies-sierra.html"
 			},
@@ -98,7 +106,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/15/pls-do-not.html",
 				
 				"content_html": "<p>PLS DO NOT TAKE</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "PLS DO NOT TAKE\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/e140fe4768.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/232337a204.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "PLS DO NOT TAKE\n\n<img src=\"uploads/2023/e140fe4768.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/232337a204.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-15T19:10:53-05:00",
 				"url": "https://whispers.micahrl.com/2023/03/15/pls-do-not.html"
 			},
@@ -114,7 +122,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/13/circa-or-so.html",
 				
 				"content_html": "<p>Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/fcef8762b3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.\n\n<img src=\"uploads/2023/fcef8762b3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-03-13T20:21:47-05:00",
 				"url": "https://whispers.micahrl.com/2023/03/13/circa-or-so.html"
 			},
