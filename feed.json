@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2023/07/26/quoting-ryan-tomayko.html",
+				
+				"content_html": "<p><a href=\"https://github.com/rtomayko/ronn\">Quoting Ryan Tomayko</a> on how many levels of headers you really need in your documents:</p>\n<blockquote>\n<p>Remember that Feynman covered all of physics &ndash; heavenly bodies through QED &ndash; with only two levels of document hierarchy (<em>The Feynman Lectures on Physics, 1970</em>).</p>\n</blockquote>\n",
+				"content_text": "[Quoting Ryan Tomayko](https://github.com/rtomayko/ronn) on how many levels of headers you really need in your documents:\n\n> Remember that Feynman covered all of physics -- heavenly bodies through QED -- with only two levels of document hierarchy (_The Feynman Lectures on Physics, 1970_).\n",
+				"date_published": "2023-07-26T13:22:47-05:00",
+				"url": "https://whispers.micahrl.com/2023/07/26/quoting-ryan-tomayko.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2023/07/12/operating-system-feature.html",
 				"title": "Operating system feature wish: userspace programmable files",
 				"content_html": "<p>I frequently find myself wishing for the ability to really treat the filesystem as an API. Imagine a file that:</p>\n<ul>\n<li>returns the current date/time in a certain format when it is read</li>\n<li><a href=\"https://twitter.com/mrled/status/1571522190104739840\">transparently download binaries from github and assemble them into .deb/.rpm/.apk packages</a></li>\n<li>&hellip; maybe more</li>\n</ul>\n<p>I am aware the FUSE and plan9 exist, however, I&rsquo;m imagining something easier. Imagine if a file could run a shell script, interpreted program, or compiled binary on read/write! It would be so powerful.</p>\n",
