@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2024/05/21/claws-sharpenedchitin-waxedsplines.html",
+				
+				"content_html": "<p>Claws: sharpened\nChitin: waxed\nSplines: reticulated\nGlands: excreting</p>\n<p>👹</p>\n",
+				"content_text": "Claws: sharpened\nChitin: waxed\nSplines: reticulated\nGlands: excreting\n\n👹\n",
+				"date_published": "2024-05-21T12:18:06-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/21/claws-sharpenedchitin-waxedsplines.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/05/06/patterns.html",
+				
+				"content_html": "<p>Patterns</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Patterns\n\n<img src=\"uploads/2024/img-8106.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/img-8105.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-05-06T23:46:19-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/06/patterns.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/05/06/my-favorite-math.html",
+				
+				"content_html": "<p>My favorite math scratchpad app <a href=\"https://soulver.app/\">Soulver</a> is available on iPhone again - way nicer than a spreadsheet for simple algebra, <em>especially</em> on a phone</p>\n",
+				"content_text": "My favorite math scratchpad app [Soulver](https://soulver.app/) is available on iPhone again - way nicer than a spreadsheet for simple algebra, _especially_ on a phone\n",
+				"date_published": "2024-05-06T23:19:43-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/06/my-favorite-math.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2024/05/06/i-really-wish.html",
 				
 				"content_html": "<p>I really wish they would like, put a murderous dictator in charge of HDMI (and all) versioning. if you do not stamp the version number on the cables in a way that can be read after it&rsquo;s been in my garage for 50 years, you get dropped in the piranha tank</p>\n",
@@ -50,7 +74,7 @@
 				"id": "http://micahrl.micro.blog/2023/05/23/i-am-seeing.html",
 				
 				"content_html": "<p>I am seeing more and more bad hyphenation recently, this is just so sad :(</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I am seeing more and more bad hyphenation recently, this is just so sad :( \n\n<img src=\"uploads/2023/a043cd4e0a.jpg\" width=\"600\" height=\"242\" alt=\"\">\n",
+				"content_text": "I am seeing more and more bad hyphenation recently, this is just so sad :( \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/a043cd4e0a.jpg\" width=\"600\" height=\"242\" alt=\"\">\n",
 				"date_published": "2023-05-23T13:19:02-05:00",
 				"url": "https://whispers.micahrl.com/2023/05/23/i-am-seeing.html"
 			},
@@ -106,7 +130,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/17/blue-skies-sierra.html",
 				
 				"content_html": "<p>Blue skies, Sierra Ferrel, chickenshit bingo. Thanks <a href=\"https://luckpresents.com/luck-tx-events/2023luckreunion\">Luck</a>.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Blue skies, Sierra Ferrel, chickenshit bingo. Thanks [Luck](https://luckpresents.com/luck-tx-events/2023luckreunion).\n\n<img src=\"uploads/2023/4dd496c2b3.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"uploads/2023/9131f124e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Blue skies, Sierra Ferrel, chickenshit bingo. Thanks [Luck](https://luckpresents.com/luck-tx-events/2023luckreunion).\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/4dd496c2b3.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/9131f124e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-17T22:37:49-05:00",
 				"url": "https://whispers.micahrl.com/2023/03/17/blue-skies-sierra.html"
 			},
@@ -130,7 +154,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/15/pls-do-not.html",
 				
 				"content_html": "<p>PLS DO NOT TAKE</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "PLS DO NOT TAKE\n\n<img src=\"uploads/2023/e140fe4768.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/232337a204.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "PLS DO NOT TAKE\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/e140fe4768.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/232337a204.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-15T19:10:53-05:00",
 				"url": "https://whispers.micahrl.com/2023/03/15/pls-do-not.html"
 			},
@@ -146,7 +170,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/13/circa-or-so.html",
 				
 				"content_html": "<p>Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.\n\n<img src=\"uploads/2023/fcef8762b3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/fcef8762b3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-03-13T20:21:47-05:00",
 				"url": "https://whispers.micahrl.com/2023/03/13/circa-or-so.html"
 			},
