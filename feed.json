@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2024/05/29/just-beat-my.html",
+				
+				"content_html": "<p>Just beat my move goal while sitting at a restaurant eating spicy food</p>\n",
+				"content_text": "Just beat my move goal while sitting at a restaurant eating spicy food \n",
+				"date_published": "2024-05-29T20:39:09-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/29/just-beat-my.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/05/26/something-else-i.html",
+				
+				"content_html": "<blockquote>\n<p>Something else I noticed after updating to Sonoma: although I&rsquo;ve tried many times in the past to extinguish it, the text replacement omw has once again returned, almost like a cicada.</p>\n</blockquote>\n<p><a href=\"https://lapcatsoftware.com/articles/2024/5/4.html\">Jeff Johnson</a></p>\n",
+				"content_text": "> Something else I noticed after updating to Sonoma: although I've tried many times in the past to extinguish it, the text replacement omw has once again returned, almost like a cicada.\n\n[Jeff Johnson](https://lapcatsoftware.com/articles/2024/5/4.html)\n",
+				"date_published": "2024-05-26T11:58:14-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/26/something-else-i.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/05/25/realized-since-having.html",
+				
+				"content_html": "<p>Realized since having a baby why YouTube face is so annoying: it&rsquo;s an exaggerated face we make <em>for babies</em>. It&rsquo;s like the baby talk of facial expressions. YouTube face in non-baby contexts is like listening to an obsequious couple in the next booth baby-talking to each other.</p>\n",
+				"content_text": "Realized since having a baby why YouTube face is so annoying: it's an exaggerated face we make _for babies_. It's like the baby talk of facial expressions. YouTube face in non-baby contexts is like listening to an obsequious couple in the next booth baby-talking to each other. \n",
+				"date_published": "2024-05-25T10:01:30-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/25/realized-since-having.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/05/23/lets-kerberos-cool.html",
+				
+				"content_html": "<p><a href=\"http://www.imperialviolet.org/2024/04/07/letskerberos.html\">Let&rsquo;s Kerberos</a></p>\n<p>Cool thought experiment</p>\n<p>Whenever I think about Kerberos I think about the frequent time I spent at Barnes and Noble in high school, sitting on the floor of the computer books section, reading everything I could about Unix, trying hard to understand Kerberos and many other things</p>\n",
+				"content_text": "[Let's Kerberos](http://www.imperialviolet.org/2024/04/07/letskerberos.html)\n\nCool thought experiment\n\nWhenever I think about Kerberos I think about the frequent time I spent at Barnes and Noble in high school, sitting on the floor of the computer books section, reading everything I could about Unix, trying hard to understand Kerberos and many other things\n",
+				"date_published": "2024-05-23T08:39:52-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/23/lets-kerberos-cool.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/05/22/im-not-trying.html",
+				
+				"content_html": "<p>I&rsquo;m not trying to make everyone mad, but I gotta say, an Alpine Linux that used systemd for everything would solve a lot of problems for me.</p>\n",
+				"content_text": "I'm not trying to make everyone mad, but I gotta say, an Alpine Linux that used systemd for everything would solve a lot of problems for me.\n",
+				"date_published": "2024-05-22T22:23:20-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/22/im-not-trying.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2024/05/21/claws-sharpenedchitin-waxedsplines.html",
 				
-				"content_html": "<p>Claws: sharpened\nChitin: waxed\nSplines: reticulated\nGlands: excreting</p>\n<p>👹</p>\n",
-				"content_text": "Claws: sharpened\nChitin: waxed\nSplines: reticulated\nGlands: excreting\n\n👹\n",
+				"content_html": "<ul>\n<li>Claws: sharpened</li>\n<li>Chitin: waxed</li>\n<li>Splines: reticulated</li>\n<li>Glands: excreting</li>\n</ul>\n<p>👹</p>\n",
+				"content_text": "* Claws: sharpened\n* Chitin: waxed\n* Splines: reticulated\n* Glands: excreting\n\n👹\n",
 				"date_published": "2024-05-21T12:18:06-05:00",
 				"url": "https://whispers.micahrl.com/2024/05/21/claws-sharpenedchitin-waxedsplines.html"
 			},
@@ -18,7 +58,7 @@
 				"id": "http://micahrl.micro.blog/2024/05/06/patterns.html",
 				
 				"content_html": "<p>Patterns</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Patterns\n\n<img src=\"uploads/2024/img-8106.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/img-8105.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Patterns\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/img-8106.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2024/img-8105.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-05-06T23:46:19-05:00",
 				"url": "https://whispers.micahrl.com/2024/05/06/patterns.html"
 			},
