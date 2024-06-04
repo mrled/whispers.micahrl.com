@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2024/06/04/food-tracking.html",
+				"title": "Food tracking",
+				"content_html": "<p>Perhaps a weird way to put it, but it&rsquo;s accurate to say that I&rsquo;ve been <em>enjoying</em> tracking my food intake for the past 6 months. I&rsquo;ve been tracking exercise for longer, and I started tracking food too when I realized I was mentally reaching for my phone after meals to record the data - I wanted to have a record of how I was doing.</p>\n<p>I use MacroFactor, which is thoughtfully designed to do the job and get out of your way. I expected tracking to feel bad, but that mostly hasn&rsquo;t happened. I set an agreement with myself that I can eat and drink whatever I want as long as I track it accurately, which has been freeing, but also has highlighted food that I wouldn&rsquo;t have enjoyed enough to be worth its calories.</p>\n<p>It has helped to track some positive things too: I&rsquo;m trying to get a good macro balance of protein/carbs/fat, and in particular eat more protein than I would naturally; I&rsquo;m not just trying to avoid junk food.</p>\n<p>Some things I learned:</p>\n<ul>\n<li>I tend to eat more fat than my targets but often fewer carbs; I expected the reverse</li>\n<li>Alcohol is even higher calorie than I realized, but more insidiously, I am much hungrier on days I drink than days I don&rsquo;t (I still enjoy a drink most days)</li>\n<li>100cal of protein feels much more satisfying than 100cal of either carbs or fat when I&rsquo;m between meals</li>\n</ul>\n",
+				"content_text": "Perhaps a weird way to put it, but it's accurate to say that I've been _enjoying_ tracking my food intake for the past 6 months. I've been tracking exercise for longer, and I started tracking food too when I realized I was mentally reaching for my phone after meals to record the data - I wanted to have a record of how I was doing.\n\nI use MacroFactor, which is thoughtfully designed to do the job and get out of your way. I expected tracking to feel bad, but that mostly hasn't happened. I set an agreement with myself that I can eat and drink whatever I want as long as I track it accurately, which has been freeing, but also has highlighted food that I wouldn't have enjoyed enough to be worth its calories.\n\nIt has helped to track some positive things too: I'm trying to get a good macro balance of protein/carbs/fat, and in particular eat more protein than I would naturally; I'm not just trying to avoid junk food.\n\nSome things I learned:\n\n* I tend to eat more fat than my targets but often fewer carbs; I expected the reverse\n* Alcohol is even higher calorie than I realized, but more insidiously, I am much hungrier on days I drink than days I don't (I still enjoy a drink most days)\n* 100cal of protein feels much more satisfying than 100cal of either carbs or fat when I'm between meals\n",
+				"date_published": "2024-06-04T00:13:43-05:00",
+				"url": "https://whispers.micahrl.com/2024/06/04/food-tracking.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/06/01/if-you-see.html",
+				
+				"content_html": "<p>If you see something strange, say something strange</p>\n",
+				"content_text": "If you see something strange, say something strange\n",
+				"date_published": "2024-06-01T21:00:53-05:00",
+				"url": "https://whispers.micahrl.com/2024/06/01/if-you-see.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2024/05/29/just-beat-my.html",
 				
 				"content_html": "<p>Just beat my move goal while sitting at a restaurant eating spicy food</p>\n",
