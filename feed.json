@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2024/06/25/i-see-how.html",
+				
+				"content_html": "<p>I see how one might believe that &ldquo;<a href=\"https://en.m.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does\">the purpose of a system is what it does</a>&rdquo;, and I see how one might believe that the &ldquo;<a href=\"https://newsroom.spotify.com/2024-01-26/apples-proposed-changes-reject-the-goals-of-the-dma/\">spirit of the law</a>&rdquo; is a coherent concept that everyone understands, but I have to say I don&rsquo;t see how one could believe both at once.</p>\n",
+				"content_text": "I see how one might believe that \"[the purpose of a system is what it does](https://en.m.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does)\", and I see how one might believe that the \"[spirit of the law](https://newsroom.spotify.com/2024-01-26/apples-proposed-changes-reject-the-goals-of-the-dma/)\" is a coherent concept that everyone understands, but I have to say I don't see how one could believe both at once.\n",
+				"date_published": "2024-06-25T16:11:29-05:00",
+				"url": "https://whispers.micahrl.com/2024/06/25/i-see-how.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/06/19/til-that-lorem.html",
+				
+				"content_html": "<p>TIL that &ldquo;lorem ipsum&rdquo; is the corruption of pain itself.</p>\n<blockquote>\n<p>Lorem ipsum is typically a corrupted version of De finibus bonorum et malorum, a 1st-century BC text by the Roman statesman and philosopher Cicero, with words altered, added, and removed to make it nonsensical and improper Latin. The first two words themselves are a truncation of dolorem ipsum (&ldquo;pain itself&rdquo;).</p>\n</blockquote>\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/Lorem_ipsum\">Wikipedia</a></li>\n</ul>\n",
+				"content_text": "TIL that \"lorem ipsum\" is the corruption of pain itself.\n\n> Lorem ipsum is typically a corrupted version of De finibus bonorum et malorum, a 1st-century BC text by the Roman statesman and philosopher Cicero, with words altered, added, and removed to make it nonsensical and improper Latin. The first two words themselves are a truncation of dolorem ipsum (\"pain itself\").\n\n- [Wikipedia](https://en.wikipedia.org/wiki/Lorem_ipsum)\n",
+				"date_published": "2024-06-19T22:57:13-05:00",
+				"url": "https://whispers.micahrl.com/2024/06/19/til-that-lorem.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/06/19/coordinated-lunar-time.html",
+				"title": "Coordinated Lunar Time",
+				"content_html": "<p>In April, the White House released <a href=\"https://www.whitehouse.gov/wp-content/uploads/2024/04/Celestial-Time-Standardization-Policy.pdf\">a memo on a standard for lunar time (PDF)</a>. I hope it is not too late to save the country from a terrible mistake: abbreviating this standard as &ldquo;LTC&rdquo;.</p>\n<p>&ldquo;LTC&rdquo; is a jumbled initialism for Coordinated Lunar Time, patterned after &ldquo;UTC&rdquo; as a jumbled initialism for Coordinated Universal Time. But why jumble the initialisms? <a href=\"https://en.m.wikipedia.org/wiki/Coordinated_Universal_Time\">The UTC Wikipedia page</a> quotes a paper which says:</p>\n<blockquote>\n<p>In 1967 the CCIR adopted the names Coordinated Universal Time and Temps Universel Coordonné for the English and French names with the acronym UTC to be used in both languages. The name &ldquo;Coordinated Universal Time (UTC)&rdquo; was approved by a resolution of IAU Commissions 4 and 31 at the 13th General Assembly in 1967 (Trans. IAU, 1968).</p>\n</blockquote>\n<p>It&rsquo;s bad enough that Earth&rsquo;s coordinated time is abbreviated in a cut-the-baby compromise with the <em>French</em>, but at least the French are actually on Earth. Lunar time should be decided in a symposium on the moon itself. If you want your voice heard, you should have to land there.</p>\n",
+				"content_text": "In April, the White House released [a memo on a standard for lunar time (PDF)](https://www.whitehouse.gov/wp-content/uploads/2024/04/Celestial-Time-Standardization-Policy.pdf). I hope it is not too late to save the country from a terrible mistake: abbreviating this standard as \"LTC\".\n\n\"LTC\" is a jumbled initialism for Coordinated Lunar Time, patterned after \"UTC\" as a jumbled initialism for Coordinated Universal Time. But why jumble the initialisms? [The UTC Wikipedia page](https://en.m.wikipedia.org/wiki/Coordinated_Universal_Time) quotes a paper which says:\n\n> In 1967 the CCIR adopted the names Coordinated Universal Time and Temps Universel Coordonné for the English and French names with the acronym UTC to be used in both languages. The name \"Coordinated Universal Time (UTC)\" was approved by a resolution of IAU Commissions 4 and 31 at the 13th General Assembly in 1967 (Trans. IAU, 1968).\n\nIt's bad enough that Earth's coordinated time is abbreviated in a cut-the-baby compromise with the _French_, but at least the French are actually on Earth. Lunar time should be decided in a symposium on the moon itself. If you want your voice heard, you should have to land there. \n",
+				"date_published": "2024-06-19T09:14:52-05:00",
+				"url": "https://whispers.micahrl.com/2024/06/19/coordinated-lunar-time.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2024/06/18/quoting-raymond-chen.html",
 				"title": "Quoting, Raymond Chen",
 				"content_html": "<p>Via <a href=\"https://devblogs.microsoft.com/oldnewthing/20240618-00/?p=109910\">The Old New Thing</a></p>\n<blockquote>\n<p>A colleague told a story of how he once broke the entire Office division’s ability to check in code because he accidentally checked in a syntax error to the script that is used to verify that your proposed change has satisfied all the pre-submit requirements such as passing static analysis and unit testing.</p>\n<p>&hellip;</p>\n<p>The error was caused by smart quotes being used by mistake instead of straight quotes. He doesn’t know how they snuck in, and the two styles of quotation marks were sufficiently similar that it eluded everyone’s notice.</p>\n</blockquote>\n<p>I&rsquo;ve never worked at Microsoft and can only guess how they might have snuck in&hellip; and my guess is that they came in by copying/pasting code from MSDN Blogs, which for <em>years</em> seemed to auto convert straight quotes to smart quotes and double dashes to em dashes.</p>\n<p>In that era, only a few MSDN bloggers were nice enough to wrap their code in <code>&lt;pre&gt;</code> tags, and it&rsquo;s not clear to me that the CMS even supported syntax highlighting. We&rsquo;ve got it pretty good today, is what I&rsquo;m trying to say.</p>\n",
@@ -82,7 +106,7 @@
 				"id": "http://micahrl.micro.blog/2024/05/06/patterns.html",
 				
 				"content_html": "<p>Patterns</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Patterns\n\n<img src=\"uploads/2024/img-8106.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/img-8105.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Patterns\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/img-8106.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2024/img-8105.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-05-06T23:46:19-05:00",
 				"url": "https://whispers.micahrl.com/2024/05/06/patterns.html"
 			},
@@ -138,7 +162,7 @@
 				"id": "http://micahrl.micro.blog/2023/05/23/i-am-seeing.html",
 				
 				"content_html": "<p>I am seeing more and more bad hyphenation recently, this is just so sad :(</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I am seeing more and more bad hyphenation recently, this is just so sad :( \n\n<img src=\"uploads/2023/a043cd4e0a.jpg\" width=\"600\" height=\"242\" alt=\"\">\n",
+				"content_text": "I am seeing more and more bad hyphenation recently, this is just so sad :( \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/a043cd4e0a.jpg\" width=\"600\" height=\"242\" alt=\"\">\n",
 				"date_published": "2023-05-23T13:19:02-05:00",
 				"url": "https://whispers.micahrl.com/2023/05/23/i-am-seeing.html"
 			},
@@ -194,7 +218,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/17/blue-skies-sierra.html",
 				
 				"content_html": "<p>Blue skies, Sierra Ferrel, chickenshit bingo. Thanks <a href=\"https://luckpresents.com/luck-tx-events/2023luckreunion\">Luck</a>.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Blue skies, Sierra Ferrel, chickenshit bingo. Thanks [Luck](https://luckpresents.com/luck-tx-events/2023luckreunion).\n\n<img src=\"uploads/2023/4dd496c2b3.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"uploads/2023/9131f124e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Blue skies, Sierra Ferrel, chickenshit bingo. Thanks [Luck](https://luckpresents.com/luck-tx-events/2023luckreunion).\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/4dd496c2b3.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/9131f124e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-17T22:37:49-05:00",
 				"url": "https://whispers.micahrl.com/2023/03/17/blue-skies-sierra.html"
 			},
@@ -218,7 +242,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/15/pls-do-not.html",
 				
 				"content_html": "<p>PLS DO NOT TAKE</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "PLS DO NOT TAKE\n\n<img src=\"uploads/2023/e140fe4768.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/232337a204.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "PLS DO NOT TAKE\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/e140fe4768.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/232337a204.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-15T19:10:53-05:00",
 				"url": "https://whispers.micahrl.com/2023/03/15/pls-do-not.html"
 			},
@@ -234,7 +258,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/13/circa-or-so.html",
 				
 				"content_html": "<p>Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.\n\n<img src=\"uploads/2023/fcef8762b3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/fcef8762b3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-03-13T20:21:47-05:00",
 				"url": "https://whispers.micahrl.com/2023/03/13/circa-or-so.html"
 			},
