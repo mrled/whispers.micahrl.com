@@ -24,16 +24,41 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://whispers.micahrl.com/2024/08/02/accepting-comments-via.html">Accepting comments via access.log</a></h1>
+		
 
-		<a href="https://whispers.micahrl.com/2024/07/19/i-learned-in.html" class="u-url"><time class="dt-published" datetime="2024-07-22 11:40:28 -0500">Jul 22, 2024</time></a>
+		<a href="https://whispers.micahrl.com/2024/08/02/accepting-comments-via.html" class="u-url"><time class="dt-published" datetime="2024-08-02 14:20:04 -0500">Aug 2, 2024</time></a>
 
 		<div class="e-content">
-			 <p>I learned in the &lt;<a href="https://reflector.show">reflector.show</a>&gt; episodes about the Young Thug trial that a televangelist in the 80s <a href="https://www.latimes.com/archives/la-xpm-1986-08-03-ca-1235-story.html">said</a> that &ldquo;music is the new pornography&rdquo;, and for a second I understood why one might call one&rsquo;s band &ldquo;The New Pornographers&rdquo;, but <a href="https://web.archive.org/web/20071014111806/http://www.glidemagazine.com/Articles/47784/The-New-Pornographers:-Canadian-Blockbuster.html">no</a>, it actually makes as much sense as I originally thought (none).</p>
+			 <p>I am somewhat dissatisfied with the comments server on my <a href="https://me.micahrl.com">main website</a>, and have been hunting for alternatives. The most cursed thing I&rsquo;ve seen so far is <a href="https://news.ycombinator.com/item?id=34376934">this</a>:</p>
+<blockquote>
+<p>I implemented static HTML comments on my website by tail&rsquo;ing the /var/logs/nginx/access.log with a perl script. No CGI, no database, just the actual text of the comments stored as a single comment per line in a .html file.</p>
+<p>To comment a visitor takes any url on the domain and appends &ldquo;/@say/&rdquo;. Like <a href="http://notmyurl.com/somepage.html/@say/Some">notmyurl.com/somepage&hellip;.</a> response to somepage. Or &ldquo;&hellip;lakephoto.jpg/@say/Cool fish! How long was it?&rdquo;</p>
+<p>The perl script sees the /@say/ in the logs and adds the parsed out and sanitized comment to an .html file. There&rsquo;s some nginx location hijinks for matching /@say/ URLs that goes to a confirmation page and redirects to the comment listing page.</p>
+</blockquote>
+<p>&hellip;</p>
+<blockquote>
+<p>I&rsquo;ve used this comment system on my tor onion services sites for the last decade. I get plenty of people trying to exploit it. It&rsquo;s kind of fun. If the Tor folk haven&rsquo;t pwned it I doubt the HN folk will. Not for lack of skill but mostly a lack of motivation relative to the tor folk.</p>
+</blockquote>
+<p>I do not plan to do this but I also do not plan to avoid doing this, should the opportunity arise.</p>
 
 		</div>
 	  </div>
 	
 	  <div class="h-entry">
+		
+
+		<a href="https://whispers.micahrl.com/2024/07/19/i-learned-in.html" class="u-url"><time class="dt-published" datetime="2024-07-22 11:40:28 -0500">Jul 22, 2024</time></a>
+
+		<div class="e-content">
+			 <p>I learned in the <a href="https://reflector.show">reflector.show</a> episodes about the Young Thug trial that a televangelist in the 80s <a href="https://www.latimes.com/archives/la-xpm-1986-08-03-ca-1235-story.html">said</a> that &ldquo;music is the new pornography&rdquo;, and for a second I understood why one might call one&rsquo;s band &ldquo;The New Pornographers&rdquo;, but <a href="https://web.archive.org/web/20071014111806/http://www.glidemagazine.com/Articles/47784/The-New-Pornographers:-Canadian-Blockbuster.html">no</a>, it actually makes as much sense as I originally thought (none).</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://whispers.micahrl.com/2024/06/29/how-to-install.html">The secret `brew install` algorithm</a></h1>
 		
 
 		<a href="https://whispers.micahrl.com/2024/06/29/how-to-install.html" class="u-url"><time class="dt-published" datetime="2024-06-29 10:27:41 -0500">Jun 29, 2024</time></a>
