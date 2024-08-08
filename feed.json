@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2024/08/08/stuff-like-this.html",
+				
+				"content_html": "<p>Stuff like <a href=\"https://shop.pimoroni.com/products/picosystem?variant=32369546985555\">this</a> makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Stuff like [this](https://shop.pimoroni.com/products/picosystem?variant=32369546985555) makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.\n\n<img src=\"uploads/2024/picosystem-dark-square-1-768x768-crop-center.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-08T10:21:05-05:00",
+				"url": "https://whispers.micahrl.com/2024/08/08/stuff-like-this.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/08/04/recently-reminded-of.html",
+				
+				"content_html": "<p>Recently reminded of the <a href=\"http://itre.cis.upenn.edu/~myl/languagelog/archives/002621.html\">Trent Reznor Prize For Tricky Embedding</a>, for which <a href=\"https://languagelog.ldc.upenn.edu/nll/?p=54300\">nominations</a> continue into the 2020s.</p>\n",
+				"content_text": "Recently reminded of the [Trent Reznor Prize For Tricky Embedding](http://itre.cis.upenn.edu/~myl/languagelog/archives/002621.html), for which [nominations](https://languagelog.ldc.upenn.edu/nll/?p=54300) continue into the 2020s.\n",
+				"date_published": "2024-08-04T07:33:45-05:00",
+				"url": "https://whispers.micahrl.com/2024/08/04/recently-reminded-of.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2024/08/02/accepting-comments-via.html",
 				"title": "Accepting comments via access.log",
 				"content_html": "<p>I am somewhat dissatisfied with the comments server on my <a href=\"https://me.micahrl.com\">main website</a>, and have been hunting for alternatives. The most cursed thing I&rsquo;ve seen so far is <a href=\"https://news.ycombinator.com/item?id=34376934\">this</a>:</p>\n<blockquote>\n<p>I implemented static HTML comments on my website by tail&rsquo;ing the /var/logs/nginx/access.log with a perl script. No CGI, no database, just the actual text of the comments stored as a single comment per line in a .html file.</p>\n<p>To comment a visitor takes any url on the domain and appends &ldquo;/@say/&rdquo;. Like <a href=\"http://notmyurl.com/somepage.html/@say/Some\">notmyurl.com/somepage&hellip;.</a> response to somepage. Or &ldquo;&hellip;lakephoto.jpg/@say/Cool fish! How long was it?&rdquo;</p>\n<p>The perl script sees the /@say/ in the logs and adds the parsed out and sanitized comment to an .html file. There&rsquo;s some nginx location hijinks for matching /@say/ URLs that goes to a confirmation page and redirects to the comment listing page.</p>\n</blockquote>\n<p>&hellip;</p>\n<blockquote>\n<p>I&rsquo;ve used this comment system on my tor onion services sites for the last decade. I get plenty of people trying to exploit it. It&rsquo;s kind of fun. If the Tor folk haven&rsquo;t pwned it I doubt the HN folk will. Not for lack of skill but mostly a lack of motivation relative to the tor folk.</p>\n</blockquote>\n<p>I do not plan to do this but I also do not plan to avoid doing this, should the opportunity arise.</p>\n",
