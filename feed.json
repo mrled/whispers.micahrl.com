@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2024/08/15/shiftwidth.html",
+				"title": "shiftwidth=3",
+				"content_html": "<p>Like everyone, I have my own code formatting opinions. Whenever the urge to share them gets too great, I try to keep in mind the senior architect from many jobs ago who believed that the best tab width was 3. I suspect that some state education agencies still run scripts indented to three spaces.</p>\n",
+				"content_text": "Like everyone, I have my own code formatting opinions. Whenever the urge to share them gets too great, I try to keep in mind the senior architect from many jobs ago who believed that the best tab width was 3. I suspect that some state education agencies still run scripts indented to three spaces.\n",
+				"date_published": "2024-08-15T11:06:33-05:00",
+				"url": "https://whispers.micahrl.com/2024/08/15/shiftwidth.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/08/11/made-a-mezcal.html",
+				
+				"content_html": "<p>Made a mezcal old fashioned (mezcal, orange bitters, Agave syrup) again, but added a pinch of salt for the first time tonight. Deliciousness metric improved ~30%.</p>\n",
+				"content_text": "Made a mezcal old fashioned (mezcal, orange bitters, Agave syrup) again, but added a pinch of salt for the first time tonight. Deliciousness metric improved ~30%.\n",
+				"date_published": "2024-08-11T23:28:06-05:00",
+				"url": "https://whispers.micahrl.com/2024/08/11/made-a-mezcal.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2024/08/08/stuff-like-this.html",
 				
 				"content_html": "<p>Stuff like <a href=\"https://shop.pimoroni.com/products/picosystem?variant=32369546985555\">this</a> makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.</p>\n<!-- raw HTML omitted -->\n",
