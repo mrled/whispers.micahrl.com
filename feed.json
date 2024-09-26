@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2024/09/25/the-reason-its.html",
+				
+				"content_html": "<p>The reason it&rsquo;s hard to draw a line in the sand to <a href=\"https://www.astralcodexten.com/p/sakana-strawberry-and-scary-ai?\">determine</a> the line for &ldquo;true&rdquo; artificial intelligence is not because it&rsquo;s hard to recognize intelligence, but because it is hard to know ourselves. &ldquo;What will it feel like when &hellip;?&rdquo; sounds easy but is actually fortune telling.</p>\n",
+				"content_text": "The reason it's hard to draw a line in the sand to [determine](https://www.astralcodexten.com/p/sakana-strawberry-and-scary-ai?) the line for \"true\" artificial intelligence is not because it's hard to recognize intelligence, but because it is hard to know ourselves. \"What will it feel like when ...?\" sounds easy but is actually fortune telling.\n",
+				"date_published": "2024-09-25T23:16:46-05:00",
+				"url": "https://whispers.micahrl.com/2024/09/25/the-reason-its.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/08/19/i-wish-my.html",
+				
+				"content_html": "<p>I wish my podcast player did automatic text transcription - even a bad LLM would be okay, and even paying a cloud LLM per request would be ok. I also wish it let me mark a timestamp as important so I could go back and find it later.</p>\n",
+				"content_text": "I wish my podcast player did automatic text transcription - even a bad LLM would be okay, and even paying a cloud LLM per request would be ok. I also wish it let me mark a timestamp as important so I could go back and find it later.\n",
+				"date_published": "2024-08-19T22:30:42-05:00",
+				"url": "https://whispers.micahrl.com/2024/08/19/i-wish-my.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2024/08/15/shiftwidth.html",
 				"title": "shiftwidth=3",
 				"content_html": "<p>Like everyone, I have my own code formatting opinions. Whenever the urge to share them gets too great, I try to keep in mind the senior architect from many jobs ago who believed that the best tab width was 3. I suspect that some state education agencies still run scripts indented to three spaces.</p>\n",
