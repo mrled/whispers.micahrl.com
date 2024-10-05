@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2024/10/04/theres-nothing-important.html",
+				
+				"content_html": "<p>There&rsquo;s nothing important left unsaid because it&rsquo;s too hard to write online. Nothing wrong with it being even easier, but for decades it&rsquo;s been the moral equivalent of single-cent bid/ask spreads.</p>\n",
+				"content_text": "There's nothing important left unsaid because it's too hard to write online. Nothing wrong with it being even easier, but for decades it's been the moral equivalent of single-cent bid/ask spreads.\n",
+				"date_published": "2024-10-04T23:59:35-05:00",
+				"url": "https://whispers.micahrl.com/2024/10/04/theres-nothing-important.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/09/30/nominitive-determinism-openai.html",
+				"title": "Nominitive determinism, OpenAI edition",
+				"content_html": "<p>Enjoying the alternatives to human intelligence brought to us by the Alt Man</p>\n",
+				"content_text": "Enjoying the alternatives to human intelligence brought to us by the Alt Man\n",
+				"date_published": "2024-09-30T19:27:46-05:00",
+				"url": "https://whispers.micahrl.com/2024/09/30/nominitive-determinism-openai.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2024/09/25/the-reason-its.html",
 				
 				"content_html": "<p>The reason it&rsquo;s hard to draw a line in the sand to <a href=\"https://www.astralcodexten.com/p/sakana-strawberry-and-scary-ai?\">determine</a> the line for &ldquo;true&rdquo; artificial intelligence is not because it&rsquo;s hard to recognize intelligence, but because it is hard to know ourselves. &ldquo;What will it feel like when &hellip;?&rdquo; sounds easy but is actually fortune telling.</p>\n",
