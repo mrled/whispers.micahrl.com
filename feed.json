@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2024/10/11/i-cannot-abide.html",
+				
+				"content_html": "<p>I cannot abide the hideous portmanteau &ldquo;transpile&rdquo;, sewn together as it is from two words which would perfectly convey the intent in every single case, created intentionally as a distinction without a difference.</p>\n",
+				"content_text": "I cannot abide the hideous portmanteau \"transpile\", sewn together as it is from two words which would perfectly convey the intent in every single case, created intentionally as a distinction without a difference.\n",
+				"date_published": "2024-10-11T10:02:58-05:00",
+				"url": "https://whispers.micahrl.com/2024/10/11/i-cannot-abide.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2024/10/04/theres-nothing-important.html",
 				
 				"content_html": "<p>There&rsquo;s nothing important left unsaid because it&rsquo;s too hard to write online. Nothing wrong with it being even easier, but for decades it&rsquo;s been the moral equivalent of single-cent bid/ask spreads.</p>\n",
