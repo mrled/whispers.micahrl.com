@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2024/10/28/finally-the-web.html",
+				
+				"content_html": "<p>Finally, the web is taking cues from the best UX in the world (PBX phone trees)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Finally, the web is taking cues from the best UX in the world (PBX phone trees)\n\n<img src=\"uploads/2024/screenshot-2024-10-07-at-10.40.37.png\" width=\"600\" height=\"184\" alt=\"\">\n",
+				"date_published": "2024-10-28T15:43:55-05:00",
+				"url": "https://whispers.micahrl.com/2024/10/28/finally-the-web.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/10/14/i-miss-twitter.html",
+				
+				"content_html": "<p>I miss Twitter bots. Wish fediverse hosting was easier&hellip; not sure I care to be manually approved for botsin.space 🙄 or for that matter to register a new account on any hosted server for every silly bot idea I can think of. It should be as easy as RSS.</p>\n",
+				"content_text": "I miss Twitter bots. Wish fediverse hosting was easier... not sure I care to be manually approved for botsin.space 🙄 or for that matter to register a new account on any hosted server for every silly bot idea I can think of. It should be as easy as RSS.\n",
+				"date_published": "2024-10-14T20:35:53-05:00",
+				"url": "https://whispers.micahrl.com/2024/10/14/i-miss-twitter.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2024/10/11/i-cannot-abide.html",
 				
 				"content_html": "<p>I cannot abide the hideous portmanteau &ldquo;transpile&rdquo;, sewn together as it is from two words which would perfectly convey the intent in every single case, created intentionally as a distinction without a difference.</p>\n",
@@ -66,7 +82,7 @@
 				"id": "http://micahrl.micro.blog/2024/08/08/stuff-like-this.html",
 				
 				"content_html": "<p>Stuff like <a href=\"https://shop.pimoroni.com/products/picosystem?variant=32369546985555\">this</a> makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Stuff like [this](https://shop.pimoroni.com/products/picosystem?variant=32369546985555) makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.\n\n<img src=\"uploads/2024/picosystem-dark-square-1-768x768-crop-center.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Stuff like [this](https://shop.pimoroni.com/products/picosystem?variant=32369546985555) makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/picosystem-dark-square-1-768x768-crop-center.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-08T10:21:05-05:00",
 				"url": "https://whispers.micahrl.com/2024/08/08/stuff-like-this.html"
 			},
@@ -202,7 +218,7 @@
 				"id": "http://micahrl.micro.blog/2024/05/06/patterns.html",
 				
 				"content_html": "<p>Patterns</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Patterns\n\n<img src=\"uploads/2024/img-8106.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/img-8105.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Patterns\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/img-8106.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2024/img-8105.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-05-06T23:46:19-05:00",
 				"url": "https://whispers.micahrl.com/2024/05/06/patterns.html"
 			},
@@ -258,7 +274,7 @@
 				"id": "http://micahrl.micro.blog/2023/05/23/i-am-seeing.html",
 				
 				"content_html": "<p>I am seeing more and more bad hyphenation recently, this is just so sad :(</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I am seeing more and more bad hyphenation recently, this is just so sad :( \n\n<img src=\"uploads/2023/a043cd4e0a.jpg\" width=\"600\" height=\"242\" alt=\"\">\n",
+				"content_text": "I am seeing more and more bad hyphenation recently, this is just so sad :( \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/a043cd4e0a.jpg\" width=\"600\" height=\"242\" alt=\"\">\n",
 				"date_published": "2023-05-23T13:19:02-05:00",
 				"url": "https://whispers.micahrl.com/2023/05/23/i-am-seeing.html"
 			},
@@ -314,7 +330,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/17/blue-skies-sierra.html",
 				
 				"content_html": "<p>Blue skies, Sierra Ferrel, chickenshit bingo. Thanks <a href=\"https://luckpresents.com/luck-tx-events/2023luckreunion\">Luck</a>.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Blue skies, Sierra Ferrel, chickenshit bingo. Thanks [Luck](https://luckpresents.com/luck-tx-events/2023luckreunion).\n\n<img src=\"uploads/2023/4dd496c2b3.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"uploads/2023/9131f124e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Blue skies, Sierra Ferrel, chickenshit bingo. Thanks [Luck](https://luckpresents.com/luck-tx-events/2023luckreunion).\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/4dd496c2b3.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/9131f124e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-17T22:37:49-05:00",
 				"url": "https://whispers.micahrl.com/2023/03/17/blue-skies-sierra.html"
 			},
@@ -338,7 +354,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/15/pls-do-not.html",
 				
 				"content_html": "<p>PLS DO NOT TAKE</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "PLS DO NOT TAKE\n\n<img src=\"uploads/2023/e140fe4768.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/232337a204.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "PLS DO NOT TAKE\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/e140fe4768.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/232337a204.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-15T19:10:53-05:00",
 				"url": "https://whispers.micahrl.com/2023/03/15/pls-do-not.html"
 			},
@@ -354,7 +370,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/13/circa-or-so.html",
 				
 				"content_html": "<p>Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.\n\n<img src=\"uploads/2023/fcef8762b3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/fcef8762b3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-03-13T20:21:47-05:00",
 				"url": "https://whispers.micahrl.com/2023/03/13/circa-or-so.html"
 			},
