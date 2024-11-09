@@ -7,10 +7,26 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2024/11/09/in-the-cloud.html",
+				
+				"content_html": "<p>In the cloud, you must pay the piper, who, one must always remember, charges more than you&rsquo;d expect for egress</p>\n",
+				"content_text": "In the cloud, you must pay the piper, who, one must always remember, charges more than you'd expect for egress\n",
+				"date_published": "2024-11-09T00:14:16-05:00",
+				"url": "https://whispers.micahrl.com/2024/11/09/in-the-cloud.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/10/28/last-night-at.html",
+				
+				"content_html": "<p>Last night at Lazarus</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Last night at Lazarus\n\n<img src=\"uploads/2024/6c51543ade.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-28T15:46:04-05:00",
+				"url": "https://whispers.micahrl.com/2024/10/28/last-night-at.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2024/10/28/finally-the-web.html",
 				
-				"content_html": "<p>Finally, the web is taking cues from the best UX in the world (PBX phone trees)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finally, the web is taking cues from the best UX in the world (PBX phone trees)\n\n<img src=\"uploads/2024/screenshot-2024-10-07-at-10.40.37.png\" width=\"600\" height=\"184\" alt=\"\">\n",
+				"content_html": "<p>Finally, the web is taking cues from the best UX in the world (PBX phone trees)</p>\n<!-- raw HTML omitted -->\n<p>(to be clear you have to type &ldquo;1&rdquo; or &ldquo;2&rdquo; in the little box and then click the button with your mouse)</p>\n",
+				"content_text": "Finally, the web is taking cues from the best UX in the world (PBX phone trees)\n\n<img src=\"uploads/2024/screenshot-2024-10-07-at-10.40.37.png\" width=\"600\" height=\"184\" alt=\"\">\n\n(to be clear you have to type \"1\" or \"2\" in the little box and then click the button with your mouse)\n",
 				"date_published": "2024-10-28T15:43:55-05:00",
 				"url": "https://whispers.micahrl.com/2024/10/28/finally-the-web.html"
 			},
