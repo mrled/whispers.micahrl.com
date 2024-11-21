@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2024/11/20/for-readability.html",
+				"title": "For readability",
+				"content_html": "<p>Defenders of short lines in source code have won the day when it comes to defaults from automatic formatters, but when I look at the results I don&rsquo;t understand why. The last 6 lines here are the same as the first 14, and it looks much more readable to me.</p>\n<!-- raw HTML omitted -->\n<p>I don&rsquo;t mind this as a proverb, but like many proverbs, it would benefit from an equal and opposite counter-proverb.</p>\n<!-- raw HTML omitted -->\n<p>Perhaps:</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "Defenders of short lines in source code have won the day when it comes to defaults from automatic formatters, but when I look at the results I don't understand why. The last 6 lines here are the same as the first 14, and it looks much more readable to me.\r\n\r\n<figure style=\"margin-left: 2em;\">\r\n<blockquote>\r\nFor readability we recommend against using more than 80 characters\r\n</blockquote>\r\n<figcaption style=\"margin-left: 1em\">\r\n— <a href=\"https://prettier.io/docs/en/options.html\">prettier</a>\r\n</figcaption>\r\n</figure>\r\n\r\n\r\nI don't mind this as a proverb, but like many proverbs, it would benefit from an equal and opposite counter-proverb.\r\n\r\n<figure style=\"margin-left: 2em;\">\r\n<blockquote>\r\n4 Answer not a fool according to his folly, lest thou also be like unto him.<br/>\r\n5 Answer a fool according to his folly, lest he be wise in his own conceit.\r\n</blockquote>\r\n<figcaption style=\"margin-left: 1em\">\r\n— <a href=\"https://www.biblegateway.com/passage/?search=Proverbs+26%3A4-5&version=KJV\">Proverbs 26:4-5</a>\r\n</figcaption>\r\n</figure>\r\n\r\nPerhaps:\r\n\r\n<figure style=\"margin-left: 2em;\">\r\n<blockquote>\r\nFor readability, break lines at 80 characters.<br/>\r\nFor readability, do not break statements into multiple lines.\r\n</blockquote>\r\n</figure>\n\n<img src=\"uploads/2024/screenshot-2024-11-20-at-10.02.01.png\" width=\"600\" height=\"294\" alt=\"\">\n",
+				"date_published": "2024-11-20T21:05:40-06:00",
+				"url": "https://whispers.micahrl.com/2024/11/20/for-readability.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2024/11/13/is-there-any.html",
 				
 				"content_html": "<p>Are there any positive effects of a system full of demons which you can ward off with an incantation beginning with THE SOFTWARE IS PROVIDED &ldquo;AS IS&rdquo; ? If yes, what are they?</p>\n",
