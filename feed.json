@@ -7,10 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2024/12/11/if-i-understand.html",
+				
+				"content_html": "<p>if i understand correctly, a.m. stands for after midnight and p.m. stands for pre midnight</p>\n",
+				"content_text": "if i understand correctly, a.m. stands for after midnight and p.m. stands for pre midnight\n",
+				"date_published": "2024-12-11T20:15:16-06:00",
+				"url": "https://whispers.micahrl.com/2024/12/11/if-i-understand.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/11/25/signing-in-just.html",
+				
+				"content_html": "<p>&ldquo;Signing in just got easier!&rdquo;, the website threatened</p>\n",
+				"content_text": "\"Signing in just got easier!\", the website threatened\r\n",
+				"date_published": "2024-11-25T17:40:26-06:00",
+				"url": "https://whispers.micahrl.com/2024/11/25/signing-in-just.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/11/24/the-ecstasy-of.html",
+				
+				"content_html": "<p>The ecstasy of triumph / The agony of defeat</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "The ecstasy of triumph / The agony of defeat\n\n<img src=\"uploads/2024/acd01f61bb.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/31c24175a1.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-11-24T13:39:45-06:00",
+				"url": "https://whispers.micahrl.com/2024/11/24/the-ecstasy-of.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2024/11/22/bluesky-has-such.html",
+				
+				"content_html": "<p>Bluesky has such a nice web experience (&ldquo;even&rdquo; on mobile), responding instantly and scrolling beautifully; I groan whenever I load a Mastodon or Twitter webpage. I do not have a Bluesky-shaped hole in my soul, but damned if the nice web experience doesn&rsquo;t make me want to try it out.</p>\n",
+				"content_text": "Bluesky has such a nice web experience (\"even\" on mobile), responding instantly and scrolling beautifully; I groan whenever I load a Mastodon or Twitter webpage. I do not have a Bluesky-shaped hole in my soul, but damned if the nice web experience doesn't make me want to try it out.\n",
+				"date_published": "2024-11-22T09:39:09-06:00",
+				"url": "https://whispers.micahrl.com/2024/11/22/bluesky-has-such.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2024/11/20/for-readability.html",
 				"title": "For readability",
-				"content_html": "<p>Defenders of short lines in source code have won the day when it comes to defaults from automatic formatters, but when I look at the results I don&rsquo;t understand why. The last 6 lines here are the same as the first 14, and it looks much more readable to me.</p>\n<!-- raw HTML omitted -->\n<p>I don&rsquo;t mind this as a proverb, but like many proverbs, it would benefit from an equal and opposite counter-proverb.</p>\n<!-- raw HTML omitted -->\n<p>Perhaps:</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Defenders of short lines in source code have won the day when it comes to defaults from automatic formatters, but when I look at the results I don't understand why. The last 6 lines here are the same as the first 14, and it looks much more readable to me.\r\n\r\n<figure style=\"margin-left: 2em;\">\r\n<blockquote>\r\nFor readability we recommend against using more than 80 characters\r\n</blockquote>\r\n<figcaption style=\"margin-left: 1em\">\r\n— <a href=\"https://prettier.io/docs/en/options.html\">prettier</a>\r\n</figcaption>\r\n</figure>\r\n\r\n\r\nI don't mind this as a proverb, but like many proverbs, it would benefit from an equal and opposite counter-proverb.\r\n\r\n<figure style=\"margin-left: 2em;\">\r\n<blockquote>\r\n4 Answer not a fool according to his folly, lest thou also be like unto him.<br/>\r\n5 Answer a fool according to his folly, lest he be wise in his own conceit.\r\n</blockquote>\r\n<figcaption style=\"margin-left: 1em\">\r\n— <a href=\"https://www.biblegateway.com/passage/?search=Proverbs+26%3A4-5&version=KJV\">Proverbs 26:4-5</a>\r\n</figcaption>\r\n</figure>\r\n\r\nPerhaps:\r\n\r\n<figure style=\"margin-left: 2em;\">\r\n<blockquote>\r\nFor readability, break lines at 80 characters.<br/>\r\nFor readability, do not break statements into multiple lines.\r\n</blockquote>\r\n</figure>\n\n<img src=\"uploads/2024/screenshot-2024-11-20-at-10.02.01.png\" width=\"600\" height=\"294\" alt=\"\">\n",
+				"content_html": "<p>Defenders of short lines in source code have won the day when it comes to defaults from automatic formatters, but when I look at the results I don&rsquo;t understand why. The last 6 lines here are the same as the first 14, and it looks much more readable to me.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>I don&rsquo;t mind this as a proverb, but like many proverbs, it would benefit from an equal and opposite counter-proverb.</p>\n<!-- raw HTML omitted -->\n<p>Perhaps:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Defenders of short lines in source code have won the day when it comes to defaults from automatic formatters, but when I look at the results I don't understand why. The last 6 lines here are the same as the first 14, and it looks much more readable to me.\n\n<img src=\"uploads/2024/screenshot-2024-11-20-at-10.02.01.png\" width=\"600\" height=\"294\" alt=\"\">\n\n<hr/>\n\n<figure style=\"margin-left: 2em;\">\n<blockquote>\nFor readability we recommend against using more than 80 characters\n</blockquote>\n<figcaption style=\"margin-left: 1em\">\n— <a href=\"https://prettier.io/docs/en/options.html\">prettier</a>\n</figcaption>\n</figure>\n\n\nI don't mind this as a proverb, but like many proverbs, it would benefit from an equal and opposite counter-proverb.\n\n<figure style=\"margin-left: 2em;\">\n<blockquote>\n4 Answer not a fool according to his folly, lest thou also be like unto him.<br/>\n5 Answer a fool according to his folly, lest he be wise in his own conceit.\n</blockquote>\n<figcaption style=\"margin-left: 1em\">\n— <a href=\"https://www.biblegateway.com/passage/?search=Proverbs+26%3A4-5&version=KJV\">Proverbs 26:4-5</a>\n</figcaption>\n</figure>\n\nPerhaps:\n\n<figure style=\"margin-left: 2em;\">\n<blockquote>\nFor readability, break lines at 80 characters.<br/>\nFor readability, do not break statements into multiple lines.\n</blockquote>\n</figure>\n\n",
 				"date_published": "2024-11-20T21:05:40-06:00",
 				"url": "https://whispers.micahrl.com/2024/11/20/for-readability.html"
 			},
@@ -50,7 +82,7 @@
 				"id": "http://micahrl.micro.blog/2024/10/28/last-night-at.html",
 				
 				"content_html": "<p>Last night at Lazarus</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Last night at Lazarus\n\n<img src=\"uploads/2024/6c51543ade.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Last night at Lazarus\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/6c51543ade.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-28T14:46:04-06:00",
 				"url": "https://whispers.micahrl.com/2024/10/28/last-night-at.html"
 			},
@@ -58,7 +90,7 @@
 				"id": "http://micahrl.micro.blog/2024/10/28/finally-the-web.html",
 				
 				"content_html": "<p>Finally, the web is taking cues from the best UX in the world (PBX phone trees)</p>\n<!-- raw HTML omitted -->\n<p>(to be clear you have to type &ldquo;1&rdquo; or &ldquo;2&rdquo; in the little box and then click the button with your mouse)</p>\n",
-				"content_text": "Finally, the web is taking cues from the best UX in the world (PBX phone trees)\n\n<img src=\"uploads/2024/screenshot-2024-10-07-at-10.40.37.png\" width=\"600\" height=\"184\" alt=\"\">\n\n(to be clear you have to type \"1\" or \"2\" in the little box and then click the button with your mouse)\n",
+				"content_text": "Finally, the web is taking cues from the best UX in the world (PBX phone trees)\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/screenshot-2024-10-07-at-10.40.37.png\" width=\"600\" height=\"184\" alt=\"\">\n\n(to be clear you have to type \"1\" or \"2\" in the little box and then click the button with your mouse)\n",
 				"date_published": "2024-10-28T14:43:55-06:00",
 				"url": "https://whispers.micahrl.com/2024/10/28/finally-the-web.html"
 			},
@@ -130,7 +162,7 @@
 				"id": "http://micahrl.micro.blog/2024/08/08/stuff-like-this.html",
 				
 				"content_html": "<p>Stuff like <a href=\"https://shop.pimoroni.com/products/picosystem?variant=32369546985555\">this</a> makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Stuff like [this](https://shop.pimoroni.com/products/picosystem?variant=32369546985555) makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.\n\n<img src=\"uploads/2024/picosystem-dark-square-1-768x768-crop-center.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Stuff like [this](https://shop.pimoroni.com/products/picosystem?variant=32369546985555) makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/picosystem-dark-square-1-768x768-crop-center.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-08T09:21:05-06:00",
 				"url": "https://whispers.micahrl.com/2024/08/08/stuff-like-this.html"
 			},
@@ -266,7 +298,7 @@
 				"id": "http://micahrl.micro.blog/2024/05/06/patterns.html",
 				
 				"content_html": "<p>Patterns</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Patterns\n\n<img src=\"uploads/2024/img-8106.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/img-8105.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Patterns\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/img-8106.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2024/img-8105.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-05-06T22:46:19-06:00",
 				"url": "https://whispers.micahrl.com/2024/05/06/patterns.html"
 			},
@@ -322,7 +354,7 @@
 				"id": "http://micahrl.micro.blog/2023/05/23/i-am-seeing.html",
 				
 				"content_html": "<p>I am seeing more and more bad hyphenation recently, this is just so sad :(</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I am seeing more and more bad hyphenation recently, this is just so sad :( \n\n<img src=\"uploads/2023/a043cd4e0a.jpg\" width=\"600\" height=\"242\" alt=\"\">\n",
+				"content_text": "I am seeing more and more bad hyphenation recently, this is just so sad :( \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/a043cd4e0a.jpg\" width=\"600\" height=\"242\" alt=\"\">\n",
 				"date_published": "2023-05-23T12:19:02-06:00",
 				"url": "https://whispers.micahrl.com/2023/05/23/i-am-seeing.html"
 			},
@@ -378,7 +410,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/17/blue-skies-sierra.html",
 				
 				"content_html": "<p>Blue skies, Sierra Ferrel, chickenshit bingo. Thanks <a href=\"https://luckpresents.com/luck-tx-events/2023luckreunion\">Luck</a>.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Blue skies, Sierra Ferrel, chickenshit bingo. Thanks [Luck](https://luckpresents.com/luck-tx-events/2023luckreunion).\n\n<img src=\"uploads/2023/4dd496c2b3.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"uploads/2023/9131f124e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Blue skies, Sierra Ferrel, chickenshit bingo. Thanks [Luck](https://luckpresents.com/luck-tx-events/2023luckreunion).\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/4dd496c2b3.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/9131f124e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-17T21:37:49-06:00",
 				"url": "https://whispers.micahrl.com/2023/03/17/blue-skies-sierra.html"
 			},
@@ -402,7 +434,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/15/pls-do-not.html",
 				
 				"content_html": "<p>PLS DO NOT TAKE</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "PLS DO NOT TAKE\n\n<img src=\"uploads/2023/e140fe4768.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/232337a204.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "PLS DO NOT TAKE\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/e140fe4768.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/232337a204.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-15T18:10:53-06:00",
 				"url": "https://whispers.micahrl.com/2023/03/15/pls-do-not.html"
 			},
@@ -418,7 +450,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/13/circa-or-so.html",
 				
 				"content_html": "<p>Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.\n\n<img src=\"uploads/2023/fcef8762b3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/fcef8762b3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-03-13T19:21:47-06:00",
 				"url": "https://whispers.micahrl.com/2023/03/13/circa-or-so.html"
 			},
