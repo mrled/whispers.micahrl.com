@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2025/01/10/been-a-gandi-customer-since.html",
+				
+				"content_html": "<p>Been a Gandi customer since at least 2009, maybe before. As of today, I&rsquo;m fully migrated off. End of an era.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Been a Gandi customer since at least 2009, maybe before. As of today, I'm fully migrated off. End of an era.\n\n<img src=\"uploads/2025/image.png\" width=\"600\" height=\"272\" alt=\"\">\n",
+				"date_published": "2025-01-10T14:25:03-06:00",
+				"url": "https://whispers.micahrl.com/2025/01/10/been-a-gandi-customer-since.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2025/01/05/i-think-the-funniest-thing.html",
+				
+				"content_html": "<p>I think the funniest thing to me about the <a href=\"https://www.reuters.com/technology/apple-must-face-siri-voice-assistant-privacy-lawsuit-us-judge-2021-09-02/\">Apple privacy lawsuit</a> which was just <a href=\"https://arstechnica.com/tech-policy/2025/01/apple-agrees-to-pay-95m-delete-private-conversations-siri-recorded/\">settled</a> is the notion that guys wearing these things at this restaurant have tastes that could not possibly be predicted by a computer that wasn&rsquo;t cheating.</p>\n<blockquote>\n<p>[two Siri users] said their discussions about Air Jordan sneakers, Pit Viper sunglasses and &ldquo;Olive Garden&rdquo; caused them to receive ads for those products.</p>\n</blockquote>\n",
+				"content_text": "I think the funniest thing to me about the [Apple privacy lawsuit](https://www.reuters.com/technology/apple-must-face-siri-voice-assistant-privacy-lawsuit-us-judge-2021-09-02/) which was just [settled](https://arstechnica.com/tech-policy/2025/01/apple-agrees-to-pay-95m-delete-private-conversations-siri-recorded/) is the notion that guys wearing these things at this restaurant have tastes that could not possibly be predicted by a computer that wasn't cheating.\n\n> [two Siri users] said their discussions about Air Jordan sneakers, Pit Viper sunglasses and \"Olive Garden\" caused them to receive ads for those products.\n",
+				"date_published": "2025-01-05T22:25:23-06:00",
+				"url": "https://whispers.micahrl.com/2025/01/05/i-think-the-funniest-thing.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2025/01/04/ai-chatbot-feature-request-a.html",
+				
+				"content_html": "<p>AI chatbot feature request: a button to summarize the current state of the conversation and any code or other artifacts into a single short message to send to a new chat conversation, to drop baggage of undesirable iterations and reduce token consumption rate.</p>\n",
+				"content_text": "AI chatbot feature request: a button to summarize the current state of the conversation and any code or other artifacts into a single short message to send to a new chat conversation, to drop baggage of undesirable iterations and reduce token consumption rate.\n",
+				"date_published": "2025-01-04T21:36:48-06:00",
+				"url": "https://whispers.micahrl.com/2025/01/04/ai-chatbot-feature-request-a.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2025/01/04/cool-stats-from-the-past.html",
+				
+				"content_html": "<p>Cool stats from the past couple of years</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Cool stats from the past couple of years\n\n<img src=\"uploads/2025/20e2a3b1e9.jpg\" width=\"337\" height=\"600\" alt=\"\"><img src=\"uploads/2025/983fdf939f.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-01-04T21:33:17-06:00",
+				"url": "https://whispers.micahrl.com/2025/01/04/cool-stats-from-the-past.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2025/01/01/new-years-day-brunch-mini.html",
 				
 				"content_html": "<p>New Years Day brunch, mini baked potatoes and caviar</p>\n<!-- raw HTML omitted -->\n",
