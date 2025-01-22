@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2025/01/22/the-most-inscrutable-icons-in.html",
+				
+				"content_html": "<p>The most inscrutable icons in my dock are in the IDE and LLM sections</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The most inscrutable icons in my dock are in the IDE and LLM sections\n\n<img src=\"uploads/2025/91b70e0db2.png\" width=\"600\" height=\"124\" alt=\"\">\n",
+				"date_published": "2025-01-22T17:23:57-06:00",
+				"url": "https://whispers.micahrl.com/2025/01/22/the-most-inscrutable-icons-in.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2025/01/21/opening-a-project-that-has.html",
+				
+				"content_html": "<p>Opening a project that has been only in <a href=\"https://zed.dev/\">zed</a> inside other editors and it looks SO wrong. Not just Zed&rsquo;s <a href=\"https://github.com/zed-industries/zed-fonts\">own font</a>, but theme too, I guess. My eyes glaze over and I don&rsquo;t want to read the code. Feels like one experience I had reading an ancient Python codebase that wrapped a C library. Weird.</p>\n",
+				"content_text": "Opening a project that has been only in [zed](https://zed.dev/) inside other editors and it looks SO wrong. Not just Zed's [own font](https://github.com/zed-industries/zed-fonts), but theme too, I guess. My eyes glaze over and I don't want to read the code. Feels like one experience I had reading an ancient Python codebase that wrapped a C library. Weird.\n",
+				"date_published": "2025-01-21T21:18:51-06:00",
+				"url": "https://whispers.micahrl.com/2025/01/21/opening-a-project-that-has.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2025/01/19/wishlist-good-web-ui-for.html",
+				
+				"content_html": "<p>Wishlist: good web UI for flipping through diffs. I&rsquo;d like to be able to export a few commits to a set of diffs, which I can then show on a webpage in sequence.</p>\n<p>Especially useful for explaining how to build something, or showing LLM changes and how I had to modify them, etc</p>\n",
+				"content_text": "Wishlist: good web UI for flipping through diffs. I'd like to be able to export a few commits to a set of diffs, which I can then show on a webpage in sequence. \n\nEspecially useful for explaining how to build something, or showing LLM changes and how I had to modify them, etc\n",
+				"date_published": "2025-01-19T15:58:21-06:00",
+				"url": "https://whispers.micahrl.com/2025/01/19/wishlist-good-web-ui-for.html"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2025/01/18/i-wish-i-could-give.html",
+				
+				"content_html": "<p>I wish I could give o1 access to a regular Git repo and have it commit its changes in a branch, with my instructions in the commit message. Surely someone else has had this idea? Where can I buy this.</p>\n",
+				"content_text": "I wish I could give o1 access to a regular Git repo and have it commit its changes in a branch, with my instructions in the commit message. Surely someone else has had this idea? Where can I buy this.\n",
+				"date_published": "2025-01-18T15:46:17-06:00",
+				"url": "https://whispers.micahrl.com/2025/01/18/i-wish-i-could-give.html"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2025/01/17/charming-captcha-is-such-a.html",
 				
 				"content_html": "<p>Charming captcha (is such a thing possible?) from LibraryThing</p>\n<!-- raw HTML omitted -->\n",
