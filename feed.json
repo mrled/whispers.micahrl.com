@@ -7,636 +7,668 @@
 	"items": [
 		
 			{
-				"id": "http://micahrl.micro.blog/2025/01/26/why-is-the-us-government.html",
+				"id": "http://micahrl.micro.blog/2025/03/16/you-know-the-calendar-view/",
+				
+				"content_html": "<p>You know, the calendar view that I would prefer is a nine day week+ view, starting on Saturday and ending on the Sunday of the following weekend. The final weekend is never the current day, ensuring your week view <em>always</em> is showing you what&rsquo;s happening at least the next couple of days.</p>\n",
+				"content_text": "You know, the calendar view that I would prefer is a nine day week+ view, starting on Saturday and ending on the Sunday of the following weekend. The final weekend is never the current day, ensuring your week view _always_ is showing you what's happening at least the next couple of days.\n",
+				"date_published": "2025-03-16T19:51:46-05:00",
+				"url": "https://whispers.micahrl.com/2025/03/16/you-know-the-calendar-view/"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2025/02/10/earthquakes/",
+				"title": "Earthquakes",
+				"content_html": "<p>For a while, it felt like I could read everything on the Internet that I cared about, that I could follow every interesting blog, keep up with every interesting idea. It feels like that changed at some point since 2020. My guess is this is related to the cultural tremors rippling through the concrete of society outward from tumblr&hellip; something about the recent re/dis-aggregation of ideas that caused has suddenly meant there are a lot more ideas out there. Too many to keep up with.</p>\n",
+				"content_text": "For a while, it felt like I could read everything on the Internet that I cared about, that I could follow every interesting blog, keep up with every interesting idea. It feels like that changed at some point since 2020. My guess is this is related to the cultural tremors rippling through the concrete of society outward from tumblr... something about the recent re/dis-aggregation of ideas that caused has suddenly meant there are a lot more ideas out there. Too many to keep up with.\n",
+				"date_published": "2025-02-10T11:57:22-05:00",
+				"url": "https://whispers.micahrl.com/2025/02/10/earthquakes/"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2025/02/09/cordwifto-part/",
+				"title": "Cordwifto Part 2",
+				"content_html": "<p>A screenshot of a web page running in an in-app browser, talking to an in-app <em>webserver</em>, inside an Apache Cordova application running on the iOS simulator. The in-app browser is displaying a site built by Hugo running in-process by way of a Swift wrapper.</p>\n<p>I kind of can&rsquo;t believe I just plugged it all together. Getting the compiled languages to talk to each other was a little difficult, and going from zero to one in Cordova took a little while, but really the whole thing&hellip; works. It&rsquo;s kind of a weird program in that all this functionality exists I just have to snap it together like Lego bricks.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A screenshot of a web page running in an in-app browser, talking to an in-app _webserver_, inside an Apache Cordova application running on the iOS simulator. The in-app browser is displaying a site built by Hugo running in-process by way of a Swift wrapper.\r\n\r\nI kind of can't believe I just plugged it all together. Getting the compiled languages to talk to each other was a little difficult, and going from zero to one in Cordova took a little while, but really the whole thing... works. It's kind of a weird program in that all this functionality exists I just have to snap it together like Lego bricks.\r\n\n\n<img src=\"uploads/2025/screenshot-2025-02-09-at-15.48.57.png\" width=\"314\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-02-09T16:51:36-05:00",
+				"url": "https://whispers.micahrl.com/2025/02/09/cordwifto-part/"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2025/02/08/cordwifto/",
+				"title": "Cordwifto",
+				"content_html": "<p>I embedded Hugo in a Go library in a Swift library in a Cordova plugin in a Cordova app to see if it would work. Looks like it does. That&rsquo;s Hugo logging to a <code>&lt;textarea&gt;</code> and generating a static HTML page on the iPhone simulator.</p>\n<p>Had this idea that it would be neat to be able to make an iPhone blog client that could render a new post exactly the way it would be on the site. Not sure if I&rsquo;ll take this anywhere yet.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I embedded Hugo in a Go library in a Swift library in a Cordova plugin in a Cordova app to see if it would work. Looks like it does. That's Hugo logging to a `<textarea>` and generating a static HTML page on the iPhone simulator.\r\n\r\nHad this idea that it would be neat to be able to make an iPhone blog client that could render a new post exactly the way it would be on the site. Not sure if I'll take this anywhere yet.\n\n<img src=\"uploads/2025/screenshot-2025-02-08-at-17.11.41.png\" width=\"302\" height=\"600\" alt=\"\"><img src=\"uploads/2025/screenshot-2025-02-08-at-17.13.10.png\" width=\"314\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-02-08T22:27:01-05:00",
+				"url": "https://whispers.micahrl.com/2025/02/08/cordwifto/"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2025/01/26/why-is-the-us-government/",
 				
 				"content_html": "<p>why is the US government wasting its time with a tiktok ban when there are REAL problems with chinese apps????</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "why is the US government wasting its time with a tiktok ban when there are REAL problems with chinese apps????\n\n<img src=\"uploads/2025/3f3f289e2a.png\" width=\"600\" height=\"209\" alt=\"\">\n",
-				"date_published": "2025-01-26T13:04:47-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/26/why-is-the-us-government.html"
+				"date_published": "2025-01-26T14:04:47-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/26/why-is-the-us-government/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/01/25/my-first-sunrise-of-the.html",
+				"id": "http://micahrl.micro.blog/2025/01/25/my-first-sunrise-of-the/",
 				
 				"content_html": "<p>My first sunrise of the year this morning at Mueller Lake Park&hellip; planning to see one every month 🌅</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "My first sunrise of the year this morning at Mueller Lake Park... planning to see one every month 🌅\n\n<img src=\"uploads/2025/4d7c9f7f70.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-01-25T19:47:31-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/25/my-first-sunrise-of-the.html"
+				"date_published": "2025-01-25T20:47:31-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/25/my-first-sunrise-of-the/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/01/24/someone-told-me-this-yesterday.html",
+				"id": "http://micahrl.micro.blog/2025/01/24/someone-told-me-this-yesterday/",
 				
 				"content_html": "<p>Someone told me this yesterday and I did not believe them. Funny in an X (formerly Twitter) sort of way.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Someone told me this yesterday and I did not believe them. Funny in an X (formerly Twitter) sort of way.\n\n<img src=\"uploads/2025/bfead13f38.jpg\" width=\"600\" height=\"395\" alt=\"\">\n",
-				"date_published": "2025-01-24T15:46:55-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/24/someone-told-me-this-yesterday.html"
+				"date_published": "2025-01-24T16:46:55-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/24/someone-told-me-this-yesterday/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/01/22/holy-shit-this-list-of.html",
+				"id": "http://micahrl.micro.blog/2025/01/22/holy-shit-this-list-of/",
 				
 				"content_html": "<p>Holy shit this list of features is enormous.</p>\n<p><a href=\"https://bun.sh/blog/bun-v1.2\">https://bun.sh/blog/bun-v1.2</a></p>\n<p>S3, Postgres, CSS imports, HTML imports, inline C, JSONC package.json, color conversions, ORMless object mappings.</p>\n<p>Amazing!</p>\n",
 				"content_text": "Holy shit this list of features is enormous. \n\n<https://bun.sh/blog/bun-v1.2>\n\nS3, Postgres, CSS imports, HTML imports, inline C, JSONC package.json, color conversions, ORMless object mappings.\n\nAmazing!\n",
-				"date_published": "2025-01-22T22:56:16-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/22/holy-shit-this-list-of.html"
+				"date_published": "2025-01-22T23:56:16-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/22/holy-shit-this-list-of/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/01/22/the-most-inscrutable-icons-in.html",
+				"id": "http://micahrl.micro.blog/2025/01/22/the-most-inscrutable-icons-in/",
 				
 				"content_html": "<p>The most inscrutable icons in my dock are in the IDE and LLM sections</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The most inscrutable icons in my dock are in the IDE and LLM sections\n\n<img src=\"uploads/2025/91b70e0db2.png\" width=\"600\" height=\"124\" alt=\"\">\n",
-				"date_published": "2025-01-22T17:23:57-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/22/the-most-inscrutable-icons-in.html"
+				"date_published": "2025-01-22T18:23:57-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/22/the-most-inscrutable-icons-in/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/01/21/opening-a-project-that-has.html",
+				"id": "http://micahrl.micro.blog/2025/01/21/opening-a-project-that-has/",
 				
 				"content_html": "<p>Opening a project that has been only in <a href=\"https://zed.dev/\">zed</a> inside other editors and it looks SO wrong. Not just Zed&rsquo;s <a href=\"https://github.com/zed-industries/zed-fonts\">own font</a>, but theme too, I guess. My eyes glaze over and I don&rsquo;t want to read the code. Feels like one experience I had reading an ancient Python codebase that wrapped a C library. Weird.</p>\n",
 				"content_text": "Opening a project that has been only in [zed](https://zed.dev/) inside other editors and it looks SO wrong. Not just Zed's [own font](https://github.com/zed-industries/zed-fonts), but theme too, I guess. My eyes glaze over and I don't want to read the code. Feels like one experience I had reading an ancient Python codebase that wrapped a C library. Weird.\n",
-				"date_published": "2025-01-21T21:18:51-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/21/opening-a-project-that-has.html"
+				"date_published": "2025-01-21T22:18:51-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/21/opening-a-project-that-has/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/01/19/wishlist-good-web-ui-for.html",
+				"id": "http://micahrl.micro.blog/2025/01/19/wishlist-good-web-ui-for/",
 				
 				"content_html": "<p>Wishlist: good web UI for flipping through diffs. I&rsquo;d like to be able to export a few commits to a set of diffs, which I can then show on a webpage in sequence.</p>\n<p>Especially useful for explaining how to build something, or showing LLM changes and how I had to modify them, etc</p>\n",
 				"content_text": "Wishlist: good web UI for flipping through diffs. I'd like to be able to export a few commits to a set of diffs, which I can then show on a webpage in sequence. \n\nEspecially useful for explaining how to build something, or showing LLM changes and how I had to modify them, etc\n",
-				"date_published": "2025-01-19T15:58:21-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/19/wishlist-good-web-ui-for.html"
+				"date_published": "2025-01-19T16:58:21-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/19/wishlist-good-web-ui-for/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/01/18/i-wish-i-could-give.html",
+				"id": "http://micahrl.micro.blog/2025/01/18/i-wish-i-could-give/",
 				
 				"content_html": "<p>I wish I could give o1 access to a regular Git repo and have it commit its changes in a branch, with my instructions in the commit message. Surely someone else has had this idea? Where can I buy this.</p>\n",
 				"content_text": "I wish I could give o1 access to a regular Git repo and have it commit its changes in a branch, with my instructions in the commit message. Surely someone else has had this idea? Where can I buy this.\n",
-				"date_published": "2025-01-18T15:46:17-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/18/i-wish-i-could-give.html"
+				"date_published": "2025-01-18T16:46:17-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/18/i-wish-i-could-give/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/01/17/charming-captcha-is-such-a.html",
+				"id": "http://micahrl.micro.blog/2025/01/17/charming-captcha-is-such-a/",
 				
 				"content_html": "<p>Charming captcha (is such a thing possible?) from LibraryThing</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Charming captcha (is such a thing possible?) from LibraryThing \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/7a7167edb6.png\" width=\"600\" height=\"416\" alt=\"\">\n",
-				"date_published": "2025-01-17T07:25:03-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/17/charming-captcha-is-such-a.html"
+				"date_published": "2025-01-17T08:25:03-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/17/charming-captcha-is-such-a/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/01/12/htmz-is-a-neat-hack.html",
+				"id": "http://micahrl.micro.blog/2025/01/12/htmz-is-a-neat-hack/",
 				
 				"content_html": "<p><a href=\"https://leanrada.com/htmz/\">htmz</a> is a neat hack</p>\n",
 				"content_text": "[htmz](https://leanrada.com/htmz/) is a neat hack\n",
-				"date_published": "2025-01-12T07:42:51-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/12/htmz-is-a-neat-hack.html"
+				"date_published": "2025-01-12T08:42:51-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/12/htmz-is-a-neat-hack/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/01/11/finally-able-to-give-the.html",
+				"id": "http://micahrl.micro.blog/2025/01/11/finally-able-to-give-the/",
 				
 				"content_html": "<p>Finally able to give the <a href=\"https://projectblue.bigcartel.com/product/projectblue\">Project Blue</a> gift that I&rsquo;ve been sitting on since February. Happy birthday <a href=\"https://www.ndled.us\">Noah</a>!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finally able to give the [Project Blue](https://projectblue.bigcartel.com/product/projectblue) gift that I've been sitting on since February. Happy birthday [Noah](https://www.ndled.us)!\n\n<img src=\"uploads/2025/3a161c5f17.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-01-11T10:21:13-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/11/finally-able-to-give-the.html"
+				"content_text": "Finally able to give the [Project Blue](https://projectblue.bigcartel.com/product/projectblue) gift that I've been sitting on since February. Happy birthday [Noah](https://www.ndled.us)!\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/3a161c5f17.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-01-11T11:21:13-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/11/finally-able-to-give-the/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/01/11/ice-crystals-in-the-morning.html",
+				"id": "http://micahrl.micro.blog/2025/01/11/ice-crystals-in-the-morning/",
 				
 				"content_html": "<p>Ice crystals in the morning</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Ice crystals in the morning \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/f2a5bdd52f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-01-11T10:17:59-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/11/ice-crystals-in-the-morning.html"
+				"date_published": "2025-01-11T11:17:59-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/11/ice-crystals-in-the-morning/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/01/10/been-a-gandi-customer-since.html",
+				"id": "http://micahrl.micro.blog/2025/01/10/been-a-gandi-customer-since/",
 				
 				"content_html": "<p>Been a Gandi customer since at least 2009, maybe before. As of today, I&rsquo;m fully migrated off. End of an era.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Been a Gandi customer since at least 2009, maybe before. As of today, I'm fully migrated off. End of an era.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/image.png\" width=\"600\" height=\"272\" alt=\"\">\n",
-				"date_published": "2025-01-10T14:25:03-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/10/been-a-gandi-customer-since.html"
+				"date_published": "2025-01-10T15:25:03-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/10/been-a-gandi-customer-since/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/01/05/i-think-the-funniest-thing.html",
+				"id": "http://micahrl.micro.blog/2025/01/05/i-think-the-funniest-thing/",
 				
 				"content_html": "<p>I think the funniest thing to me about the <a href=\"https://www.reuters.com/technology/apple-must-face-siri-voice-assistant-privacy-lawsuit-us-judge-2021-09-02/\">Apple privacy lawsuit</a> which was just <a href=\"https://arstechnica.com/tech-policy/2025/01/apple-agrees-to-pay-95m-delete-private-conversations-siri-recorded/\">settled</a> is the notion that guys wearing these things at this restaurant have tastes that could not possibly be predicted by a computer that wasn&rsquo;t cheating.</p>\n<blockquote>\n<p>[two Siri users] said their discussions about Air Jordan sneakers, Pit Viper sunglasses and &ldquo;Olive Garden&rdquo; caused them to receive ads for those products.</p>\n</blockquote>\n",
 				"content_text": "I think the funniest thing to me about the [Apple privacy lawsuit](https://www.reuters.com/technology/apple-must-face-siri-voice-assistant-privacy-lawsuit-us-judge-2021-09-02/) which was just [settled](https://arstechnica.com/tech-policy/2025/01/apple-agrees-to-pay-95m-delete-private-conversations-siri-recorded/) is the notion that guys wearing these things at this restaurant have tastes that could not possibly be predicted by a computer that wasn't cheating.\n\n> [two Siri users] said their discussions about Air Jordan sneakers, Pit Viper sunglasses and \"Olive Garden\" caused them to receive ads for those products.\n",
-				"date_published": "2025-01-05T22:25:23-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/05/i-think-the-funniest-thing.html"
+				"date_published": "2025-01-05T23:25:23-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/05/i-think-the-funniest-thing/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/01/04/ai-chatbot-feature-request-a.html",
+				"id": "http://micahrl.micro.blog/2025/01/04/ai-chatbot-feature-request-a/",
 				
 				"content_html": "<p>AI chatbot feature request: a button to summarize the current state of the conversation and any code or other artifacts into a single short message to send to a new chat conversation, to drop baggage of undesirable iterations and reduce token consumption rate.</p>\n",
 				"content_text": "AI chatbot feature request: a button to summarize the current state of the conversation and any code or other artifacts into a single short message to send to a new chat conversation, to drop baggage of undesirable iterations and reduce token consumption rate.\n",
-				"date_published": "2025-01-04T21:36:48-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/04/ai-chatbot-feature-request-a.html"
+				"date_published": "2025-01-04T22:36:48-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/04/ai-chatbot-feature-request-a/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/01/04/cool-stats-from-the-past.html",
+				"id": "http://micahrl.micro.blog/2025/01/04/cool-stats-from-the-past/",
 				
 				"content_html": "<p>Cool stats from the past couple of years</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Cool stats from the past couple of years\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/20e2a3b1e9.jpg\" width=\"337\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2025/983fdf939f.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-01-04T21:33:17-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/04/cool-stats-from-the-past.html"
+				"date_published": "2025-01-04T22:33:17-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/04/cool-stats-from-the-past/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/01/01/new-years-day-brunch-mini.html",
+				"id": "http://micahrl.micro.blog/2025/01/01/new-years-day-brunch-mini/",
 				
 				"content_html": "<p>New Years Day brunch, mini baked potatoes and caviar</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "New Years Day brunch, mini baked potatoes and caviar\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/fdb59377a0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-01-01T16:04:52-06:00",
-				"url": "https://whispers.micahrl.com/2025/01/01/new-years-day-brunch-mini.html"
+				"date_published": "2025-01-01T17:04:52-05:00",
+				"url": "https://whispers.micahrl.com/2025/01/01/new-years-day-brunch-mini/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/12/27/every-time-i-go-on.html",
+				"id": "http://micahrl.micro.blog/2024/12/27/every-time-i-go-on/",
 				
 				"content_html": "<p>Every time I go on a bike ride or get in a pool it amazes me that the company from California has produced two biometric authentication technologies: one that is unusable when wet, and another that is unusable in direct sunlight.</p>\n",
 				"content_text": "Every time I go on a bike ride or get in a pool it amazes me that the company from California has produced two biometric authentication technologies: one that is unusable when wet, and another that is unusable in direct sunlight. \n",
-				"date_published": "2024-12-27T10:45:37-06:00",
-				"url": "https://whispers.micahrl.com/2024/12/27/every-time-i-go-on.html"
+				"date_published": "2024-12-27T11:45:37-05:00",
+				"url": "https://whispers.micahrl.com/2024/12/27/every-time-i-go-on/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/12/24/its-nuts-how-my-entire.html",
+				"id": "http://micahrl.micro.blog/2024/12/24/its-nuts-how-my-entire/",
 				
 				"content_html": "<p>it&rsquo;s nuts how my entire generation got its feelings hurt so bad by intentional listicle ragebait that the cultural connotations are (still!) above the fold on Wikipedia for avocado toast</p>\n",
 				"content_text": "it's nuts how my entire generation got its feelings hurt so bad by intentional listicle ragebait that the cultural connotations are (still!) above the fold on Wikipedia for avocado toast \n",
-				"date_published": "2024-12-24T22:12:43-06:00",
-				"url": "https://whispers.micahrl.com/2024/12/24/its-nuts-how-my-entire.html"
+				"date_published": "2024-12-24T23:12:43-05:00",
+				"url": "https://whispers.micahrl.com/2024/12/24/its-nuts-how-my-entire/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/12/24/bakedinadvance-christmas-day-quiches-christmas.html",
+				"id": "http://micahrl.micro.blog/2024/12/24/bakedinadvance-christmas-day-quiches-christmas/",
 				
 				"content_html": "<p>Baked-in-advance Christmas Day quiches (Christmas Eve whisky for scale)</p>\n<p>btw, quiche is mega easy and the best way to elevate it is to make your own crust. I bastardize <a href=\"https://www.marthastewart.com/336991/easy-pie-crust\">Martha</a> by combining the ingredients and smooshing them into the bottom of the pan. Dreadful, I know. Tastes good though</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Baked-in-advance Christmas Day quiches (Christmas Eve whisky for scale)\n\nbtw, quiche is mega easy and the best way to elevate it is to make your own crust. I bastardize [Martha](https://www.marthastewart.com/336991/easy-pie-crust) by combining the ingredients and smooshing them into the bottom of the pan. Dreadful, I know. Tastes good though \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/cc08495c82.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2024-12-24T21:52:04-06:00",
-				"url": "https://whispers.micahrl.com/2024/12/24/bakedinadvance-christmas-day-quiches-christmas.html"
+				"date_published": "2024-12-24T22:52:04-05:00",
+				"url": "https://whispers.micahrl.com/2024/12/24/bakedinadvance-christmas-day-quiches-christmas/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/12/17/noms-de-guerre.html",
+				"id": "http://micahrl.micro.blog/2024/12/17/noms-de-guerre/",
 				"title": "noms de guerre",
 				"content_html": "<p>Definitions</p>\n<h3 id=\"nom-de-guerre\">nom de guerre</h3>\n<p>noun</p>\n<ol>\n<li>pseudonym</li>\n<li>(historically) a fictitious name used in war\n<!-- raw HTML omitted --></li>\n</ol>\n<h3 id=\"nom-de-guerre-1\">nom de &lsquo;guerre</h3>\n<p>noun</p>\n<ol>\n<li>a fictitious name adopted by an actor or model</li>\n<li>(historically) a fictitious name adopted by the subject of daguerreotype photography\n<!-- raw HTML omitted --></li>\n</ol>\n<h3 id=\"nom-daguerre\">nom Daguerre</h3>\n<p>proper name</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Louis_Daguerre\">Louis</a></p>\n",
 				"content_text": "Definitions\n\n### nom de guerre\n\nnoun\n\n1. pseudonym\n2. (historically) a fictitious name used in war\n<br/>\n\n### nom de 'guerre\n\nnoun\n\n1. a fictitious name adopted by an actor or model\n1. (historically) a fictitious name adopted by the subject of daguerreotype photography\n<br/>\n\n### nom Daguerre\n\nproper name\n\n[Louis](https://en.wikipedia.org/wiki/Louis_Daguerre)\n",
-				"date_published": "2024-12-17T15:50:01-06:00",
-				"url": "https://whispers.micahrl.com/2024/12/17/noms-de-guerre.html"
+				"date_published": "2024-12-17T16:50:01-05:00",
+				"url": "https://whispers.micahrl.com/2024/12/17/noms-de-guerre/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/12/11/if-i-understand.html",
+				"id": "http://micahrl.micro.blog/2024/12/11/if-i-understand-correctly-am/",
 				
 				"content_html": "<p>if i understand correctly, a.m. stands for after midnight and p.m. stands for pre midnight</p>\n",
 				"content_text": "if i understand correctly, a.m. stands for after midnight and p.m. stands for pre midnight\n",
-				"date_published": "2024-12-11T20:15:16-06:00",
-				"url": "https://whispers.micahrl.com/2024/12/11/if-i-understand.html"
+				"date_published": "2024-12-11T21:15:16-05:00",
+				"url": "https://whispers.micahrl.com/2024/12/11/if-i-understand-correctly-am/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/11/25/signing-in-just.html",
+				"id": "http://micahrl.micro.blog/2024/11/25/signing-in-just-got-easier/",
 				
 				"content_html": "<p>&ldquo;Signing in just got easier!&rdquo;, the website threatened</p>\n",
 				"content_text": "\"Signing in just got easier!\", the website threatened\r\n",
-				"date_published": "2024-11-25T17:40:26-06:00",
-				"url": "https://whispers.micahrl.com/2024/11/25/signing-in-just.html"
+				"date_published": "2024-11-25T18:40:26-05:00",
+				"url": "https://whispers.micahrl.com/2024/11/25/signing-in-just-got-easier/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/11/24/the-ecstasy-of.html",
+				"id": "http://micahrl.micro.blog/2024/11/24/the-ecstasy-of-triumph-the/",
 				
 				"content_html": "<p>The ecstasy of triumph / The agony of defeat</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "The ecstasy of triumph / The agony of defeat\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/acd01f61bb.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2024/31c24175a1.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2024-11-24T13:39:45-06:00",
-				"url": "https://whispers.micahrl.com/2024/11/24/the-ecstasy-of.html"
+				"date_published": "2024-11-24T14:39:45-05:00",
+				"url": "https://whispers.micahrl.com/2024/11/24/the-ecstasy-of-triumph-the/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/11/22/bluesky-has-such.html",
+				"id": "http://micahrl.micro.blog/2024/11/22/bluesky-has-such-a-nice/",
 				
 				"content_html": "<p>Bluesky has such a nice web experience (&ldquo;even&rdquo; on mobile), responding instantly and scrolling beautifully; I groan whenever I load a Mastodon or Twitter webpage. I do not have a Bluesky-shaped hole in my soul, but damned if the nice web experience doesn&rsquo;t make me want to try it out.</p>\n",
 				"content_text": "Bluesky has such a nice web experience (\"even\" on mobile), responding instantly and scrolling beautifully; I groan whenever I load a Mastodon or Twitter webpage. I do not have a Bluesky-shaped hole in my soul, but damned if the nice web experience doesn't make me want to try it out.\n",
-				"date_published": "2024-11-22T09:39:09-06:00",
-				"url": "https://whispers.micahrl.com/2024/11/22/bluesky-has-such.html"
+				"date_published": "2024-11-22T10:39:09-05:00",
+				"url": "https://whispers.micahrl.com/2024/11/22/bluesky-has-such-a-nice/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/11/20/for-readability.html",
+				"id": "http://micahrl.micro.blog/2024/11/20/for-readability/",
 				"title": "For readability",
 				"content_html": "<p>Defenders of short lines in source code have won the day when it comes to defaults from automatic formatters, but when I look at the results I don&rsquo;t understand why. The last 6 lines here are the same as the first 14, and it looks much more readable to me.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>I don&rsquo;t mind this as a proverb, but like many proverbs, it would benefit from an equal and opposite counter-proverb.</p>\n<!-- raw HTML omitted -->\n<p>Perhaps:</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Defenders of short lines in source code have won the day when it comes to defaults from automatic formatters, but when I look at the results I don't understand why. The last 6 lines here are the same as the first 14, and it looks much more readable to me.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/screenshot-2024-11-20-at-10.02.01.png\" width=\"600\" height=\"294\" alt=\"\">\n\n<hr/>\n\n<figure style=\"margin-left: 2em;\">\n<blockquote>\nFor readability we recommend against using more than 80 characters\n</blockquote>\n<figcaption style=\"margin-left: 1em\">\n— <a href=\"https://prettier.io/docs/en/options.html\">prettier</a>\n</figcaption>\n</figure>\n\n\nI don't mind this as a proverb, but like many proverbs, it would benefit from an equal and opposite counter-proverb.\n\n<figure style=\"margin-left: 2em;\">\n<blockquote>\n4 Answer not a fool according to his folly, lest thou also be like unto him.<br/>\n5 Answer a fool according to his folly, lest he be wise in his own conceit.\n</blockquote>\n<figcaption style=\"margin-left: 1em\">\n— <a href=\"https://www.biblegateway.com/passage/?search=Proverbs+26%3A4-5&version=KJV\">Proverbs 26:4-5</a>\n</figcaption>\n</figure>\n\nPerhaps:\n\n<figure style=\"margin-left: 2em;\">\n<blockquote>\nFor readability, break lines at 80 characters.<br/>\nFor readability, do not break statements into multiple lines.\n</blockquote>\n</figure>\n\n",
-				"date_published": "2024-11-20T21:05:40-06:00",
-				"url": "https://whispers.micahrl.com/2024/11/20/for-readability.html"
+				"date_published": "2024-11-20T22:05:40-05:00",
+				"url": "https://whispers.micahrl.com/2024/11/20/for-readability/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/11/13/is-there-any.html",
+				"id": "http://micahrl.micro.blog/2024/11/13/are-there-any-positive-effects/",
 				
 				"content_html": "<p>Are there any positive effects of a system full of demons which you can ward off with an incantation beginning with THE SOFTWARE IS PROVIDED &ldquo;AS IS&rdquo; ? If yes, what are they?</p>\n",
 				"content_text": "Are there any positive effects of a system full of demons which you can ward off with an incantation beginning with THE SOFTWARE IS PROVIDED \"AS IS\" ? If yes, what are they?\n",
-				"date_published": "2024-11-13T19:11:48-06:00",
-				"url": "https://whispers.micahrl.com/2024/11/13/is-there-any.html"
+				"date_published": "2024-11-13T20:11:48-05:00",
+				"url": "https://whispers.micahrl.com/2024/11/13/are-there-any-positive-effects/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/11/13/i-am-made.html",
+				"id": "http://micahrl.micro.blog/2024/11/13/i-am-made-to-understand/",
 				
 				"content_html": "<p>I am made to understand that it is <a href=\"https://practicaltypography.com/underlining.html\">stylistically incorrect</a> to underline hyperlinks, but, with apologies to my typographical betters, it is hypertextually incorrect to do otherwise. An underlined link is rarely a detriment; its absence often is.</p>\n",
 				"content_text": "I am made to understand that it is [stylistically incorrect](https://practicaltypography.com/underlining.html) to underline hyperlinks, but, with apologies to my typographical betters, it is hypertextually incorrect to do otherwise. An underlined link is rarely a detriment; its absence often is.\n",
-				"date_published": "2024-11-13T19:04:08-06:00",
-				"url": "https://whispers.micahrl.com/2024/11/13/i-am-made.html"
+				"date_published": "2024-11-13T20:04:08-05:00",
+				"url": "https://whispers.micahrl.com/2024/11/13/i-am-made-to-understand/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/11/12/which-side-does.html",
+				"id": "http://micahrl.micro.blog/2024/11/12/which-side-does-the-rendering/",
 				"title": "Which side does the rendering again?",
 				"content_html": "<p>So-called &ldquo;server-side rendering&rdquo; is actually &ldquo;server-side serializing, network streaming, and then client-side rendering&rdquo;, in contrast to &ldquo;client-side rendering&rdquo; which is actually &ldquo;server-side serializing, network streaming, manipulation by JavaScript, and then client-side rendering&rdquo;. By this logic, programs that can be built with only a C compiler use &ldquo;server-side compilation&rdquo;, while programs that require Make or GNU Autotools use &ldquo;client-side compilation&rdquo;.</p>\n",
 				"content_text": "So-called \"server-side rendering\" is actually \"server-side serializing, network streaming, and then client-side rendering\", in contrast to \"client-side rendering\" which is actually \"server-side serializing, network streaming, manipulation by JavaScript, and then client-side rendering\". By this logic, programs that can be built with only a C compiler use \"server-side compilation\", while programs that require Make or GNU Autotools use \"client-side compilation\".\n",
-				"date_published": "2024-11-12T14:47:48-06:00",
-				"url": "https://whispers.micahrl.com/2024/11/12/which-side-does.html"
+				"date_published": "2024-11-12T15:47:48-05:00",
+				"url": "https://whispers.micahrl.com/2024/11/12/which-side-does-the-rendering/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/11/09/in-the-cloud.html",
+				"id": "http://micahrl.micro.blog/2024/11/08/in-the-cloud-you-must/",
 				
 				"content_html": "<p>In the cloud, you must pay the piper, who, one must always remember, charges more than you&rsquo;d expect for egress</p>\n",
 				"content_text": "In the cloud, you must pay the piper, who, one must always remember, charges more than you'd expect for egress\n",
-				"date_published": "2024-11-08T23:14:16-06:00",
-				"url": "https://whispers.micahrl.com/2024/11/09/in-the-cloud.html"
+				"date_published": "2024-11-09T00:14:16-05:00",
+				"url": "https://whispers.micahrl.com/2024/11/08/in-the-cloud-you-must/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/10/28/last-night-at.html",
+				"id": "http://micahrl.micro.blog/2024/10/28/last-night-at-lazarus/",
 				
 				"content_html": "<p>Last night at Lazarus</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Last night at Lazarus\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/6c51543ade.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2024-10-28T14:46:04-06:00",
-				"url": "https://whispers.micahrl.com/2024/10/28/last-night-at.html"
+				"date_published": "2024-10-28T15:46:04-05:00",
+				"url": "https://whispers.micahrl.com/2024/10/28/last-night-at-lazarus/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/10/28/finally-the-web.html",
+				"id": "http://micahrl.micro.blog/2024/10/28/finally-the-web-is-taking/",
 				
 				"content_html": "<p>Finally, the web is taking cues from the best UX in the world (PBX phone trees)</p>\n<!-- raw HTML omitted -->\n<p>(to be clear you have to type &ldquo;1&rdquo; or &ldquo;2&rdquo; in the little box and then click the button with your mouse)</p>\n",
 				"content_text": "Finally, the web is taking cues from the best UX in the world (PBX phone trees)\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/screenshot-2024-10-07-at-10.40.37.png\" width=\"600\" height=\"184\" alt=\"\">\n\n(to be clear you have to type \"1\" or \"2\" in the little box and then click the button with your mouse)\n",
-				"date_published": "2024-10-28T14:43:55-06:00",
-				"url": "https://whispers.micahrl.com/2024/10/28/finally-the-web.html"
+				"date_published": "2024-10-28T15:43:55-05:00",
+				"url": "https://whispers.micahrl.com/2024/10/28/finally-the-web-is-taking/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/10/14/i-miss-twitter.html",
+				"id": "http://micahrl.micro.blog/2024/10/14/i-miss-twitter-bots-wish/",
 				
 				"content_html": "<p>I miss Twitter bots. Wish fediverse hosting was easier&hellip; not sure I care to be manually approved for botsin.space 🙄 or for that matter to register a new account on any hosted server for every silly bot idea I can think of. It should be as easy as RSS.</p>\n",
 				"content_text": "I miss Twitter bots. Wish fediverse hosting was easier... not sure I care to be manually approved for botsin.space 🙄 or for that matter to register a new account on any hosted server for every silly bot idea I can think of. It should be as easy as RSS.\n",
-				"date_published": "2024-10-14T19:35:53-06:00",
-				"url": "https://whispers.micahrl.com/2024/10/14/i-miss-twitter.html"
+				"date_published": "2024-10-14T20:35:53-05:00",
+				"url": "https://whispers.micahrl.com/2024/10/14/i-miss-twitter-bots-wish/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/10/11/i-cannot-abide.html",
+				"id": "http://micahrl.micro.blog/2024/10/11/i-cannot-abide-the-hideous/",
 				
 				"content_html": "<p>I cannot abide the hideous portmanteau &ldquo;transpile&rdquo;, sewn together as it is from two words which would perfectly convey the intent in every single case, created intentionally as a distinction without a difference.</p>\n",
 				"content_text": "I cannot abide the hideous portmanteau \"transpile\", sewn together as it is from two words which would perfectly convey the intent in every single case, created intentionally as a distinction without a difference.\n",
-				"date_published": "2024-10-11T09:02:58-06:00",
-				"url": "https://whispers.micahrl.com/2024/10/11/i-cannot-abide.html"
+				"date_published": "2024-10-11T10:02:58-05:00",
+				"url": "https://whispers.micahrl.com/2024/10/11/i-cannot-abide-the-hideous/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/10/04/theres-nothing-important.html",
+				"id": "http://micahrl.micro.blog/2024/10/04/theres-nothing-important-left-unsaid/",
 				
 				"content_html": "<p>There&rsquo;s nothing important left unsaid because it&rsquo;s too hard to write online. Nothing wrong with it being even easier, but for decades it&rsquo;s been the moral equivalent of single-cent bid/ask spreads.</p>\n",
 				"content_text": "There's nothing important left unsaid because it's too hard to write online. Nothing wrong with it being even easier, but for decades it's been the moral equivalent of single-cent bid/ask spreads.\n",
-				"date_published": "2024-10-04T22:59:35-06:00",
-				"url": "https://whispers.micahrl.com/2024/10/04/theres-nothing-important.html"
+				"date_published": "2024-10-04T23:59:35-05:00",
+				"url": "https://whispers.micahrl.com/2024/10/04/theres-nothing-important-left-unsaid/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/09/30/nominitive-determinism-openai.html",
+				"id": "http://micahrl.micro.blog/2024/09/30/nominitive-determinism-openai-edition/",
 				"title": "Nominitive determinism, OpenAI edition",
 				"content_html": "<p>Enjoying the alternatives to human intelligence brought to us by the Alt Man</p>\n",
 				"content_text": "Enjoying the alternatives to human intelligence brought to us by the Alt Man\n",
-				"date_published": "2024-09-30T18:27:46-06:00",
-				"url": "https://whispers.micahrl.com/2024/09/30/nominitive-determinism-openai.html"
+				"date_published": "2024-09-30T19:27:46-05:00",
+				"url": "https://whispers.micahrl.com/2024/09/30/nominitive-determinism-openai-edition/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/09/25/the-reason-its.html",
+				"id": "http://micahrl.micro.blog/2024/09/25/the-reason-its-hard-to/",
 				
 				"content_html": "<p>The reason it&rsquo;s hard to draw a line in the sand to <a href=\"https://www.astralcodexten.com/p/sakana-strawberry-and-scary-ai?\">determine</a> the line for &ldquo;true&rdquo; artificial intelligence is not because it&rsquo;s hard to recognize intelligence, but because it is hard to know ourselves. &ldquo;What will it feel like when &hellip;?&rdquo; sounds easy but is actually fortune telling.</p>\n",
 				"content_text": "The reason it's hard to draw a line in the sand to [determine](https://www.astralcodexten.com/p/sakana-strawberry-and-scary-ai?) the line for \"true\" artificial intelligence is not because it's hard to recognize intelligence, but because it is hard to know ourselves. \"What will it feel like when ...?\" sounds easy but is actually fortune telling.\n",
-				"date_published": "2024-09-25T22:16:46-06:00",
-				"url": "https://whispers.micahrl.com/2024/09/25/the-reason-its.html"
+				"date_published": "2024-09-25T23:16:46-05:00",
+				"url": "https://whispers.micahrl.com/2024/09/25/the-reason-its-hard-to/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/08/19/i-wish-my.html",
+				"id": "http://micahrl.micro.blog/2024/08/19/i-wish-my-podcast-player/",
 				
 				"content_html": "<p>I wish my podcast player did automatic text transcription - even a bad LLM would be okay, and even paying a cloud LLM per request would be ok. I also wish it let me mark a timestamp as important so I could go back and find it later.</p>\n",
 				"content_text": "I wish my podcast player did automatic text transcription - even a bad LLM would be okay, and even paying a cloud LLM per request would be ok. I also wish it let me mark a timestamp as important so I could go back and find it later.\n",
-				"date_published": "2024-08-19T21:30:42-06:00",
-				"url": "https://whispers.micahrl.com/2024/08/19/i-wish-my.html"
+				"date_published": "2024-08-19T22:30:42-05:00",
+				"url": "https://whispers.micahrl.com/2024/08/19/i-wish-my-podcast-player/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/08/15/shiftwidth.html",
+				"id": "http://micahrl.micro.blog/2024/08/15/shiftwidth/",
 				"title": "shiftwidth=3",
 				"content_html": "<p>Like everyone, I have my own code formatting opinions. Whenever the urge to share them gets too great, I try to keep in mind the senior architect from many jobs ago who believed that the best tab width was 3. I suspect that some state education agencies still run scripts indented to three spaces.</p>\n",
 				"content_text": "Like everyone, I have my own code formatting opinions. Whenever the urge to share them gets too great, I try to keep in mind the senior architect from many jobs ago who believed that the best tab width was 3. I suspect that some state education agencies still run scripts indented to three spaces.\n",
-				"date_published": "2024-08-15T10:06:33-06:00",
-				"url": "https://whispers.micahrl.com/2024/08/15/shiftwidth.html"
+				"date_published": "2024-08-15T11:06:33-05:00",
+				"url": "https://whispers.micahrl.com/2024/08/15/shiftwidth/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/08/11/made-a-mezcal.html",
+				"id": "http://micahrl.micro.blog/2024/08/11/made-a-mezcal-old-fashioned/",
 				
 				"content_html": "<p>Made a mezcal old fashioned (mezcal, orange bitters, Agave syrup) again, but added a pinch of salt for the first time tonight. Deliciousness metric improved ~30%.</p>\n",
 				"content_text": "Made a mezcal old fashioned (mezcal, orange bitters, Agave syrup) again, but added a pinch of salt for the first time tonight. Deliciousness metric improved ~30%.\n",
-				"date_published": "2024-08-11T22:28:06-06:00",
-				"url": "https://whispers.micahrl.com/2024/08/11/made-a-mezcal.html"
+				"date_published": "2024-08-11T23:28:06-05:00",
+				"url": "https://whispers.micahrl.com/2024/08/11/made-a-mezcal-old-fashioned/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/08/08/stuff-like-this.html",
+				"id": "http://micahrl.micro.blog/2024/08/08/stuff-like-this-makes-me/",
 				
 				"content_html": "<p>Stuff like <a href=\"https://shop.pimoroni.com/products/picosystem?variant=32369546985555\">this</a> makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Stuff like [this](https://shop.pimoroni.com/products/picosystem?variant=32369546985555) makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/picosystem-dark-square-1-768x768-crop-center.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2024-08-08T09:21:05-06:00",
-				"url": "https://whispers.micahrl.com/2024/08/08/stuff-like-this.html"
+				"date_published": "2024-08-08T10:21:05-05:00",
+				"url": "https://whispers.micahrl.com/2024/08/08/stuff-like-this-makes-me/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/08/04/recently-reminded-of.html",
+				"id": "http://micahrl.micro.blog/2024/08/04/recently-reminded-of-the-trent/",
 				
 				"content_html": "<p>Recently reminded of the <a href=\"http://itre.cis.upenn.edu/~myl/languagelog/archives/002621.html\">Trent Reznor Prize For Tricky Embedding</a>, for which <a href=\"https://languagelog.ldc.upenn.edu/nll/?p=54300\">nominations</a> continue into the 2020s.</p>\n",
 				"content_text": "Recently reminded of the [Trent Reznor Prize For Tricky Embedding](http://itre.cis.upenn.edu/~myl/languagelog/archives/002621.html), for which [nominations](https://languagelog.ldc.upenn.edu/nll/?p=54300) continue into the 2020s.\n",
-				"date_published": "2024-08-04T06:33:45-06:00",
-				"url": "https://whispers.micahrl.com/2024/08/04/recently-reminded-of.html"
+				"date_published": "2024-08-04T07:33:45-05:00",
+				"url": "https://whispers.micahrl.com/2024/08/04/recently-reminded-of-the-trent/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/08/02/accepting-comments-via.html",
+				"id": "http://micahrl.micro.blog/2024/08/02/accepting-comments-via-accesslog/",
 				"title": "Accepting comments via access.log",
 				"content_html": "<p>I am somewhat dissatisfied with the comments server on my <a href=\"https://me.micahrl.com\">main website</a>, and have been hunting for alternatives. The most cursed thing I&rsquo;ve seen so far is <a href=\"https://news.ycombinator.com/item?id=34376934\">this</a>:</p>\n<blockquote>\n<p>I implemented static HTML comments on my website by tail&rsquo;ing the /var/logs/nginx/access.log with a perl script. No CGI, no database, just the actual text of the comments stored as a single comment per line in a .html file.</p>\n<p>To comment a visitor takes any url on the domain and appends &ldquo;/@say/&rdquo;. Like <a href=\"http://notmyurl.com/somepage.html/@say/Some\">notmyurl.com/somepage&hellip;.</a> response to somepage. Or &ldquo;&hellip;lakephoto.jpg/@say/Cool fish! How long was it?&rdquo;</p>\n<p>The perl script sees the /@say/ in the logs and adds the parsed out and sanitized comment to an .html file. There&rsquo;s some nginx location hijinks for matching /@say/ URLs that goes to a confirmation page and redirects to the comment listing page.</p>\n</blockquote>\n<p>&hellip;</p>\n<blockquote>\n<p>I&rsquo;ve used this comment system on my tor onion services sites for the last decade. I get plenty of people trying to exploit it. It&rsquo;s kind of fun. If the Tor folk haven&rsquo;t pwned it I doubt the HN folk will. Not for lack of skill but mostly a lack of motivation relative to the tor folk.</p>\n</blockquote>\n<p>I do not plan to do this but I also do not plan to avoid doing this, should the opportunity arise.</p>\n",
 				"content_text": "I am somewhat dissatisfied with the comments server on my [main website](https://me.micahrl.com), and have been hunting for alternatives. The most cursed thing I've seen so far is [this](https://news.ycombinator.com/item?id=34376934):\r\n\r\n> I implemented static HTML comments on my website by tail'ing the /var/logs/nginx/access.log with a perl script. No CGI, no database, just the actual text of the comments stored as a single comment per line in a .html file.\r\n>\r\n>To comment a visitor takes any url on the domain and appends \"/@say/\". Like [notmyurl.com/somepage....](http://notmyurl.com/somepage.html/@say/Some) response to somepage. Or \"...lakephoto.jpg/@say/Cool fish! How long was it?\"\r\n>\r\n>The perl script sees the /@say/ in the logs and adds the parsed out and sanitized comment to an .html file. There's some nginx location hijinks for matching /@say/ URLs that goes to a confirmation page and redirects to the comment listing page.\r\n\r\n...\r\n\r\n> I've used this comment system on my tor onion services sites for the last decade. I get plenty of people trying to exploit it. It's kind of fun. If the Tor folk haven't pwned it I doubt the HN folk will. Not for lack of skill but mostly a lack of motivation relative to the tor folk.\r\n\r\nI do not plan to do this but I also do not plan to avoid doing this, should the opportunity arise.\n",
-				"date_published": "2024-08-02T13:20:04-06:00",
-				"url": "https://whispers.micahrl.com/2024/08/02/accepting-comments-via.html"
+				"date_published": "2024-08-02T14:20:04-05:00",
+				"url": "https://whispers.micahrl.com/2024/08/02/accepting-comments-via-accesslog/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/07/19/i-learned-in.html",
+				"id": "http://micahrl.micro.blog/2024/07/22/i-learned-in-the-reflectorshow/",
 				
 				"content_html": "<p>I learned in the <a href=\"https://reflector.show\">reflector.show</a> episodes about the Young Thug trial that a televangelist in the 80s <a href=\"https://www.latimes.com/archives/la-xpm-1986-08-03-ca-1235-story.html\">said</a> that &ldquo;music is the new pornography&rdquo;, and for a second I understood why one might call one&rsquo;s band &ldquo;The New Pornographers&rdquo;, but <a href=\"https://web.archive.org/web/20071014111806/http://www.glidemagazine.com/Articles/47784/The-New-Pornographers:-Canadian-Blockbuster.html\">no</a>, it actually makes as much sense as I originally thought (none).</p>\n",
 				"content_text": "I learned in the [reflector.show](https://reflector.show) episodes about the Young Thug trial that a televangelist in the 80s [said](https://www.latimes.com/archives/la-xpm-1986-08-03-ca-1235-story.html) that \"music is the new pornography\", and for a second I understood why one might call one's band \"The New Pornographers\", but [no](https://web.archive.org/web/20071014111806/http://www.glidemagazine.com/Articles/47784/The-New-Pornographers:-Canadian-Blockbuster.html), it actually makes as much sense as I originally thought (none).\n",
-				"date_published": "2024-07-22T10:40:28-06:00",
-				"url": "https://whispers.micahrl.com/2024/07/19/i-learned-in.html"
+				"date_published": "2024-07-22T11:40:28-05:00",
+				"url": "https://whispers.micahrl.com/2024/07/22/i-learned-in-the-reflectorshow/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/06/29/how-to-install.html",
+				"id": "http://micahrl.micro.blog/2024/06/29/the-secret-brew-install-algorithm/",
 				"title": "The secret `brew install` algorithm",
 				"content_html": "<p>How to install programs with homebrew:</p>\n<ul>\n<li>Type <code>brew search PROGRAM</code> and wait for it to show results</li>\n<li>Realize this is taking a while</li>\n<li>Search for the program on the web</li>\n<li>Visit the GitHub release page for it</li>\n<li>Click the download button</li>\n<li>Extract archive to your $PATH</li>\n<li>Run the program</li>\n</ul>\n",
 				"content_text": "How to install programs with homebrew:\n\n* Type `brew search PROGRAM` and wait for it to show results\n* Realize this is taking a while\n* Search for the program on the web\n* Visit the GitHub release page for it\n* Click the download button\n* Extract archive to your $PATH\n* Run the program\n",
-				"date_published": "2024-06-29T09:27:41-06:00",
-				"url": "https://whispers.micahrl.com/2024/06/29/how-to-install.html"
+				"date_published": "2024-06-29T10:27:41-05:00",
+				"url": "https://whispers.micahrl.com/2024/06/29/the-secret-brew-install-algorithm/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/06/25/i-see-how.html",
+				"id": "http://micahrl.micro.blog/2024/06/25/i-see-how-one-might/",
 				
 				"content_html": "<p>I see how one might believe that &ldquo;<a href=\"https://en.m.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does\">the purpose of a system is what it does</a>&rdquo;, and I see how one might believe that the &ldquo;<a href=\"https://newsroom.spotify.com/2024-01-26/apples-proposed-changes-reject-the-goals-of-the-dma/\">spirit of the law</a>&rdquo; is a coherent concept that everyone understands, but I have to say I don&rsquo;t see how one could believe both at once.</p>\n",
 				"content_text": "I see how one might believe that \"[the purpose of a system is what it does](https://en.m.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does)\", and I see how one might believe that the \"[spirit of the law](https://newsroom.spotify.com/2024-01-26/apples-proposed-changes-reject-the-goals-of-the-dma/)\" is a coherent concept that everyone understands, but I have to say I don't see how one could believe both at once.\n",
-				"date_published": "2024-06-25T15:11:29-06:00",
-				"url": "https://whispers.micahrl.com/2024/06/25/i-see-how.html"
+				"date_published": "2024-06-25T16:11:29-05:00",
+				"url": "https://whispers.micahrl.com/2024/06/25/i-see-how-one-might/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/06/19/til-that-lorem.html",
+				"id": "http://micahrl.micro.blog/2024/06/19/til-that-lorem-ipsum-is/",
 				
 				"content_html": "<p>TIL that &ldquo;lorem ipsum&rdquo; is the corruption of pain itself.</p>\n<blockquote>\n<p>Lorem ipsum is typically a corrupted version of De finibus bonorum et malorum, a 1st-century BC text by the Roman statesman and philosopher Cicero, with words altered, added, and removed to make it nonsensical and improper Latin. The first two words themselves are a truncation of dolorem ipsum (&ldquo;pain itself&rdquo;).</p>\n</blockquote>\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/Lorem_ipsum\">Wikipedia</a></li>\n</ul>\n",
 				"content_text": "TIL that \"lorem ipsum\" is the corruption of pain itself.\n\n> Lorem ipsum is typically a corrupted version of De finibus bonorum et malorum, a 1st-century BC text by the Roman statesman and philosopher Cicero, with words altered, added, and removed to make it nonsensical and improper Latin. The first two words themselves are a truncation of dolorem ipsum (\"pain itself\").\n\n- [Wikipedia](https://en.wikipedia.org/wiki/Lorem_ipsum)\n",
-				"date_published": "2024-06-19T21:57:13-06:00",
-				"url": "https://whispers.micahrl.com/2024/06/19/til-that-lorem.html"
+				"date_published": "2024-06-19T22:57:13-05:00",
+				"url": "https://whispers.micahrl.com/2024/06/19/til-that-lorem-ipsum-is/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/06/19/coordinated-lunar-time.html",
+				"id": "http://micahrl.micro.blog/2024/06/19/coordinated-lunar-time/",
 				"title": "Coordinated Lunar Time",
 				"content_html": "<p>In April, the White House released <a href=\"https://www.whitehouse.gov/wp-content/uploads/2024/04/Celestial-Time-Standardization-Policy.pdf\">a memo on a standard for lunar time (PDF)</a>. I hope it is not too late to save the country from a terrible mistake: abbreviating this standard as &ldquo;LTC&rdquo;.</p>\n<p>&ldquo;LTC&rdquo; is a jumbled initialism for Coordinated Lunar Time, patterned after &ldquo;UTC&rdquo; as a jumbled initialism for Coordinated Universal Time. But why jumble the initialisms? <a href=\"https://en.m.wikipedia.org/wiki/Coordinated_Universal_Time\">The UTC Wikipedia page</a> quotes a paper which says:</p>\n<blockquote>\n<p>In 1967 the CCIR adopted the names Coordinated Universal Time and Temps Universel Coordonné for the English and French names with the acronym UTC to be used in both languages. The name &ldquo;Coordinated Universal Time (UTC)&rdquo; was approved by a resolution of IAU Commissions 4 and 31 at the 13th General Assembly in 1967 (Trans. IAU, 1968).</p>\n</blockquote>\n<p>It&rsquo;s bad enough that Earth&rsquo;s coordinated time is abbreviated in a cut-the-baby compromise with the <em>French</em>, but at least the French are actually on Earth. Lunar time should be decided in a symposium on the moon itself. If you want your voice heard, you should have to land there.</p>\n",
 				"content_text": "In April, the White House released [a memo on a standard for lunar time (PDF)](https://www.whitehouse.gov/wp-content/uploads/2024/04/Celestial-Time-Standardization-Policy.pdf). I hope it is not too late to save the country from a terrible mistake: abbreviating this standard as \"LTC\".\n\n\"LTC\" is a jumbled initialism for Coordinated Lunar Time, patterned after \"UTC\" as a jumbled initialism for Coordinated Universal Time. But why jumble the initialisms? [The UTC Wikipedia page](https://en.m.wikipedia.org/wiki/Coordinated_Universal_Time) quotes a paper which says:\n\n> In 1967 the CCIR adopted the names Coordinated Universal Time and Temps Universel Coordonné for the English and French names with the acronym UTC to be used in both languages. The name \"Coordinated Universal Time (UTC)\" was approved by a resolution of IAU Commissions 4 and 31 at the 13th General Assembly in 1967 (Trans. IAU, 1968).\n\nIt's bad enough that Earth's coordinated time is abbreviated in a cut-the-baby compromise with the _French_, but at least the French are actually on Earth. Lunar time should be decided in a symposium on the moon itself. If you want your voice heard, you should have to land there. \n",
-				"date_published": "2024-06-19T08:14:52-06:00",
-				"url": "https://whispers.micahrl.com/2024/06/19/coordinated-lunar-time.html"
+				"date_published": "2024-06-19T09:14:52-05:00",
+				"url": "https://whispers.micahrl.com/2024/06/19/coordinated-lunar-time/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/06/18/quoting-raymond-chen.html",
+				"id": "http://micahrl.micro.blog/2024/06/18/quoting-raymond-chen/",
 				"title": "Quoting, Raymond Chen",
 				"content_html": "<p>Via <a href=\"https://devblogs.microsoft.com/oldnewthing/20240618-00/?p=109910\">The Old New Thing</a></p>\n<blockquote>\n<p>A colleague told a story of how he once broke the entire Office division’s ability to check in code because he accidentally checked in a syntax error to the script that is used to verify that your proposed change has satisfied all the pre-submit requirements such as passing static analysis and unit testing.</p>\n<p>&hellip;</p>\n<p>The error was caused by smart quotes being used by mistake instead of straight quotes. He doesn’t know how they snuck in, and the two styles of quotation marks were sufficiently similar that it eluded everyone’s notice.</p>\n</blockquote>\n<p>I&rsquo;ve never worked at Microsoft and can only guess how they might have snuck in&hellip; and my guess is that they came in by copying/pasting code from MSDN Blogs, which for <em>years</em> seemed to auto convert straight quotes to smart quotes and double dashes to em dashes.</p>\n<p>In that era, only a few MSDN bloggers were nice enough to wrap their code in <code>&lt;pre&gt;</code> tags, and it&rsquo;s not clear to me that the CMS even supported syntax highlighting. We&rsquo;ve got it pretty good today, is what I&rsquo;m trying to say.</p>\n",
 				"content_text": "Via [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20240618-00/?p=109910)\n\n> A colleague told a story of how he once broke the entire Office division’s ability to check in code because he accidentally checked in a syntax error to the script that is used to verify that your proposed change has satisfied all the pre-submit requirements such as passing static analysis and unit testing.\n>\n> ...\n> \n> The error was caused by smart quotes being used by mistake instead of straight quotes. He doesn’t know how they snuck in, and the two styles of quotation marks were sufficiently similar that it eluded everyone’s notice.\n\nI've never worked at Microsoft and can only guess how they might have snuck in... and my guess is that they came in by copying/pasting code from MSDN Blogs, which for _years_ seemed to auto convert straight quotes to smart quotes and double dashes to em dashes.\n\nIn that era, only a few MSDN bloggers were nice enough to wrap their code in `<pre>` tags, and it's not clear to me that the CMS even supported syntax highlighting. We've got it pretty good today, is what I'm trying to say. \n",
-				"date_published": "2024-06-18T20:30:39-06:00",
-				"url": "https://whispers.micahrl.com/2024/06/18/quoting-raymond-chen.html"
+				"date_published": "2024-06-18T21:30:39-05:00",
+				"url": "https://whispers.micahrl.com/2024/06/18/quoting-raymond-chen/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/06/04/food-tracking.html",
+				"id": "http://micahrl.micro.blog/2024/06/03/food-tracking/",
 				"title": "Food tracking",
 				"content_html": "<p>Perhaps a weird way to put it, but it&rsquo;s accurate to say that I&rsquo;ve been <em>enjoying</em> tracking my food intake for the past 6 months. I&rsquo;ve been tracking exercise for longer, and I started tracking food too when I realized I was mentally reaching for my phone after meals to record the data - I wanted to have a record of how I was doing.</p>\n<p>I use MacroFactor, which is thoughtfully designed to do the job and get out of your way. I expected tracking to feel bad, but that mostly hasn&rsquo;t happened. I set an agreement with myself that I can eat and drink whatever I want as long as I track it accurately, which has been freeing, but also has highlighted food that I wouldn&rsquo;t have enjoyed enough to be worth its calories.</p>\n<p>It has helped to track some positive things too: I&rsquo;m trying to get a good macro balance of protein/carbs/fat, and in particular eat more protein than I would naturally; I&rsquo;m not just trying to avoid junk food.</p>\n<p>Some things I learned:</p>\n<ul>\n<li>I tend to eat more fat than my targets but often fewer carbs; I expected the reverse</li>\n<li>Alcohol is even higher calorie than I realized, but more insidiously, I am much hungrier on days I drink than days I don&rsquo;t (I still enjoy a drink most days)</li>\n<li>100cal of protein feels much more satisfying than 100cal of either carbs or fat when I&rsquo;m hungry between meals</li>\n</ul>\n",
 				"content_text": "Perhaps a weird way to put it, but it's accurate to say that I've been _enjoying_ tracking my food intake for the past 6 months. I've been tracking exercise for longer, and I started tracking food too when I realized I was mentally reaching for my phone after meals to record the data - I wanted to have a record of how I was doing.\n\nI use MacroFactor, which is thoughtfully designed to do the job and get out of your way. I expected tracking to feel bad, but that mostly hasn't happened. I set an agreement with myself that I can eat and drink whatever I want as long as I track it accurately, which has been freeing, but also has highlighted food that I wouldn't have enjoyed enough to be worth its calories.\n\nIt has helped to track some positive things too: I'm trying to get a good macro balance of protein/carbs/fat, and in particular eat more protein than I would naturally; I'm not just trying to avoid junk food.\n\nSome things I learned:\n\n* I tend to eat more fat than my targets but often fewer carbs; I expected the reverse\n* Alcohol is even higher calorie than I realized, but more insidiously, I am much hungrier on days I drink than days I don't (I still enjoy a drink most days)\n* 100cal of protein feels much more satisfying than 100cal of either carbs or fat when I'm hungry between meals\n",
-				"date_published": "2024-06-03T23:13:43-06:00",
-				"url": "https://whispers.micahrl.com/2024/06/04/food-tracking.html"
+				"date_published": "2024-06-04T00:13:43-05:00",
+				"url": "https://whispers.micahrl.com/2024/06/03/food-tracking/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/06/01/if-you-see.html",
+				"id": "http://micahrl.micro.blog/2024/06/01/if-you-see-something-strange/",
 				
 				"content_html": "<p>If you see something strange, say something strange</p>\n",
 				"content_text": "If you see something strange, say something strange\n",
-				"date_published": "2024-06-01T20:00:53-06:00",
-				"url": "https://whispers.micahrl.com/2024/06/01/if-you-see.html"
+				"date_published": "2024-06-01T21:00:53-05:00",
+				"url": "https://whispers.micahrl.com/2024/06/01/if-you-see-something-strange/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/05/29/just-beat-my.html",
+				"id": "http://micahrl.micro.blog/2024/05/29/just-beat-my-move-goal/",
 				
 				"content_html": "<p>Just beat my move goal while sitting at a restaurant eating spicy food</p>\n",
 				"content_text": "Just beat my move goal while sitting at a restaurant eating spicy food \n",
-				"date_published": "2024-05-29T19:39:09-06:00",
-				"url": "https://whispers.micahrl.com/2024/05/29/just-beat-my.html"
+				"date_published": "2024-05-29T20:39:09-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/29/just-beat-my-move-goal/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/05/26/something-else-i.html",
+				"id": "http://micahrl.micro.blog/2024/05/26/something-else-i-noticed-after/",
 				
 				"content_html": "<blockquote>\n<p>Something else I noticed after updating to Sonoma: although I&rsquo;ve tried many times in the past to extinguish it, the text replacement omw has once again returned, almost like a cicada.</p>\n</blockquote>\n<p><a href=\"https://lapcatsoftware.com/articles/2024/5/4.html\">Jeff Johnson</a></p>\n",
 				"content_text": "> Something else I noticed after updating to Sonoma: although I've tried many times in the past to extinguish it, the text replacement omw has once again returned, almost like a cicada.\n\n[Jeff Johnson](https://lapcatsoftware.com/articles/2024/5/4.html)\n",
-				"date_published": "2024-05-26T10:58:14-06:00",
-				"url": "https://whispers.micahrl.com/2024/05/26/something-else-i.html"
+				"date_published": "2024-05-26T11:58:14-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/26/something-else-i-noticed-after/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/05/25/realized-since-having.html",
+				"id": "http://micahrl.micro.blog/2024/05/25/realized-since-having-a-baby/",
 				
 				"content_html": "<p>Realized since having a baby why YouTube face is so annoying: it&rsquo;s an exaggerated face we make <em>for babies</em>. It&rsquo;s like the baby talk of facial expressions. YouTube face in non-baby contexts is like listening to an obsequious couple in the next booth baby-talking to each other.</p>\n",
 				"content_text": "Realized since having a baby why YouTube face is so annoying: it's an exaggerated face we make _for babies_. It's like the baby talk of facial expressions. YouTube face in non-baby contexts is like listening to an obsequious couple in the next booth baby-talking to each other. \n",
-				"date_published": "2024-05-25T09:01:30-06:00",
-				"url": "https://whispers.micahrl.com/2024/05/25/realized-since-having.html"
+				"date_published": "2024-05-25T10:01:30-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/25/realized-since-having-a-baby/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/05/23/lets-kerberos-cool.html",
+				"id": "http://micahrl.micro.blog/2024/05/23/lets-kerberos-cool-thought-experiment/",
 				
 				"content_html": "<p><a href=\"http://www.imperialviolet.org/2024/04/07/letskerberos.html\">Let&rsquo;s Kerberos</a></p>\n<p>Cool thought experiment</p>\n<p>Whenever I think about Kerberos I think about the frequent time I spent at Barnes and Noble in high school, sitting on the floor of the computer books section, reading everything I could about Unix, trying hard to understand Kerberos and many other things</p>\n",
 				"content_text": "[Let's Kerberos](http://www.imperialviolet.org/2024/04/07/letskerberos.html)\n\nCool thought experiment\n\nWhenever I think about Kerberos I think about the frequent time I spent at Barnes and Noble in high school, sitting on the floor of the computer books section, reading everything I could about Unix, trying hard to understand Kerberos and many other things\n",
-				"date_published": "2024-05-23T07:39:52-06:00",
-				"url": "https://whispers.micahrl.com/2024/05/23/lets-kerberos-cool.html"
+				"date_published": "2024-05-23T08:39:52-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/23/lets-kerberos-cool-thought-experiment/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/05/22/im-not-trying.html",
+				"id": "http://micahrl.micro.blog/2024/05/22/im-not-trying-to-make/",
 				
 				"content_html": "<p>I&rsquo;m not trying to make everyone mad, but I gotta say, an Alpine Linux that used systemd for everything would solve a lot of problems for me.</p>\n",
 				"content_text": "I'm not trying to make everyone mad, but I gotta say, an Alpine Linux that used systemd for everything would solve a lot of problems for me.\n",
-				"date_published": "2024-05-22T21:23:20-06:00",
-				"url": "https://whispers.micahrl.com/2024/05/22/im-not-trying.html"
+				"date_published": "2024-05-22T22:23:20-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/22/im-not-trying-to-make/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/05/21/claws-sharpenedchitin-waxedsplines.html",
+				"id": "http://micahrl.micro.blog/2024/05/21/claws-sharpened-chitin-waxed-splines/",
 				
 				"content_html": "<ul>\n<li>Claws: sharpened</li>\n<li>Chitin: waxed</li>\n<li>Splines: reticulated</li>\n<li>Glands: excreting</li>\n</ul>\n<p>👹</p>\n",
 				"content_text": "* Claws: sharpened\n* Chitin: waxed\n* Splines: reticulated\n* Glands: excreting\n\n👹\n",
-				"date_published": "2024-05-21T11:18:06-06:00",
-				"url": "https://whispers.micahrl.com/2024/05/21/claws-sharpenedchitin-waxedsplines.html"
+				"date_published": "2024-05-21T12:18:06-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/21/claws-sharpened-chitin-waxed-splines/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/05/06/patterns.html",
+				"id": "http://micahrl.micro.blog/2024/05/06/patterns/",
 				
 				"content_html": "<p>Patterns</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Patterns\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/img-8106.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2024/img-8105.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2024-05-06T22:46:19-06:00",
-				"url": "https://whispers.micahrl.com/2024/05/06/patterns.html"
+				"date_published": "2024-05-06T23:46:19-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/06/patterns/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/05/06/my-favorite-math.html",
+				"id": "http://micahrl.micro.blog/2024/05/06/my-favorite-math-scratchpad-app/",
 				
 				"content_html": "<p>My favorite math scratchpad app <a href=\"https://soulver.app/\">Soulver</a> is available on iPhone again - way nicer than a spreadsheet for simple algebra, <em>especially</em> on a phone</p>\n",
 				"content_text": "My favorite math scratchpad app [Soulver](https://soulver.app/) is available on iPhone again - way nicer than a spreadsheet for simple algebra, _especially_ on a phone\n",
-				"date_published": "2024-05-06T22:19:43-06:00",
-				"url": "https://whispers.micahrl.com/2024/05/06/my-favorite-math.html"
+				"date_published": "2024-05-06T23:19:43-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/06/my-favorite-math-scratchpad-app/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2024/05/06/i-really-wish.html",
+				"id": "http://micahrl.micro.blog/2024/05/06/i-really-wish-they-would/",
 				
 				"content_html": "<p>I really wish they would like, put a murderous dictator in charge of HDMI (and all) versioning. if you do not stamp the version number on the cables in a way that can be read after it&rsquo;s been in my garage for 50 years, you get dropped in the piranha tank</p>\n",
 				"content_text": "I really wish they would like, put a murderous dictator in charge of HDMI (and all) versioning. if you do not stamp the version number on the cables in a way that can be read after it's been in my garage for 50 years, you get dropped in the piranha tank\n",
-				"date_published": "2024-05-06T21:28:09-06:00",
-				"url": "https://whispers.micahrl.com/2024/05/06/i-really-wish.html"
+				"date_published": "2024-05-06T22:28:09-05:00",
+				"url": "https://whispers.micahrl.com/2024/05/06/i-really-wish-they-would/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/07/26/quoting-ryan-tomayko.html",
+				"id": "http://micahrl.micro.blog/2023/07/26/quoting-ryan-tomayko-on-how/",
 				
 				"content_html": "<p><a href=\"https://github.com/rtomayko/ronn\">Quoting Ryan Tomayko</a> on how many levels of headers you really need in your documents:</p>\n<blockquote>\n<p>Remember that Feynman covered all of physics &ndash; heavenly bodies through QED &ndash; with only two levels of document hierarchy (<em>The Feynman Lectures on Physics, 1970</em>).</p>\n</blockquote>\n",
 				"content_text": "[Quoting Ryan Tomayko](https://github.com/rtomayko/ronn) on how many levels of headers you really need in your documents:\n\n> Remember that Feynman covered all of physics -- heavenly bodies through QED -- with only two levels of document hierarchy (_The Feynman Lectures on Physics, 1970_).\n",
-				"date_published": "2023-07-26T12:22:47-06:00",
-				"url": "https://whispers.micahrl.com/2023/07/26/quoting-ryan-tomayko.html"
+				"date_published": "2023-07-26T13:22:47-05:00",
+				"url": "https://whispers.micahrl.com/2023/07/26/quoting-ryan-tomayko-on-how/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/07/12/operating-system-feature.html",
+				"id": "http://micahrl.micro.blog/2023/07/12/operating-system-feature-wish-userspace/",
 				"title": "Operating system feature wish: userspace programmable files",
 				"content_html": "<p>I frequently find myself wishing for the ability to really treat the filesystem as an API. Imagine a file that:</p>\n<ul>\n<li>returns the current date/time in a certain format when it is read</li>\n<li><a href=\"https://twitter.com/mrled/status/1571522190104739840\">transparently download binaries from github and assemble them into .deb/.rpm/.apk packages</a></li>\n<li>&hellip; maybe more</li>\n</ul>\n<p>I am aware the FUSE and plan9 exist, however, I&rsquo;m imagining something easier. Imagine if a file could run a shell script, interpreted program, or compiled binary on read/write! It would be so powerful.</p>\n",
 				"content_text": "I frequently find myself wishing for the ability to really treat the filesystem as an API. Imagine a file that:\r\n\r\n* returns the current date/time in a certain format when it is read\r\n* [transparently download binaries from github and assemble them into .deb/.rpm/.apk packages](https://twitter.com/mrled/status/1571522190104739840)\r\n* ... maybe more\r\n \r\nI am aware the FUSE and plan9 exist, however, I'm imagining something easier. Imagine if a file could run a shell script, interpreted program, or compiled binary on read/write! It would be so powerful.\n",
-				"date_published": "2023-07-12T15:48:11-06:00",
-				"url": "https://whispers.micahrl.com/2023/07/12/operating-system-feature.html"
+				"date_published": "2023-07-12T16:48:11-05:00",
+				"url": "https://whispers.micahrl.com/2023/07/12/operating-system-feature-wish-userspace/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/07/03/ugc-privatization-could.html",
+				"id": "http://micahrl.micro.blog/2023/07/03/ugc-privatization-could-improve-ai/",
 				"title": "UGC privatization could improve AI models",
 				"content_html": "<p>An off the cuff idea:</p>\n<p>AI training on public data is driving privatization of user-generated content (eg Reddit API). This could push users with a real need for the information who today rely on public google search to build private archives. For instance, keeping a copy of the most insightful StackExchange answers that help you do your job.</p>\n<p>If that happens, AI companies that figure out how to ingest private archives will have a training advantage, even if doing so is a gray area legally, as training based on sci-hub was for modern models.</p>\n<p>It might even mean that the quality of the training goes <em>up</em> even as the amount of publicly available UGC goes down, since the private archives are curated by humans, and curation is a quality signal.</p>\n",
 				"content_text": "An off the cuff idea:\n\nAI training on public data is driving privatization of user-generated content (eg Reddit API). This could push users with a real need for the information who today rely on public google search to build private archives. For instance, keeping a copy of the most insightful StackExchange answers that help you do your job.  \n\nIf that happens, AI companies that figure out how to ingest private archives will have a training advantage, even if doing so is a gray area legally, as training based on sci-hub was for modern models.\n\nIt might even mean that the quality of the training goes _up_ even as the amount of publicly available UGC goes down, since the private archives are curated by humans, and curation is a quality signal.\n",
-				"date_published": "2023-07-03T12:52:33-06:00",
-				"url": "https://whispers.micahrl.com/2023/07/03/ugc-privatization-could.html"
+				"date_published": "2023-07-03T13:52:33-05:00",
+				"url": "https://whispers.micahrl.com/2023/07/03/ugc-privatization-could-improve-ai/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/06/14/browsers-need-better.html",
+				"id": "http://micahrl.micro.blog/2023/06/14/browsers-need-better-account-primitives/",
 				"title": "Browsers need better account primitives",
 				"content_html": "<p>Michał Sapka notes that <a href=\"https://michal.sapka.me/2023/reddit-and-the-centralized-web/\">PhpBB is a good way to create a small community</a>. I&rsquo;d like this to be true, but I think this makes the barrier to entry too high for normie participation.</p>\n<p>I think part of the reason Reddit has been so successful is that website account creation is such a chore. If every subreddit required a separate account, would they have a tenth of their users? A hundredth? Less?</p>\n<p>Currently if you&rsquo;re a small blog or community and want to provide persistent identity for commenting/forums, you need to allow some subset of account creation with email and integration with identity providers like Apple, Google, Github, etc. But you can&rsquo;t reasonably offer <em>all</em> of them, because there are too many! It&rsquo;s a front end design problem: do you want commenting on your blog to require searching through the list of all possible identity providers? Sounds very 2007.</p>\n<p>And email as the identity manager is just awful: not only do you have to share a password or use a password manager, but you have wait for the site to send you an email and click a link before your account can be set up.</p>\n<p>What if the browser stored a user&rsquo;s preference for identity provider? Support everyone, let the browser prompt the user to log in with the one they already selected. No overdramatic interstitial &ldquo;WARNING: THIS WILL ALLOW THE WEBSITE example.com READ ONLY ACCESS TO YOUR: PUBLIC PROFILE&rdquo; (the user already accepted it), no email link.</p>\n<p>It&rsquo;s also unphishable, as it happens in browser chrome.</p>\n",
 				"content_text": "Michał Sapka notes that [PhpBB is a good way to create a small community](https://michal.sapka.me/2023/reddit-and-the-centralized-web/). I'd like this to be true, but I think this makes the barrier to entry too high for normie participation. \n\nI think part of the reason Reddit has been so successful is that website account creation is such a chore. If every subreddit required a separate account, would they have a tenth of their users? A hundredth? Less?\n\nCurrently if you're a small blog or community and want to provide persistent identity for commenting/forums, you need to allow some subset of account creation with email and integration with identity providers like Apple, Google, Github, etc. But you can't reasonably offer _all_ of them, because there are too many! It's a front end design problem: do you want commenting on your blog to require searching through the list of all possible identity providers? Sounds very 2007.\n\nAnd email as the identity manager is just awful: not only do you have to share a password or use a password manager, but you have wait for the site to send you an email and click a link before your account can be set up.\n\nWhat if the browser stored a user's preference for identity provider? Support everyone, let the browser prompt the user to log in with the one they already selected. No overdramatic interstitial \"WARNING: THIS WILL ALLOW THE WEBSITE example.com READ ONLY ACCESS TO YOUR: PUBLIC PROFILE\" (the user already accepted it), no email link.\n\nIt's also unphishable, as it happens in browser chrome. \n",
-				"date_published": "2023-06-14T12:17:21-06:00",
-				"url": "https://whispers.micahrl.com/2023/06/14/browsers-need-better.html"
+				"date_published": "2023-06-14T13:17:21-05:00",
+				"url": "https://whispers.micahrl.com/2023/06/14/browsers-need-better-account-primitives/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/05/23/i-am-seeing.html",
+				"id": "http://micahrl.micro.blog/2023/05/23/i-am-seeing-more-and/",
 				
 				"content_html": "<p>I am seeing more and more bad hyphenation recently, this is just so sad :(</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I am seeing more and more bad hyphenation recently, this is just so sad :( \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/a043cd4e0a.jpg\" width=\"600\" height=\"242\" alt=\"\">\n",
-				"date_published": "2023-05-23T12:19:02-06:00",
-				"url": "https://whispers.micahrl.com/2023/05/23/i-am-seeing.html"
+				"date_published": "2023-05-23T13:19:02-05:00",
+				"url": "https://whispers.micahrl.com/2023/05/23/i-am-seeing-more-and/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/05/23/copiloting-llms-building.html",
+				"id": "http://micahrl.micro.blog/2023/05/23/copiloting-llms-building-guis/",
 				"title": "Copiloting LLMs building GUIs",
 				"content_html": "<p>Hypothesis: LLMs will enable developers like me to build apps that require a serviceable but not world class graphical UI. This could unlock a deluge of applications built from or inspired by existing open-source command-line apps that don&rsquo;t have a GUI complement, especially mobile apps.</p>\n<p>One reason I&rsquo;ve always liked the command line is that it&rsquo;s easy to build a decent UI - even a good one. I&rsquo;ve churned out a few dozen lines of python to create a great little CLI many times over the years, and it only takes a few minutes now. But GUIs are such a deep subject that require their own expertise, and all the GUIs I&rsquo;ve built have taken weeks.</p>\n<p>I started a SwiftUI app in Xcode yesterday and found myself missing Copilot immediately. I haven&rsquo;t used Swift in a long time, and I&rsquo;ve never used SwiftUI, so the median Copilot suggestion would have been extremely welcome. But what I realized I <em>really</em> wanted to ask a hypothetical XCode Copilot is &ldquo;what&rsquo;s the normal way to build an app that has one main screen and some sub-views in SwiftUI?&rdquo;. I had no idea how to do this, and I wasn&rsquo;t contexted enough in SwiftUI to ask the right questions.</p>\n<p>In my experience with actual Github Copilot, and also with ChatGPT, questions about the normal way to do something get the best results. I&rsquo;ve never seen a useful answer inventing new techniques, but they can certainly give you the average quicksort implementation (and explain it too). If they can do that for building simple GUIs, that will let a lot of command-line programmers like me graduate to baby&rsquo;s first mobile app.</p>\n<p>All of this would be really great even for users, because it might be the rising tide that takes open source software GUIs from subpar to good enough. I am guessing that there are thousands of useful apps that have very simple UIs with just a few screens, and that maybe there are thousands more that complement existing open source command-line programs which could be built if making the GUI was easier.</p>\n<p>I&rsquo;m not sure if the LLMs are there today; I haven&rsquo;t built any graphical UIs with Copilot. I wonder what the state of this is at Google with Android Studio, or at Microsoft with whatever its mobile app GUI system is, or at Microsoft with Visual Studio (the big one, not VS Code). It seems like it&rsquo;s too early to be optimized in any direction yet, but maybe they have this already. Would be neat to try it out.</p>\n",
 				"content_text": "Hypothesis: LLMs will enable developers like me to build apps that require a serviceable but not world class graphical UI. This could unlock a deluge of applications built from or inspired by existing open-source command-line apps that don't have a GUI complement, especially mobile apps.\n\nOne reason I've always liked the command line is that it's easy to build a decent UI - even a good one. I've churned out a few dozen lines of python to create a great little CLI many times over the years, and it only takes a few minutes now. But GUIs are such a deep subject that require their own expertise, and all the GUIs I've built have taken weeks.\n\nI started a SwiftUI app in Xcode yesterday and found myself missing Copilot immediately. I haven't used Swift in a long time, and I've never used SwiftUI, so the median Copilot suggestion would have been extremely welcome. But what I realized I _really_ wanted to ask a hypothetical XCode Copilot is \"what's the normal way to build an app that has one main screen and some sub-views in SwiftUI?\". I had no idea how to do this, and I wasn't contexted enough in SwiftUI to ask the right questions.\n\nIn my experience with actual Github Copilot, and also with ChatGPT, questions about the normal way to do something get the best results. I've never seen a useful answer inventing new techniques, but they can certainly give you the average quicksort implementation (and explain it too). If they can do that for building simple GUIs, that will let a lot of command-line programmers like me graduate to baby's first mobile app.\n\nAll of this would be really great even for users, because it might be the rising tide that takes open source software GUIs from subpar to good enough. I am guessing that there are thousands of useful apps that have very simple UIs with just a few screens, and that maybe there are thousands more that complement existing open source command-line programs which could be built if making the GUI was easier.\n\nI'm not sure if the LLMs are there today; I haven't built any graphical UIs with Copilot. I wonder what the state of this is at Google with Android Studio, or at Microsoft with whatever its mobile app GUI system is, or at Microsoft with Visual Studio (the big one, not VS Code). It seems like it's too early to be optimized in any direction yet, but maybe they have this already. Would be neat to try it out.\n",
-				"date_published": "2023-05-23T09:35:35-06:00",
-				"url": "https://whispers.micahrl.com/2023/05/23/copiloting-llms-building.html"
+				"date_published": "2023-05-23T10:35:35-05:00",
+				"url": "https://whispers.micahrl.com/2023/05/23/copiloting-llms-building-guis/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/05/18/homelab-aesthetic-quotes.html",
+				"id": "http://micahrl.micro.blog/2023/05/18/homelab-aesthetic-quotes-from-computers/",
 				"title": "Homelab aesthetic quotes from computers are bad",
 				"content_html": "<blockquote>\n<p>And I think that&rsquo;s how I became the person I am today: I want computer networks to operate in as straightforward and tangible a fashion as they did in 2009. And I want a lot of cabling.</p>\n<p>&hellip;</p>\n<p>Pihole forms part of a split-horizon DNS arrangement on the top-level domain I use, which is such a nice name I made it available on FreeDNS where it is used by a dozen poorly run Minecraft servers. This introduces an interesting set of DNS hijacking and misconfiguration hazards, which I find aesthetically pleasing.</p>\n</blockquote>\n<ul>\n<li><a href=\"https://computer.rip/2023-02-13-my-homelab.html\">&ldquo;my homelab&rdquo; - computers are bad</a></li>\n</ul>\n",
 				"content_text": "> And I think that's how I became the person I am today: I want computer networks to operate in as straightforward and tangible a fashion as they did in 2009. And I want a lot of cabling.\n> \n>...\n>\n> Pihole forms part of a split-horizon DNS arrangement on the top-level domain I use, which is such a nice name I made it available on FreeDNS where it is used by a dozen poorly run Minecraft servers. This introduces an interesting set of DNS hijacking and misconfiguration hazards, which I find aesthetically pleasing.\n\n- [\"my homelab\" - computers are bad](https://computer.rip/2023-02-13-my-homelab.html)\n",
-				"date_published": "2023-05-18T07:41:05-06:00",
-				"url": "https://whispers.micahrl.com/2023/05/18/homelab-aesthetic-quotes.html"
+				"date_published": "2023-05-18T08:41:05-05:00",
+				"url": "https://whispers.micahrl.com/2023/05/18/homelab-aesthetic-quotes-from-computers/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/05/17/a-routerenforced-eula.html",
+				"id": "http://micahrl.micro.blog/2023/05/17/a-routerenforced-eula-for-iot/",
 				"title": "A router-enforced EULA for IoT devices",
 				"content_html": "<p>A recent <a href=\"https://tweets.micahrl.com/twarchive/1595281933696749569/\">shower thought</a>: consumer routers could enforce good IoT manufacturer behavior by placing devices on a secure, contained network by default, and allowing full access only if a device is receiving security updates.</p>\n<p>The default network would be slower and heavily limited in endpoints it could hit, and in particular would not allow accessing any other devices on the local network. If an IoT manufacturer commits to security updates, they could be allowed on the full network. Defection could be subject to legal liabilities, up to a lawsuit in the worst case.</p>\n<p>Over time, the feature could become more sophisticated, for instance by providing a better EOL experience. Currently, IoT manufacturers just leave their waste with the customer and mostly don&rsquo;t even tell them (a <a href=\"https://schwarztech.net/snippets/researchers-find-security-flaw-in-wemo-smart-plug-belkin-says-it-wont-release-a-patch\">recent example</a>). This system might:</p>\n<ul>\n<li>offer an API on the router that devices call to register their EOL date</li>\n<li>inform users when a device approaches EOL</li>\n<li>show a dashboard of devices and how long they&rsquo;re supported</li>\n<li>automatically contain devices that reach EOL</li>\n</ul>\n<p>Come to think of it, there&rsquo;s nothing that would technically restrict this to IoT devices. PCs could opt into this too. Probably most useful as a form of parental management of children&rsquo;s devices &ndash; baby&rsquo;s first mdm.</p>\n<p>Router manufacturers would have to step up their own game, but they also would get upside: more customer touchpoints.</p>\n<p>The best version of this would be an open standard, preserving consumer choice and competition. The hope would be that it improves baseline, even if industry consensus is hard. In the worst case, the consumer isn&rsquo;t served because the standard is captured by the industry, which could then mislead in product ads and/or abuse the customer communications channels with ads.</p>\n",
 				"content_text": "A recent [shower thought](https://tweets.micahrl.com/twarchive/1595281933696749569/): consumer routers could enforce good IoT manufacturer behavior by placing devices on a secure, contained network by default, and allowing full access only if a device is receiving security updates.\n\nThe default network would be slower and heavily limited in endpoints it could hit, and in particular would not allow accessing any other devices on the local network. If an IoT manufacturer commits to security updates, they could be allowed on the full network. Defection could be subject to legal liabilities, up to a lawsuit in the worst case.\n\nOver time, the feature could become more sophisticated, for instance by providing a better EOL experience. Currently, IoT manufacturers just leave their waste with the customer and mostly don't even tell them (a [recent example](https://schwarztech.net/snippets/researchers-find-security-flaw-in-wemo-smart-plug-belkin-says-it-wont-release-a-patch)). This system might:\n\n- offer an API on the router that devices call to register their EOL date\n- inform users when a device approaches EOL\n- show a dashboard of devices and how long they're supported\n- automatically contain devices that reach EOL\n\nCome to think of it, there's nothing that would technically restrict this to IoT devices. PCs could opt into this too. Probably most useful as a form of parental management of children's devices -- baby's first mdm.\n\nRouter manufacturers would have to step up their own game, but they also would get upside: more customer touchpoints.\n\nThe best version of this would be an open standard, preserving consumer choice and competition. The hope would be that it improves baseline, even if industry consensus is hard. In the worst case, the consumer isn't served because the standard is captured by the industry, which could then mislead in product ads and/or abuse the customer communications channels with ads. \n",
-				"date_published": "2023-05-17T17:24:08-06:00",
-				"url": "https://whispers.micahrl.com/2023/05/17/a-routerenforced-eula.html"
+				"date_published": "2023-05-17T18:24:08-05:00",
+				"url": "https://whispers.micahrl.com/2023/05/17/a-routerenforced-eula-for-iot/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/05/16/ironic-to-use.html",
+				"id": "http://micahrl.micro.blog/2023/05/16/ironic-to-use-social-sanctions/",
 				
 				"content_html": "<p>Ironic to use social sanctions (&ldquo;climate incinerating&rdquo;, etc) against cryptocurrency people. The whole point of proof-of-* systems is that social sanctions don&rsquo;t work. An attack that the targets are inoculated against by definition.</p>\n",
 				"content_text": "Ironic to use social sanctions (\"climate incinerating\", etc) against cryptocurrency people. The whole point of proof-of-* systems is that social sanctions don't work. An attack that the targets are inoculated against by definition.\n",
-				"date_published": "2023-05-16T10:19:55-06:00",
-				"url": "https://whispers.micahrl.com/2023/05/16/ironic-to-use.html"
+				"date_published": "2023-05-16T11:19:55-05:00",
+				"url": "https://whispers.micahrl.com/2023/05/16/ironic-to-use-social-sanctions/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/05/15/qubes-whonix-is.html",
+				"id": "http://micahrl.micro.blog/2023/05/15/qubes-whonix-is-one-of/",
 				
 				"content_html": "<p><a href=\"https://qubes-os.org\">Qubes</a> + <a href=\"https://www.whonix.org\">Whonix</a> is one of the best ways to make sure you don&rsquo;t leak your identity on Tor but I keep getting nerd sniped. Should I use split SSH?; I don&rsquo;t use GPG for anything but maybe I could&hellip;; Oh neat, automatic VM creation with Salt; &hellip;</p>\n",
 				"content_text": "[Qubes](https://qubes-os.org) + [Whonix](https://www.whonix.org) is one of the best ways to make sure you don't leak your identity on Tor but I keep getting nerd sniped. Should I use split SSH?; I don't use GPG for anything but maybe I could...; Oh neat, automatic VM creation with Salt; ... \n",
-				"date_published": "2023-05-15T22:24:09-06:00",
-				"url": "https://whispers.micahrl.com/2023/05/15/qubes-whonix-is.html"
+				"date_published": "2023-05-15T23:24:09-05:00",
+				"url": "https://whispers.micahrl.com/2023/05/15/qubes-whonix-is-one-of/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/03/20/musing-on-ai.html",
+				"id": "http://micahrl.micro.blog/2023/03/20/musing-on-ai-tools/",
 				"title": "Musing on AI tools",
 				"content_html": "<p>Regarding AI prose suggestions like <a href=\"https://twitter.com/benparr/status/1635684322261729282\">this</a>, it seems to me that there&rsquo;s a big divide between documents intended for others and notes intended for personal use. Clearly you wouldn&rsquo;t want short sentences like &ldquo;I&rsquo;m on it&rdquo; to translate to 2 paragraphs in <a href=\"https://inkdrop.app\">inkdrop.app</a> (my notes app of choice) or <a href=\"https://obsidian.md\">obsidian.md</a>.</p>\n<p>One place I have noticed this myself is in Github Copilot - so far, its code suggestions have been more helpful than its comment suggestions. In my limited experience, I get idiomatic, non-flowery code that could have been written by anyone, but I get comments that sound off to me. Sometimes the tone strikes me as actively obnoxious; I think this is just that it doesn&rsquo;t feel like I wrote it or could identify with it. I rarely use Copilot&rsquo;s comments.</p>\n<p>Worse, I find them distracting. I don&rsquo;t find its code completion nearly as distracting as how it tries to finish my English sentences in comments. Prior to the latest AI feature rollout from Google, there were ubiquitous short phrase suggestions in Docs and Gmail, which I also found distracting in a similar way. They derail my train of thought, and I end up losing time rather than saving it.</p>\n<hr>\n<p>&hellip; although I&rsquo;ve also been thinking of ways such verbose automatic rewrites might be helpful.</p>\n<p>One hypothetical: if everyone uses ML suggestions, and everyone knows that everyone is using ML suggestions, then you could imagine spending a lot less time analyzing the tone of professional communication for personal slights. For all but the most overt slights, there&rsquo;s plausible deniability in &ldquo;oh well, that was just the AI&rdquo;. This might make fractious professional relationships less uncomfortable, or prevent them from arising in the first place.</p>\n<hr>\n<p>The fact that the appropriateness of a given suggestion is partly determined by its audience prompts the idea that the machine could have many audiences in mind and the user could choose between them. It might have generic heuristics about professional communication or notes to self, or specific training about the way the CEO likes to hear about production problems.</p>\n<hr>\n<p>And that idea, of choosing an audience for suggestions, prompts an idea that the AI text generation could happen at the time of reading, rather than the time of writing. I wonder if there will ever be a need for a low level conceptual representation that the AI could translate for any type of target audience, like <a href=\"https://en.wikipedia.org/wiki/Intermediate_representation\">IR</a> for natural language.</p>\n<p>Maybe this starts off by converting the user&rsquo;s natural language input to something that looks like an English prompt. &ldquo;Hello, I hope this email finds you well.&rdquo; -&gt; &ldquo;greeting, professional, short, top of email, trending on greetingstation, let&rsquo;s greet step by step&rdquo;. Or maybe it&rsquo;s something lower level, some occult binary format that only a dedicated <a href=\"https://en.wikipedia.org/wiki/Reverse_engineering\">reverser</a> could love.</p>\n<hr>\n<p>You&rsquo;ve gotten to the bottom of the post, so I can admit it here: I didn&rsquo;t have any artificial help writing this post. I didn&rsquo;t even reach out to Bing for comment. This way, I get to keep all the mistakes for myself.</p>\n",
 				"content_text": "Regarding AI prose suggestions like [this](https://twitter.com/benparr/status/1635684322261729282), it seems to me that there's a big divide between documents intended for others and notes intended for personal use. Clearly you wouldn't want short sentences like \"I'm on it\" to translate to 2 paragraphs in [inkdrop.app](https://inkdrop.app) (my notes app of choice) or [obsidian.md](https://obsidian.md).\n\nOne place I have noticed this myself is in Github Copilot - so far, its code suggestions have been more helpful than its comment suggestions. In my limited experience, I get idiomatic, non-flowery code that could have been written by anyone, but I get comments that sound off to me. Sometimes the tone strikes me as actively obnoxious; I think this is just that it doesn't feel like I wrote it or could identify with it. I rarely use Copilot's comments.\n\nWorse, I find them distracting. I don't find its code completion nearly as distracting as how it tries to finish my English sentences in comments. Prior to the latest AI feature rollout from Google, there were ubiquitous short phrase suggestions in Docs and Gmail, which I also found distracting in a similar way. They derail my train of thought, and I end up losing time rather than saving it.\n\n---\n\n... although I've also been thinking of ways such verbose automatic rewrites might be helpful.\n\nOne hypothetical: if everyone uses ML suggestions, and everyone knows that everyone is using ML suggestions, then you could imagine spending a lot less time analyzing the tone of professional communication for personal slights. For all but the most overt slights, there's plausible deniability in \"oh well, that was just the AI\". This might make fractious professional relationships less uncomfortable, or prevent them from arising in the first place.\n\n---\n\nThe fact that the appropriateness of a given suggestion is partly determined by its audience prompts the idea that the machine could have many audiences in mind and the user could choose between them. It might have generic heuristics about professional communication or notes to self, or specific training about the way the CEO likes to hear about production problems.\n\n---\n\nAnd that idea, of choosing an audience for suggestions, prompts an idea that the AI text generation could happen at the time of reading, rather than the time of writing. I wonder if there will ever be a need for a low level conceptual representation that the AI could translate for any type of target audience, like [IR](https://en.wikipedia.org/wiki/Intermediate_representation) for natural language.\n\nMaybe this starts off by converting the user's natural language input to something that looks like an English prompt. \"Hello, I hope this email finds you well.\" -> \"greeting, professional, short, top of email, trending on greetingstation, let's greet step by step\". Or maybe it's something lower level, some occult binary format that only a dedicated [reverser](https://en.wikipedia.org/wiki/Reverse_engineering) could love.\n\n---\n\nYou've gotten to the bottom of the post, so I can admit it here: I didn't have any artificial help writing this post. I didn't even reach out to Bing for comment. This way, I get to keep all the mistakes for myself.\n\n",
-				"date_published": "2023-03-20T11:54:02-06:00",
-				"url": "https://whispers.micahrl.com/2023/03/20/musing-on-ai.html"
+				"date_published": "2023-03-20T12:54:02-05:00",
+				"url": "https://whispers.micahrl.com/2023/03/20/musing-on-ai-tools/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/03/17/blue-skies-sierra.html",
+				"id": "http://micahrl.micro.blog/2023/03/17/blue-skies-sierra-ferrel-chickenshit/",
 				
 				"content_html": "<p>Blue skies, Sierra Ferrel, chickenshit bingo. Thanks <a href=\"https://luckpresents.com/luck-tx-events/2023luckreunion\">Luck</a>.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Blue skies, Sierra Ferrel, chickenshit bingo. Thanks [Luck](https://luckpresents.com/luck-tx-events/2023luckreunion).\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/4dd496c2b3.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/9131f124e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-03-17T21:37:49-06:00",
-				"url": "https://whispers.micahrl.com/2023/03/17/blue-skies-sierra.html"
+				"date_published": "2023-03-17T22:37:49-05:00",
+				"url": "https://whispers.micahrl.com/2023/03/17/blue-skies-sierra-ferrel-chickenshit/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/03/16/this-would-have.html",
+				"id": "http://micahrl.micro.blog/2023/03/16/this-would-have-been-my/",
 				
 				"content_html": "<p>This would have been my dream laptop until my 2019 onset of RSI :( I miss working out of coffee shops <a href=\"https://www.crowdsupply.com/mnt/pocket-reform\">www.crowdsupply.com/mnt/pocke&hellip;</a></p>\n",
 				"content_text": "This would have been my dream laptop until my 2019 onset of RSI :( I miss working out of coffee shops [www.crowdsupply.com/mnt/pocke...](https://www.crowdsupply.com/mnt/pocket-reform)\n",
-				"date_published": "2023-03-16T11:13:51-06:00",
-				"url": "https://whispers.micahrl.com/2023/03/16/this-would-have.html"
+				"date_published": "2023-03-16T12:13:51-05:00",
+				"url": "https://whispers.micahrl.com/2023/03/16/this-would-have-been-my/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/03/15/til-narrow-banking.html",
+				"id": "http://micahrl.micro.blog/2023/03/15/til-narrow-banking/",
 				"title": "TIL: Narrow banking",
 				"content_html": "<p>Fascinating history that feels very relevant today: there was <a href=\"https://johnhcochrane.blogspot.com/2018/09/fed-nixes-narrow-bank.html\">recently a bank startup called TNB</a> that tried to offer <a href=\"https://en.m.wikipedia.org/wiki/Full-reserve_banking\">&ldquo;narrow banking&rdquo;</a> which would have offered deposit accounts and plops the result directly in the Fed, passing interest to customers (nearly 2% in 2018, although obviously finance people use the obfuscated language of &ldquo;basis points&rdquo; to make everything seem more complicated than it really is). The opposite of <a href=\"https://en.m.wikipedia.org/wiki/Fractional-reserve_banking\">fractional-reserve banking</a>.</p>\n<p>The Fed did not approve this, and the startup <a href=\"https://www.tnbusa.com\">says</a> it &ldquo;seeks to offer&rdquo; narrow banking to this day &ndash; it cannot accept deposits.</p>\n<p>This is relevant to today because <em>runs are impossible</em> in a narrow bank, and FDIC deposit insurance (which has a $250,000 limit) is not necessary. A regular bank takes your money in deposit and immediately loans it out. The bank has a lot of money in absolute terms sitting around liquid so that customers can withdraw approximately whenever they want to, but <em>most</em> money they hold is actually loaned out and therefore illiquid, such that if too many of their customers withdraw at once they will not be able to access it. (This is what happened to SVB.) By contrast, a narrow bank is much simpler; it can always get all of your money immediately from the Fed.</p>\n<p>The inimitable Matt Levine <a href=\"https://www.bloomberg.com/view/articles/2018-09-06/fed-rejects-bank-for-being-too-safe\">covered TNB in more approachable language</a>. Basically, if we had that, then why would regular depositors put their money in a regular bank? Maybe they wouldn&rsquo;t. And if customers didn&rsquo;t use regular banks <em>at scale</em>, then maybe your Chase Bank and your Bank of America don&rsquo;t exist any more, and maybe it&rsquo;s hard to figure out of that&rsquo;s bad for society or not.</p>\n<p>So the Fed just stonewalled. I have no position on whether this was right or wrong. But it&rsquo;s pretty weird! Runs are impossible in a narrow bank, but also probably business loans of various kinds are more expensive. Maybe that&rsquo;s worse?</p>\n",
 				"content_text": "Fascinating history that feels very relevant today: there was [recently a bank startup called TNB](https://johnhcochrane.blogspot.com/2018/09/fed-nixes-narrow-bank.html) that tried to offer [\"narrow banking\"](https://en.m.wikipedia.org/wiki/Full-reserve_banking) which would have offered deposit accounts and plops the result directly in the Fed, passing interest to customers (nearly 2% in 2018, although obviously finance people use the obfuscated language of \"basis points\" to make everything seem more complicated than it really is). The opposite of [fractional-reserve banking](https://en.m.wikipedia.org/wiki/Fractional-reserve_banking).\n\nThe Fed did not approve this, and the startup [says](https://www.tnbusa.com) it \"seeks to offer\" narrow banking to this day -- it cannot accept deposits. \n\nThis is relevant to today because _runs are impossible_ in a narrow bank, and FDIC deposit insurance (which has a $250,000 limit) is not necessary. A regular bank takes your money in deposit and immediately loans it out. The bank has a lot of money in absolute terms sitting around liquid so that customers can withdraw approximately whenever they want to, but _most_ money they hold is actually loaned out and therefore illiquid, such that if too many of their customers withdraw at once they will not be able to access it. (This is what happened to SVB.) By contrast, a narrow bank is much simpler; it can always get all of your money immediately from the Fed.\n\nThe inimitable Matt Levine [covered TNB in more approachable language](https://www.bloomberg.com/view/articles/2018-09-06/fed-rejects-bank-for-being-too-safe). Basically, if we had that, then why would regular depositors put their money in a regular bank? Maybe they wouldn't. And if customers didn't use regular banks _at scale_, then maybe your Chase Bank and your Bank of America don't exist any more, and maybe it's hard to figure out of that's bad for society or not.\n\nSo the Fed just stonewalled. I have no position on whether this was right or wrong. But it's pretty weird! Runs are impossible in a narrow bank, but also probably business loans of various kinds are more expensive. Maybe that's worse?\n",
-				"date_published": "2023-03-15T19:54:59-06:00",
-				"url": "https://whispers.micahrl.com/2023/03/15/til-narrow-banking.html"
+				"date_published": "2023-03-15T20:54:59-05:00",
+				"url": "https://whispers.micahrl.com/2023/03/15/til-narrow-banking/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/03/15/pls-do-not.html",
+				"id": "http://micahrl.micro.blog/2023/03/15/pls-do-not-take/",
 				
 				"content_html": "<p>PLS DO NOT TAKE</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "PLS DO NOT TAKE\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/e140fe4768.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/232337a204.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-03-15T18:10:53-06:00",
-				"url": "https://whispers.micahrl.com/2023/03/15/pls-do-not.html"
+				"date_published": "2023-03-15T19:10:53-05:00",
+				"url": "https://whispers.micahrl.com/2023/03/15/pls-do-not-take/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/03/13/imagine-browsers-offering.html",
+				"id": "http://micahrl.micro.blog/2023/03/13/203819/",
 				
 				"content_html": "<p>Imagine browsers offering synced <code>window.localStorage</code>, with an in-browser UI for whether you&rsquo;re logged in to a site. It would be like iCloud for the web - syncing data via your browser sync password, obviating the need to create a new account for every application that wants to store data, as you&rsquo;re already logged in to iCloud.</p>\n<p>Conceptually, the user could whitelist sites to allow this; the browser would integrate the whitelist into the log-in UI. This would let the browser keep you logged in forever, fixing the terrible short cookie expiry timelines that browsers enforce now to limit tracking. The in-browser UI would be unspoofable (like eg the Firefox extension installation UI), and it would be impossible to phish the credentials (sort of &ndash; attackers could phish the credentials for the sync service, but not individual websites that use it).</p>\n<p>Allowing data to live forever, sync across devices, and be tied to the browser sync profile would mean that apps could rely on static hosting for JavaScript/WebAssembly, and <code>localStorage</code> for user data. Today, lots of apps basically use a server just for hosting user data since browser storage is so unreliable &ndash; those apps could be ported to the web (many automatically with webasm) and live ~forever without requiring hosting costs and security updates. Basically any app designed to run on a desktop operating system and save data to the hard drive could be ported &ndash; MS Paint, Text Edit.app, a full Linux virtual machine with a persistent filesystem via <a href=\"https://copy.sh/v86/\">v86</a>.</p>\n<p>Details to work out: Do you allow sharing data between websites? iCloud doesn&rsquo;t, which is annoying, but the implementation is simpler. The best implementations would be end-to-end encrypted. Ideally, you&rsquo;d be able to mix and match storage providers between different browsers, like using Firefox on Windows to sync with Safari on an iPad.</p>\n<p>A browser extension could do this, but then sites would have to support it specifically. Might be useful as a proof of concept though. I wonder if there are enough primitives in Safari extensions to implement it today?</p>\n",
 				"content_text": "Imagine browsers offering synced `window.localStorage`, with an in-browser UI for whether you're logged in to a site. It would be like iCloud for the web - syncing data via your browser sync password, obviating the need to create a new account for every application that wants to store data, as you're already logged in to iCloud.\r\n\r\nConceptually, the user could whitelist sites to allow this; the browser would integrate the whitelist into the log-in UI. This would let the browser keep you logged in forever, fixing the terrible short cookie expiry timelines that browsers enforce now to limit tracking. The in-browser UI would be unspoofable (like eg the Firefox extension installation UI), and it would be impossible to phish the credentials (sort of -- attackers could phish the credentials for the sync service, but not individual websites that use it).\r\n\r\nAllowing data to live forever, sync across devices, and be tied to the browser sync profile would mean that apps could rely on static hosting for JavaScript/WebAssembly, and `localStorage` for user data. Today, lots of apps basically use a server just for hosting user data since browser storage is so unreliable -- those apps could be ported to the web (many automatically with webasm) and live ~forever without requiring hosting costs and security updates. Basically any app designed to run on a desktop operating system and save data to the hard drive could be ported -- MS Paint, Text Edit.app, a full Linux virtual machine with a persistent filesystem via [v86](https://copy.sh/v86/).\r\n\r\nDetails to work out: Do you allow sharing data between websites? iCloud doesn't, which is annoying, but the implementation is simpler. The best implementations would be end-to-end encrypted. Ideally, you'd be able to mix and match storage providers between different browsers, like using Firefox on Windows to sync with Safari on an iPad.\r\n\r\nA browser extension could do this, but then sites would have to support it specifically. Might be useful as a proof of concept though. I wonder if there are enough primitives in Safari extensions to implement it today?\n",
-				"date_published": "2023-03-13T20:38:19-06:00",
-				"url": "https://whispers.micahrl.com/2023/03/13/imagine-browsers-offering.html"
+				"date_published": "2023-03-13T21:38:19-05:00",
+				"url": "https://whispers.micahrl.com/2023/03/13/203819/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/03/13/circa-or-so.html",
+				"id": "http://micahrl.micro.blog/2023/03/13/circa-or-so-my-family/",
 				
 				"content_html": "<p>Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/fcef8762b3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
-				"date_published": "2023-03-13T19:21:47-06:00",
-				"url": "https://whispers.micahrl.com/2023/03/13/circa-or-so.html"
+				"date_published": "2023-03-13T20:21:47-05:00",
+				"url": "https://whispers.micahrl.com/2023/03/13/circa-or-so-my-family/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/03/13/experimenting-with-a.html",
+				"id": "http://micahrl.micro.blog/2023/03/13/experimenting-with-a-microblog-account/",
 				
 				"content_html": "<p>Experimenting with a micro.blog account. Goals:</p>\n<ul>\n<li>keep posts on my own domain&hellip;</li>\n<li>&hellip; but also be able to easily write from my phone</li>\n<li>write short and medium posts (long ones on main blog)</li>\n<li>keep a foot in the door at Twitter by cross posting</li>\n</ul>\n",
 				"content_text": "Experimenting with a micro.blog account. Goals:\r\n\r\n* keep posts on my own domain...\r\n* ... but also be able to easily write from my phone\r\n* write short and medium posts (long ones on main blog)\r\n* keep a foot in the door at Twitter by cross posting\n",
-				"date_published": "2023-03-13T19:01:03-06:00",
-				"url": "https://whispers.micahrl.com/2023/03/13/experimenting-with-a.html"
+				"date_published": "2023-03-13T20:01:03-05:00",
+				"url": "https://whispers.micahrl.com/2023/03/13/experimenting-with-a-microblog-account/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2023/03/13/test-post-pls.html",
+				"id": "http://micahrl.micro.blog/2023/03/13/test-post-pls-ignore/",
 				
 				"content_html": "<p>Test post, pls ignore</p>\n",
 				"content_text": "Test post, pls ignore\n",
-				"date_published": "2023-03-13T18:57:23-06:00",
-				"url": "https://whispers.micahrl.com/2023/03/13/test-post-pls.html"
+				"date_published": "2023-03-13T19:57:23-05:00",
+				"url": "https://whispers.micahrl.com/2023/03/13/test-post-pls-ignore/"
 			}
 	]
 }
