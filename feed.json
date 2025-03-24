@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2025/03/23/i-just-type-stuff-in/",
+				
+				"content_html": "<p>I just type stuff in to Claude Code then load up the Anthropic Console and watch my balance go down. (Don&rsquo;t worry, it auto reloads.)</p>\n",
+				"content_text": "I just type stuff in to Claude Code then load up the Anthropic Console and watch my balance go down. (Don't worry, it auto reloads.)\n",
+				"date_published": "2025-03-23T22:18:43-05:00",
+				"url": "https://whispers.micahrl.com/2025/03/23/i-just-type-stuff-in/"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2025/03/16/you-know-the-calendar-view/",
 				
 				"content_html": "<p>You know, the calendar view that I would prefer is a nine day week+ view, starting on Saturday and ending on the Sunday of the following weekend. The final weekend is never the current day, ensuring your week view <em>always</em> is showing you what&rsquo;s happening at least the next couple of days.</p>\n",
