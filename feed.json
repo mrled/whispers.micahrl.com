@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2025/05/02/the-biggest-sign-that-openai/",
+				
+				"content_html": "<p>The biggest sign that OpenAI believes in the future of machine intelligence is the abject laziness they put into the consumer facing aspects of their own product. Take this as a compliment or an insult as you will.</p>\n",
+				"content_text": "The biggest sign that OpenAI believes in the future of machine intelligence is the abject laziness they put into the consumer facing aspects of their own product. Take this as a compliment or an insult as you will.\n",
+				"date_published": "2025-05-02T15:28:47-05:00",
+				"url": "https://whispers.micahrl.com/2025/05/02/the-biggest-sign-that-openai/"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2025/03/30/i-wish-there-was-good/",
+				
+				"content_html": "<p>I wish there was good third party highlight/bookmark support for LLM answers. A few times recently I&rsquo;ve gotten responses that included some particularly useful framing or formulation. Wish I could save the whole conversation with the important stuff highlighted. I need a Pinboard for ChatGPT.</p>\n",
+				"content_text": "I wish there was good third party highlight/bookmark support for LLM answers. A few times recently I've gotten responses that included some particularly useful framing or formulation. Wish I could save the whole conversation with the important stuff highlighted. I need a Pinboard for ChatGPT.\n",
+				"date_published": "2025-03-30T22:17:21-05:00",
+				"url": "https://whispers.micahrl.com/2025/03/30/i-wish-there-was-good/"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2025/03/25/this-is-accidentally-becoming-a/",
 				"title": "Final unfiltered thoughts on Claude Code",
 				"content_html": "<p>The last three things on my mind from this week of building <a href=\"https://github.com/mrled/ldapenforcer\">LDAPEnforcer</a> from scratch.</p>\n<ul>\n<li>Claude Code only has the bluntest access to tools like the type system. When you ask it to make a conceptually simple change that I might start by deleting a variable definition and then looking for red underlines in my editor, it just finds one part of the code at random and changes it, and looks for references elsewhere. If it had a direct interface to type systems, linters, etc, that&rsquo;d make it a lot faster.</li>\n<li>Watching it do dumbshit things like make up arguments to <code>cat</code> or read file contents with <code>xxd</code> was cute at first and then very annoying (especially if you&rsquo;re paying attention to <code>/cost</code>&hellip;).</li>\n<li>It <em>desperately</em> needs an always-safe set of tools it can run. If I&rsquo;ve already given you access to the codebase, you shouldn&rsquo;t ask for permission to run grep, but as I mentioned previously you really should know that piping grep&rsquo;s output to something else has implications beyond grep). But beyond that, is having the LLM directly call shell commands really the best way to do this?</li>\n</ul>\n",
@@ -15,18 +31,10 @@
 				"url": "https://whispers.micahrl.com/2025/03/25/this-is-accidentally-becoming-a/"
 			},
 			{
-				"id": "http://micahrl.micro.blog/2025/03/25/more-unfiltered-thoughts-on-claude/",
+				"id": "http://micahrl.micro.blog/2025/03/24/more-unfiltered-thoughts-on-claude/",
 				"title": "More unfiltered thoughts on Claude Code",
 				"content_html": "<p>Continuing from <a href=\"https://whispers.micahrl.com/2025/03/23/some-unfiltered-thoughts-on-claude/\">last time</a>.</p>\n<ul>\n<li>Was very exciting to work with this yesterday. Then I kept waking up last night worrying about job security. The times, they are uncertain.</li>\n<li>I <a href=\"https://whispers.micahrl.com/2025/01/04/ai-chatbot-feature-request-a/\">manifested</a> the Claude Code automatic context management functionality</li>\n<li>I&rsquo;m still waiting for my <a href=\"https://whispers.micahrl.com/2025/01/18/i-wish-i-could-give/\">manifestation</a> of it using PRs automatically. Supposedly it&rsquo;ll retrieve the contents of a URL you give it and take instructions from there (fortunately I can see no security issues with this); if you take this idea just a little further you might think that running the god damned thing in my terminal makes no sense at all, and you should interact with it in a web page, and it should submit all its changes as PRs</li>\n<li>Which would allow you to have multiple of these things working on the same codebase at once! As you accept PRs, they each rebuild their own branches, and handle merge conflicts.</li>\n<li>I think both of these things are in the works from <a href=\"https://sourcegraph.com/blog/revenge-of-the-junior-developer\">people familiar with the product space</a>; I&rsquo;m not having novel ideas, but using the product for a few minutes really makes you want this stuff.</li>\n<li>It doesn&rsquo;t have as good an eye for making reviewable changes as you&rsquo;d like. Sometimes all the tests change and it&rsquo;s hard to understand why. For a side project, you probably just YOLO accept; for code that&rsquo;ll run in production, this will get really boring.</li>\n<li>It really wants to maintain backwards compatibility, which would be nice sometimes, but I really don&rsquo;t need that for a feature you just wrote 5 minutes ago</li>\n<li>Because there is so much time that Claude is churning away spending your money on tokens, this feels a lot less like programming flow state; it&rsquo;s very easy to get distracted and half do 5 things as you keep an eye on Claude in case it got stuck or is asking you for help. In this way it is less enjoyable.</li>\n<li>&hellip; I appreciate that you&rsquo;re asking for permission before running shell commands, but <code>cd ... &amp;&amp; ...</code> is not a &ldquo;cd command&rdquo;.\n<ul>\n<li><img src=\"https://cdn.uploads.micro.blog/103095/2025/screenshot-2025-03-24-at-14.43.51.png\" alt=\"\"></li>\n</ul>\n</li>\n<li>Really does not have a good idea of when to comment; if you provide no guidance it&rsquo;ll shit out a whole file with no comments; if you tell it to comment everything it&rsquo;ll provide inane comments like <code>mainLogLevel := logging.InfoLevel // Default to INFO level</code> (that&rsquo;s a real example).</li>\n<li>Imagining a future version of this stuff\n<ul>\n<li>Don&rsquo;t have the LLM comment <em>any</em> code</li>\n<li>Strictly track what was LLM generated, and associate it with the prompt (could be a prompt from another LLM)</li>\n<li>Strictly track human edits and associate with some comments or commit messages</li>\n<li>Could use git for this, but Claude Code&rsquo;s attempt at an implementation that does so is too ham-fisted for actual use, so I end up artisinally crafting all the commit messages</li>\n<li>Have another LLM help you explain the code, including generating comments at viewing time. Explanations tailored to the user, and the context. The tool knows when you&rsquo;re stepping into a codebase for the first time and when you&rsquo;ve just viewed all the other relevant modules and provides &ldquo;comments&rdquo; that are appropriate to each case.</li>\n</ul>\n</li>\n<li>The real power is having it write tests and test the code it writes. However, it is still pretty LLM-stupid, so you end up with Intro to Programming -level tests like <code>TestInitializeDefaultLogLevelIsInfo</code>.</li>\n</ul>\n",
 				"content_text": "Continuing from [last time](https://whispers.micahrl.com/2025/03/23/some-unfiltered-thoughts-on-claude/).\n\n* Was very exciting to work with this yesterday. Then I kept waking up last night worrying about job security. The times, they are uncertain.\n* I [manifested](https://whispers.micahrl.com/2025/01/04/ai-chatbot-feature-request-a/) the Claude Code automatic context management functionality\n* I'm still waiting for my [manifestation](https://whispers.micahrl.com/2025/01/18/i-wish-i-could-give/) of it using PRs automatically. Supposedly it'll retrieve the contents of a URL you give it and take instructions from there (fortunately I can see no security issues with this); if you take this idea just a little further you might think that running the god damned thing in my terminal makes no sense at all, and you should interact with it in a web page, and it should submit all its changes as PRs\n* Which would allow you to have multiple of these things working on the same codebase at once! As you accept PRs, they each rebuild their own branches, and handle merge conflicts.\n* I think both of these things are in the works from [people familiar with the product space](https://sourcegraph.com/blog/revenge-of-the-junior-developer); I'm not having novel ideas, but using the product for a few minutes really makes you want this stuff.\n* It doesn't have as good an eye for making reviewable changes as you'd like. Sometimes all the tests change and it's hard to understand why. For a side project, you probably just YOLO accept; for code that'll run in production, this will get really boring.\n* It really wants to maintain backwards compatibility, which would be nice sometimes, but I really don't need that for a feature you just wrote 5 minutes ago\n* Because there is so much time that Claude is churning away spending your money on tokens, this feels a lot less like programming flow state; it's very easy to get distracted and half do 5 things as you keep an eye on Claude in case it got stuck or is asking you for help. In this way it is less enjoyable.\n* ... I appreciate that you're asking for permission before running shell commands, but `cd ... && ...` is not a \"cd command\".\n    * ![](https://cdn.uploads.micro.blog/103095/2025/screenshot-2025-03-24-at-14.43.51.png)\n* Really does not have a good idea of when to comment; if you provide no guidance it'll shit out a whole file with no comments; if you tell it to comment everything it'll provide inane comments like `mainLogLevel := logging.InfoLevel // Default to INFO level` (that's a real example).\n* Imagining a future version of this stuff\n    * Don't have the LLM comment _any_ code\n    * Strictly track what was LLM generated, and associate it with the prompt (could be a prompt from another LLM)\n    * Strictly track human edits and associate with some comments or commit messages\n    * Could use git for this, but Claude Code's attempt at an implementation that does so is too ham-fisted for actual use, so I end up artisinally crafting all the commit messages\n    * Have another LLM help you explain the code, including generating comments at viewing time. Explanations tailored to the user, and the context. The tool knows when you're stepping into a codebase for the first time and when you've just viewed all the other relevant modules and provides \"comments\" that are appropriate to each case.\n* The real power is having it write tests and test the code it writes. However, it is still pretty LLM-stupid, so you end up with Intro to Programming -level tests like `TestInitializeDefaultLogLevelIsInfo`.\n",
-				"date_published": "2025-03-25T23:00:00-05:00",
-				"url": "https://whispers.micahrl.com/2025/03/25/more-unfiltered-thoughts-on-claude/"
-			},
-			{
-				"id": "http://micahrl.micro.blog/2025/03/24/more-unfiltered-thoughts-on-claude/",
-				"title": "More unfiltered thoughts on Claude Code",
-				"content_html": "<p>Continuing from <a href=\"https://whispers.micahrl.com/2025/03/23/some-unfiltered-thoughts-on-claude/\">last time</a>.</p>\n<ul>\n<li>Was very exciting to work with this yesterday. Then I kept waking up last night worrying about job security. The times, they are uncertain.</li>\n<li>I <a href=\"https://whispers.micahrl.com/2025/01/04/ai-chatbot-feature-request-a/\">manifested</a> the Claude Code automatic context management functionality</li>\n<li>I&rsquo;m still waiting for my <a href=\"https://whispers.micahrl.com/2025/01/18/i-wish-i-could-give/\">manifestation</a> of it using PRs automatically. Supposedly it&rsquo;ll retrieve the contents of a URL you give it and take instructions from there (fortunately I can see no security issues with this); if you take this idea just a little further you might think that running the god damned thing in my terminal makes no sense at all, and you should interact with it in a web page, and it should submit all its changes as PRs</li>\n<li>Which would allow you to have multiple of these things working on the same codebase at once! As you accept PRs, they each rebuild their own branches, and handle merge conflicts.</li>\n<li>I think both of these things are in the works from <a href=\"https://sourcegraph.com/blog/revenge-of-the-junior-developer\">people familiar with the product space</a>; I&rsquo;m not having novel ideas, but using the product for a few minutes really makes you want this stuff.</li>\n<li>It doesn&rsquo;t have as good an eye for making reviewable changes as you&rsquo;d like. Sometimes all the tests change and it&rsquo;s hard to understand why. For a side project, you probably just YOLO accept; for code that&rsquo;ll run in production, this will get really boring.</li>\n<li>It really wants to maintain backwards compatibility, which would be nice sometimes, but I really don&rsquo;t need that for a feature you just wrote 5 minutes ago</li>\n<li>Because there is so much time that Claude is churning away spending your money on tokens, this feels a lot less like programming flow state; it&rsquo;s very easy to get distracted and half do 5 things as you keep an eye on Claude in case it got stuck or is asking you for help. In this way it is less enjoyable.</li>\n<li>&hellip; I appreciate that you&rsquo;re asking for permission before running shell commands, but <code>cd ... &amp;&amp; ...</code> is not a &ldquo;cd command&rdquo;.\n<ul>\n<li><img src=\"https://whispers.micahrl.com/uploads/2025/screenshot-2025-03-24-at-14.43.51.png\" alt=\"\"></li>\n</ul>\n</li>\n<li>Really does not have a good idea of when to comment; if you provide no guidance it&rsquo;ll shit out a whole file with no comments; if you tell it to comment everything it&rsquo;ll provide inane comments like <code>mainLogLevel := logging.InfoLevel // Default to INFO level</code> (that&rsquo;s a real example).</li>\n<li>Imagining a future version of this stuff\n<ul>\n<li>Don&rsquo;t have the LLM comment <em>any</em> code</li>\n<li>Strictly track what was LLM generated, and associate it with the prompt (could be a prompt from another LLM)</li>\n<li>Strictly track human edits and associate with some comments or commit messages</li>\n<li>Could use git for this, but Claude Code&rsquo;s attempt at an implementation that does so is too ham-fisted for actual use, so I end up artisinally crafting all the commit messages</li>\n<li>Have another LLM help you explain the code, including generating comments at viewing time. Explanations tailored to the user, and the context. The tool knows when you&rsquo;re stepping into a codebase for the first time and when you&rsquo;ve just viewed all the other relevant modules and provides &ldquo;comments&rdquo; that are appropriate to each case.</li>\n</ul>\n</li>\n<li>The real power is having it write tests and test the code it writes. However, it is still pretty LLM-stupid, so you end up with Intro to Programming -level tests like <code>TestInitializeDefaultLogLevelIsInfo</code>.</li>\n</ul>\n",
-				"content_text": "Continuing from [last time](https://whispers.micahrl.com/2025/03/23/some-unfiltered-thoughts-on-claude/).\n\n* Was very exciting to work with this yesterday. Then I kept waking up last night worrying about job security. The times, they are uncertain.\n* I [manifested](https://whispers.micahrl.com/2025/01/04/ai-chatbot-feature-request-a/) the Claude Code automatic context management functionality\n* I'm still waiting for my [manifestation](https://whispers.micahrl.com/2025/01/18/i-wish-i-could-give/) of it using PRs automatically. Supposedly it'll retrieve the contents of a URL you give it and take instructions from there (fortunately I can see no security issues with this); if you take this idea just a little further you might think that running the god damned thing in my terminal makes no sense at all, and you should interact with it in a web page, and it should submit all its changes as PRs\n* Which would allow you to have multiple of these things working on the same codebase at once! As you accept PRs, they each rebuild their own branches, and handle merge conflicts.\n* I think both of these things are in the works from [people familiar with the product space](https://sourcegraph.com/blog/revenge-of-the-junior-developer); I'm not having novel ideas, but using the product for a few minutes really makes you want this stuff.\n* It doesn't have as good an eye for making reviewable changes as you'd like. Sometimes all the tests change and it's hard to understand why. For a side project, you probably just YOLO accept; for code that'll run in production, this will get really boring.\n* It really wants to maintain backwards compatibility, which would be nice sometimes, but I really don't need that for a feature you just wrote 5 minutes ago\n* Because there is so much time that Claude is churning away spending your money on tokens, this feels a lot less like programming flow state; it's very easy to get distracted and half do 5 things as you keep an eye on Claude in case it got stuck or is asking you for help. In this way it is less enjoyable.\n* ... I appreciate that you're asking for permission before running shell commands, but `cd ... && ...` is not a \"cd command\".\n    * ![](https://whispers.micahrl.com/uploads/2025/screenshot-2025-03-24-at-14.43.51.png)\n* Really does not have a good idea of when to comment; if you provide no guidance it'll shit out a whole file with no comments; if you tell it to comment everything it'll provide inane comments like `mainLogLevel := logging.InfoLevel // Default to INFO level` (that's a real example).\n* Imagining a future version of this stuff\n    * Don't have the LLM comment _any_ code\n    * Strictly track what was LLM generated, and associate it with the prompt (could be a prompt from another LLM)\n    * Strictly track human edits and associate with some comments or commit messages\n    * Could use git for this, but Claude Code's attempt at an implementation that does so is too ham-fisted for actual use, so I end up artisinally crafting all the commit messages\n    * Have another LLM help you explain the code, including generating comments at viewing time. Explanations tailored to the user, and the context. The tool knows when you're stepping into a codebase for the first time and when you've just viewed all the other relevant modules and provides \"comments\" that are appropriate to each case.\n* The real power is having it write tests and test the code it writes. However, it is still pretty LLM-stupid, so you end up with Intro to Programming -level tests like `TestInitializeDefaultLogLevelIsInfo`.\n",
 				"date_published": "2025-03-24T23:00:00-05:00",
 				"url": "https://whispers.micahrl.com/2025/03/24/more-unfiltered-thoughts-on-claude/"
 			},
@@ -82,7 +90,7 @@
 				"id": "http://micahrl.micro.blog/2025/01/26/why-is-the-us-government/",
 				
 				"content_html": "<p>why is the US government wasting its time with a tiktok ban when there are REAL problems with chinese apps????</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "why is the US government wasting its time with a tiktok ban when there are REAL problems with chinese apps????\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/3f3f289e2a.png\" width=\"600\" height=\"209\" alt=\"\">\n",
+				"content_text": "why is the US government wasting its time with a tiktok ban when there are REAL problems with chinese apps????\n\n<img src=\"uploads/2025/3f3f289e2a.png\" width=\"600\" height=\"209\" alt=\"\">\n",
 				"date_published": "2025-01-26T14:04:47-05:00",
 				"url": "https://whispers.micahrl.com/2025/01/26/why-is-the-us-government/"
 			},
@@ -90,7 +98,7 @@
 				"id": "http://micahrl.micro.blog/2025/01/25/my-first-sunrise-of-the/",
 				
 				"content_html": "<p>My first sunrise of the year this morning at Mueller Lake Park&hellip; planning to see one every month 🌅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My first sunrise of the year this morning at Mueller Lake Park... planning to see one every month 🌅\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/4d7c9f7f70.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "My first sunrise of the year this morning at Mueller Lake Park... planning to see one every month 🌅\n\n<img src=\"uploads/2025/4d7c9f7f70.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-01-25T20:47:31-05:00",
 				"url": "https://whispers.micahrl.com/2025/01/25/my-first-sunrise-of-the/"
 			},
@@ -98,7 +106,7 @@
 				"id": "http://micahrl.micro.blog/2025/01/24/someone-told-me-this-yesterday/",
 				
 				"content_html": "<p>Someone told me this yesterday and I did not believe them. Funny in an X (formerly Twitter) sort of way.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Someone told me this yesterday and I did not believe them. Funny in an X (formerly Twitter) sort of way.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/bfead13f38.jpg\" width=\"600\" height=\"395\" alt=\"\">\n",
+				"content_text": "Someone told me this yesterday and I did not believe them. Funny in an X (formerly Twitter) sort of way.\n\n<img src=\"uploads/2025/bfead13f38.jpg\" width=\"600\" height=\"395\" alt=\"\">\n",
 				"date_published": "2025-01-24T16:46:55-05:00",
 				"url": "https://whispers.micahrl.com/2025/01/24/someone-told-me-this-yesterday/"
 			},
@@ -114,7 +122,7 @@
 				"id": "http://micahrl.micro.blog/2025/01/22/the-most-inscrutable-icons-in/",
 				
 				"content_html": "<p>The most inscrutable icons in my dock are in the IDE and LLM sections</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The most inscrutable icons in my dock are in the IDE and LLM sections\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/91b70e0db2.png\" width=\"600\" height=\"124\" alt=\"\">\n",
+				"content_text": "The most inscrutable icons in my dock are in the IDE and LLM sections\n\n<img src=\"uploads/2025/91b70e0db2.png\" width=\"600\" height=\"124\" alt=\"\">\n",
 				"date_published": "2025-01-22T18:23:57-05:00",
 				"url": "https://whispers.micahrl.com/2025/01/22/the-most-inscrutable-icons-in/"
 			},
@@ -146,7 +154,7 @@
 				"id": "http://micahrl.micro.blog/2025/01/17/charming-captcha-is-such-a/",
 				
 				"content_html": "<p>Charming captcha (is such a thing possible?) from LibraryThing</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Charming captcha (is such a thing possible?) from LibraryThing \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/7a7167edb6.png\" width=\"600\" height=\"416\" alt=\"\">\n",
+				"content_text": "Charming captcha (is such a thing possible?) from LibraryThing \n\n<img src=\"uploads/2025/7a7167edb6.png\" width=\"600\" height=\"416\" alt=\"\">\n",
 				"date_published": "2025-01-17T08:25:03-05:00",
 				"url": "https://whispers.micahrl.com/2025/01/17/charming-captcha-is-such-a/"
 			},
@@ -162,7 +170,7 @@
 				"id": "http://micahrl.micro.blog/2025/01/11/finally-able-to-give-the/",
 				
 				"content_html": "<p>Finally able to give the <a href=\"https://projectblue.bigcartel.com/product/projectblue\">Project Blue</a> gift that I&rsquo;ve been sitting on since February. Happy birthday <a href=\"https://www.ndled.us\">Noah</a>!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finally able to give the [Project Blue](https://projectblue.bigcartel.com/product/projectblue) gift that I've been sitting on since February. Happy birthday [Noah](https://www.ndled.us)!\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/3a161c5f17.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Finally able to give the [Project Blue](https://projectblue.bigcartel.com/product/projectblue) gift that I've been sitting on since February. Happy birthday [Noah](https://www.ndled.us)!\n\n<img src=\"uploads/2025/3a161c5f17.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-11T11:21:13-05:00",
 				"url": "https://whispers.micahrl.com/2025/01/11/finally-able-to-give-the/"
 			},
@@ -170,7 +178,7 @@
 				"id": "http://micahrl.micro.blog/2025/01/11/ice-crystals-in-the-morning/",
 				
 				"content_html": "<p>Ice crystals in the morning</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ice crystals in the morning \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/f2a5bdd52f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Ice crystals in the morning \n\n<img src=\"uploads/2025/f2a5bdd52f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-01-11T11:17:59-05:00",
 				"url": "https://whispers.micahrl.com/2025/01/11/ice-crystals-in-the-morning/"
 			},
@@ -178,7 +186,7 @@
 				"id": "http://micahrl.micro.blog/2025/01/10/been-a-gandi-customer-since/",
 				
 				"content_html": "<p>Been a Gandi customer since at least 2009, maybe before. As of today, I&rsquo;m fully migrated off. End of an era.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Been a Gandi customer since at least 2009, maybe before. As of today, I'm fully migrated off. End of an era.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/image.png\" width=\"600\" height=\"272\" alt=\"\">\n",
+				"content_text": "Been a Gandi customer since at least 2009, maybe before. As of today, I'm fully migrated off. End of an era.\n\n<img src=\"uploads/2025/image.png\" width=\"600\" height=\"272\" alt=\"\">\n",
 				"date_published": "2025-01-10T15:25:03-05:00",
 				"url": "https://whispers.micahrl.com/2025/01/10/been-a-gandi-customer-since/"
 			},
@@ -202,7 +210,7 @@
 				"id": "http://micahrl.micro.blog/2025/01/04/cool-stats-from-the-past/",
 				
 				"content_html": "<p>Cool stats from the past couple of years</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Cool stats from the past couple of years\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/20e2a3b1e9.jpg\" width=\"337\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2025/983fdf939f.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "Cool stats from the past couple of years\n\n<img src=\"uploads/2025/20e2a3b1e9.jpg\" width=\"337\" height=\"600\" alt=\"\"><img src=\"uploads/2025/983fdf939f.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-04T22:33:17-05:00",
 				"url": "https://whispers.micahrl.com/2025/01/04/cool-stats-from-the-past/"
 			},
@@ -210,7 +218,7 @@
 				"id": "http://micahrl.micro.blog/2025/01/01/new-years-day-brunch-mini/",
 				
 				"content_html": "<p>New Years Day brunch, mini baked potatoes and caviar</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New Years Day brunch, mini baked potatoes and caviar\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/fdb59377a0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "New Years Day brunch, mini baked potatoes and caviar\n\n<img src=\"uploads/2025/fdb59377a0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-01-01T17:04:52-05:00",
 				"url": "https://whispers.micahrl.com/2025/01/01/new-years-day-brunch-mini/"
 			},
@@ -234,7 +242,7 @@
 				"id": "http://micahrl.micro.blog/2024/12/24/bakedinadvance-christmas-day-quiches-christmas/",
 				
 				"content_html": "<p>Baked-in-advance Christmas Day quiches (Christmas Eve whisky for scale)</p>\n<p>btw, quiche is mega easy and the best way to elevate it is to make your own crust. I bastardize <a href=\"https://www.marthastewart.com/336991/easy-pie-crust\">Martha</a> by combining the ingredients and smooshing them into the bottom of the pan. Dreadful, I know. Tastes good though</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Baked-in-advance Christmas Day quiches (Christmas Eve whisky for scale)\n\nbtw, quiche is mega easy and the best way to elevate it is to make your own crust. I bastardize [Martha](https://www.marthastewart.com/336991/easy-pie-crust) by combining the ingredients and smooshing them into the bottom of the pan. Dreadful, I know. Tastes good though \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/cc08495c82.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Baked-in-advance Christmas Day quiches (Christmas Eve whisky for scale)\n\nbtw, quiche is mega easy and the best way to elevate it is to make your own crust. I bastardize [Martha](https://www.marthastewart.com/336991/easy-pie-crust) by combining the ingredients and smooshing them into the bottom of the pan. Dreadful, I know. Tastes good though \n\n<img src=\"uploads/2024/cc08495c82.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-12-24T22:52:04-05:00",
 				"url": "https://whispers.micahrl.com/2024/12/24/bakedinadvance-christmas-day-quiches-christmas/"
 			},
@@ -266,7 +274,7 @@
 				"id": "http://micahrl.micro.blog/2024/11/24/the-ecstasy-of-triumph-the/",
 				
 				"content_html": "<p>The ecstasy of triumph / The agony of defeat</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "The ecstasy of triumph / The agony of defeat\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/acd01f61bb.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2024/31c24175a1.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "The ecstasy of triumph / The agony of defeat\n\n<img src=\"uploads/2024/acd01f61bb.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/31c24175a1.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-11-24T14:39:45-05:00",
 				"url": "https://whispers.micahrl.com/2024/11/24/the-ecstasy-of-triumph-the/"
 			},
@@ -282,7 +290,7 @@
 				"id": "http://micahrl.micro.blog/2024/11/20/for-readability/",
 				"title": "For readability",
 				"content_html": "<p>Defenders of short lines in source code have won the day when it comes to defaults from automatic formatters, but when I look at the results I don&rsquo;t understand why. The last 6 lines here are the same as the first 14, and it looks much more readable to me.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>I don&rsquo;t mind this as a proverb, but like many proverbs, it would benefit from an equal and opposite counter-proverb.</p>\n<!-- raw HTML omitted -->\n<p>Perhaps:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Defenders of short lines in source code have won the day when it comes to defaults from automatic formatters, but when I look at the results I don't understand why. The last 6 lines here are the same as the first 14, and it looks much more readable to me.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/screenshot-2024-11-20-at-10.02.01.png\" width=\"600\" height=\"294\" alt=\"\">\n\n<hr/>\n\n<figure style=\"margin-left: 2em;\">\n<blockquote>\nFor readability we recommend against using more than 80 characters\n</blockquote>\n<figcaption style=\"margin-left: 1em\">\n— <a href=\"https://prettier.io/docs/en/options.html\">prettier</a>\n</figcaption>\n</figure>\n\n\nI don't mind this as a proverb, but like many proverbs, it would benefit from an equal and opposite counter-proverb.\n\n<figure style=\"margin-left: 2em;\">\n<blockquote>\n4 Answer not a fool according to his folly, lest thou also be like unto him.<br/>\n5 Answer a fool according to his folly, lest he be wise in his own conceit.\n</blockquote>\n<figcaption style=\"margin-left: 1em\">\n— <a href=\"https://www.biblegateway.com/passage/?search=Proverbs+26%3A4-5&version=KJV\">Proverbs 26:4-5</a>\n</figcaption>\n</figure>\n\nPerhaps:\n\n<figure style=\"margin-left: 2em;\">\n<blockquote>\nFor readability, break lines at 80 characters.<br/>\nFor readability, do not break statements into multiple lines.\n</blockquote>\n</figure>\n\n",
+				"content_text": "Defenders of short lines in source code have won the day when it comes to defaults from automatic formatters, but when I look at the results I don't understand why. The last 6 lines here are the same as the first 14, and it looks much more readable to me.\n\n<img src=\"uploads/2024/screenshot-2024-11-20-at-10.02.01.png\" width=\"600\" height=\"294\" alt=\"\">\n\n<hr/>\n\n<figure style=\"margin-left: 2em;\">\n<blockquote>\nFor readability we recommend against using more than 80 characters\n</blockquote>\n<figcaption style=\"margin-left: 1em\">\n— <a href=\"https://prettier.io/docs/en/options.html\">prettier</a>\n</figcaption>\n</figure>\n\n\nI don't mind this as a proverb, but like many proverbs, it would benefit from an equal and opposite counter-proverb.\n\n<figure style=\"margin-left: 2em;\">\n<blockquote>\n4 Answer not a fool according to his folly, lest thou also be like unto him.<br/>\n5 Answer a fool according to his folly, lest he be wise in his own conceit.\n</blockquote>\n<figcaption style=\"margin-left: 1em\">\n— <a href=\"https://www.biblegateway.com/passage/?search=Proverbs+26%3A4-5&version=KJV\">Proverbs 26:4-5</a>\n</figcaption>\n</figure>\n\nPerhaps:\n\n<figure style=\"margin-left: 2em;\">\n<blockquote>\nFor readability, break lines at 80 characters.<br/>\nFor readability, do not break statements into multiple lines.\n</blockquote>\n</figure>\n\n",
 				"date_published": "2024-11-20T22:05:40-05:00",
 				"url": "https://whispers.micahrl.com/2024/11/20/for-readability/"
 			},
@@ -322,7 +330,7 @@
 				"id": "http://micahrl.micro.blog/2024/10/28/last-night-at-lazarus/",
 				
 				"content_html": "<p>Last night at Lazarus</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Last night at Lazarus\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/6c51543ade.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Last night at Lazarus\n\n<img src=\"uploads/2024/6c51543ade.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-28T15:46:04-05:00",
 				"url": "https://whispers.micahrl.com/2024/10/28/last-night-at-lazarus/"
 			},
@@ -330,7 +338,7 @@
 				"id": "http://micahrl.micro.blog/2024/10/28/finally-the-web-is-taking/",
 				
 				"content_html": "<p>Finally, the web is taking cues from the best UX in the world (PBX phone trees)</p>\n<!-- raw HTML omitted -->\n<p>(to be clear you have to type &ldquo;1&rdquo; or &ldquo;2&rdquo; in the little box and then click the button with your mouse)</p>\n",
-				"content_text": "Finally, the web is taking cues from the best UX in the world (PBX phone trees)\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/screenshot-2024-10-07-at-10.40.37.png\" width=\"600\" height=\"184\" alt=\"\">\n\n(to be clear you have to type \"1\" or \"2\" in the little box and then click the button with your mouse)\n",
+				"content_text": "Finally, the web is taking cues from the best UX in the world (PBX phone trees)\n\n<img src=\"uploads/2024/screenshot-2024-10-07-at-10.40.37.png\" width=\"600\" height=\"184\" alt=\"\">\n\n(to be clear you have to type \"1\" or \"2\" in the little box and then click the button with your mouse)\n",
 				"date_published": "2024-10-28T15:43:55-05:00",
 				"url": "https://whispers.micahrl.com/2024/10/28/finally-the-web-is-taking/"
 			},
@@ -402,7 +410,7 @@
 				"id": "http://micahrl.micro.blog/2024/08/08/stuff-like-this-makes-me/",
 				
 				"content_html": "<p>Stuff like <a href=\"https://shop.pimoroni.com/products/picosystem?variant=32369546985555\">this</a> makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Stuff like [this](https://shop.pimoroni.com/products/picosystem?variant=32369546985555) makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/picosystem-dark-square-1-768x768-crop-center.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Stuff like [this](https://shop.pimoroni.com/products/picosystem?variant=32369546985555) makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.\n\n<img src=\"uploads/2024/picosystem-dark-square-1-768x768-crop-center.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-08T10:21:05-05:00",
 				"url": "https://whispers.micahrl.com/2024/08/08/stuff-like-this-makes-me/"
 			},
@@ -538,7 +546,7 @@
 				"id": "http://micahrl.micro.blog/2024/05/06/patterns/",
 				
 				"content_html": "<p>Patterns</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Patterns\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/img-8106.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2024/img-8105.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Patterns\n\n<img src=\"uploads/2024/img-8106.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/img-8105.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-05-06T23:46:19-05:00",
 				"url": "https://whispers.micahrl.com/2024/05/06/patterns/"
 			},
@@ -594,7 +602,7 @@
 				"id": "http://micahrl.micro.blog/2023/05/23/i-am-seeing-more-and/",
 				
 				"content_html": "<p>I am seeing more and more bad hyphenation recently, this is just so sad :(</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I am seeing more and more bad hyphenation recently, this is just so sad :( \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/a043cd4e0a.jpg\" width=\"600\" height=\"242\" alt=\"\">\n",
+				"content_text": "I am seeing more and more bad hyphenation recently, this is just so sad :( \n\n<img src=\"uploads/2023/a043cd4e0a.jpg\" width=\"600\" height=\"242\" alt=\"\">\n",
 				"date_published": "2023-05-23T13:19:02-05:00",
 				"url": "https://whispers.micahrl.com/2023/05/23/i-am-seeing-more-and/"
 			},
@@ -650,7 +658,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/17/blue-skies-sierra-ferrel-chickenshit/",
 				
 				"content_html": "<p>Blue skies, Sierra Ferrel, chickenshit bingo. Thanks <a href=\"https://luckpresents.com/luck-tx-events/2023luckreunion\">Luck</a>.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Blue skies, Sierra Ferrel, chickenshit bingo. Thanks [Luck](https://luckpresents.com/luck-tx-events/2023luckreunion).\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/4dd496c2b3.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/9131f124e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Blue skies, Sierra Ferrel, chickenshit bingo. Thanks [Luck](https://luckpresents.com/luck-tx-events/2023luckreunion).\n\n<img src=\"uploads/2023/4dd496c2b3.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"uploads/2023/9131f124e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-17T22:37:49-05:00",
 				"url": "https://whispers.micahrl.com/2023/03/17/blue-skies-sierra-ferrel-chickenshit/"
 			},
@@ -674,7 +682,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/15/pls-do-not-take/",
 				
 				"content_html": "<p>PLS DO NOT TAKE</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "PLS DO NOT TAKE\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/e140fe4768.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/232337a204.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "PLS DO NOT TAKE\n\n<img src=\"uploads/2023/e140fe4768.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/232337a204.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-15T19:10:53-05:00",
 				"url": "https://whispers.micahrl.com/2023/03/15/pls-do-not-take/"
 			},
@@ -690,7 +698,7 @@
 				"id": "http://micahrl.micro.blog/2023/03/13/circa-or-so-my-family/",
 				
 				"content_html": "<p>Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/fcef8762b3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.\n\n<img src=\"uploads/2023/fcef8762b3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-03-13T20:21:47-05:00",
 				"url": "https://whispers.micahrl.com/2023/03/13/circa-or-so-my-family/"
 			},
