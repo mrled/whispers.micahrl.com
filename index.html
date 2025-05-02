@@ -24,6 +24,28 @@
 	
 	  <div class="h-entry">
 		
+
+		<a href="https://whispers.micahrl.com/2025/05/02/the-biggest-sign-that-openai/" class="u-url"><time class="dt-published" datetime="2025-05-02 15:28:47 -0500">May 2, 2025</time></a>
+
+		<div class="e-content">
+			 <p>The biggest sign that OpenAI believes in the future of machine intelligence is the abject laziness they put into the consumer facing aspects of their own product. Take this as a compliment or an insult as you will.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://whispers.micahrl.com/2025/03/30/i-wish-there-was-good/" class="u-url"><time class="dt-published" datetime="2025-03-30 22:17:21 -0500">Mar 30, 2025</time></a>
+
+		<div class="e-content">
+			 <p>I wish there was good third party highlight/bookmark support for LLM answers. A few times recently I&rsquo;ve gotten responses that included some particularly useful framing or formulation. Wish I could save the whole conversation with the important stuff highlighted. I need a Pinboard for ChatGPT.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 			<h1><a href="https://whispers.micahrl.com/2025/03/25/this-is-accidentally-becoming-a/">Final unfiltered thoughts on Claude Code</a></h1>
 		
 
@@ -35,45 +57,6 @@
 <li>Claude Code only has the bluntest access to tools like the type system. When you ask it to make a conceptually simple change that I might start by deleting a variable definition and then looking for red underlines in my editor, it just finds one part of the code at random and changes it, and looks for references elsewhere. If it had a direct interface to type systems, linters, etc, that&rsquo;d make it a lot faster.</li>
 <li>Watching it do dumbshit things like make up arguments to <code>cat</code> or read file contents with <code>xxd</code> was cute at first and then very annoying (especially if you&rsquo;re paying attention to <code>/cost</code>&hellip;).</li>
 <li>It <em>desperately</em> needs an always-safe set of tools it can run. If I&rsquo;ve already given you access to the codebase, you shouldn&rsquo;t ask for permission to run grep, but as I mentioned previously you really should know that piping grep&rsquo;s output to something else has implications beyond grep). But beyond that, is having the LLM directly call shell commands really the best way to do this?</li>
-</ul>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-			<h1><a href="https://whispers.micahrl.com/2025/03/25/more-unfiltered-thoughts-on-claude/">More unfiltered thoughts on Claude Code</a></h1>
-		
-
-		<a href="https://whispers.micahrl.com/2025/03/25/more-unfiltered-thoughts-on-claude/" class="u-url"><time class="dt-published" datetime="2025-03-25 23:00:00 -0500">Mar 25, 2025</time></a>
-
-		<div class="e-content">
-			 <p>Continuing from <a href="https://whispers.micahrl.com/2025/03/23/some-unfiltered-thoughts-on-claude/">last time</a>.</p>
-<ul>
-<li>Was very exciting to work with this yesterday. Then I kept waking up last night worrying about job security. The times, they are uncertain.</li>
-<li>I <a href="https://whispers.micahrl.com/2025/01/04/ai-chatbot-feature-request-a/">manifested</a> the Claude Code automatic context management functionality</li>
-<li>I&rsquo;m still waiting for my <a href="https://whispers.micahrl.com/2025/01/18/i-wish-i-could-give/">manifestation</a> of it using PRs automatically. Supposedly it&rsquo;ll retrieve the contents of a URL you give it and take instructions from there (fortunately I can see no security issues with this); if you take this idea just a little further you might think that running the god damned thing in my terminal makes no sense at all, and you should interact with it in a web page, and it should submit all its changes as PRs</li>
-<li>Which would allow you to have multiple of these things working on the same codebase at once! As you accept PRs, they each rebuild their own branches, and handle merge conflicts.</li>
-<li>I think both of these things are in the works from <a href="https://sourcegraph.com/blog/revenge-of-the-junior-developer">people familiar with the product space</a>; I&rsquo;m not having novel ideas, but using the product for a few minutes really makes you want this stuff.</li>
-<li>It doesn&rsquo;t have as good an eye for making reviewable changes as you&rsquo;d like. Sometimes all the tests change and it&rsquo;s hard to understand why. For a side project, you probably just YOLO accept; for code that&rsquo;ll run in production, this will get really boring.</li>
-<li>It really wants to maintain backwards compatibility, which would be nice sometimes, but I really don&rsquo;t need that for a feature you just wrote 5 minutes ago</li>
-<li>Because there is so much time that Claude is churning away spending your money on tokens, this feels a lot less like programming flow state; it&rsquo;s very easy to get distracted and half do 5 things as you keep an eye on Claude in case it got stuck or is asking you for help. In this way it is less enjoyable.</li>
-<li>&hellip; I appreciate that you&rsquo;re asking for permission before running shell commands, but <code>cd ... &amp;&amp; ...</code> is not a &ldquo;cd command&rdquo;.
-<ul>
-<li><img src="https://cdn.uploads.micro.blog/103095/2025/screenshot-2025-03-24-at-14.43.51.png" alt=""></li>
-</ul>
-</li>
-<li>Really does not have a good idea of when to comment; if you provide no guidance it&rsquo;ll shit out a whole file with no comments; if you tell it to comment everything it&rsquo;ll provide inane comments like <code>mainLogLevel := logging.InfoLevel // Default to INFO level</code> (that&rsquo;s a real example).</li>
-<li>Imagining a future version of this stuff
-<ul>
-<li>Don&rsquo;t have the LLM comment <em>any</em> code</li>
-<li>Strictly track what was LLM generated, and associate it with the prompt (could be a prompt from another LLM)</li>
-<li>Strictly track human edits and associate with some comments or commit messages</li>
-<li>Could use git for this, but Claude Code&rsquo;s attempt at an implementation that does so is too ham-fisted for actual use, so I end up artisinally crafting all the commit messages</li>
-<li>Have another LLM help you explain the code, including generating comments at viewing time. Explanations tailored to the user, and the context. The tool knows when you&rsquo;re stepping into a codebase for the first time and when you&rsquo;ve just viewed all the other relevant modules and provides &ldquo;comments&rdquo; that are appropriate to each case.</li>
-</ul>
-</li>
-<li>The real power is having it write tests and test the code it writes. However, it is still pretty LLM-stupid, so you end up with Intro to Programming -level tests like <code>TestInitializeDefaultLogLevelIsInfo</code>.</li>
 </ul>
 
 		</div>
@@ -99,7 +82,7 @@
 <li>Because there is so much time that Claude is churning away spending your money on tokens, this feels a lot less like programming flow state; it&rsquo;s very easy to get distracted and half do 5 things as you keep an eye on Claude in case it got stuck or is asking you for help. In this way it is less enjoyable.</li>
 <li>&hellip; I appreciate that you&rsquo;re asking for permission before running shell commands, but <code>cd ... &amp;&amp; ...</code> is not a &ldquo;cd command&rdquo;.
 <ul>
-<li><img src="https://whispers.micahrl.com/uploads/2025/screenshot-2025-03-24-at-14.43.51.png" alt=""></li>
+<li><img src="https://cdn.uploads.micro.blog/103095/2025/screenshot-2025-03-24-at-14.43.51.png" alt=""></li>
 </ul>
 </li>
 <li>Really does not have a good idea of when to comment; if you provide no guidance it&rsquo;ll shit out a whole file with no comments; if you tell it to comment everything it&rsquo;ll provide inane comments like <code>mainLogLevel := logging.InfoLevel // Default to INFO level</code> (that&rsquo;s a real example).</li>
