@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2025/07/20/i-suspect-there-may-be/",
+				
+				"content_html": "<p>I suspect there may be architectural software decisions that have cost human kind more time and money than Douglas Crockford&rsquo;s intentional <a href=\"https://archive.ph/20150704102718/https://plus.google.com/+DouglasCrockfordEsq/posts/RK8qyGVaGSr\">removal</a> of comments from JSON, but I don&rsquo;t believe there are very many</p>\n",
+				"content_text": "I suspect there may be architectural software decisions that have cost human kind more time and money than Douglas Crockford's intentional [removal](https://archive.ph/20150704102718/https://plus.google.com/+DouglasCrockfordEsq/posts/RK8qyGVaGSr) of comments from JSON, but I don't believe there are very many\n",
+				"date_published": "2025-07-20T12:32:50-05:00",
+				"url": "https://whispers.micahrl.com/2025/07/20/i-suspect-there-may-be/"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2025/06/11/the-idea-that-the-government/",
 				
 				"content_html": "<p>the idea that the government should step in to prevent 12 year olds from asking the cloud for images of darth vader c walking or whatever is just silly <a href=\"https://www.wired.com/story/disney-universal-sue-midjourney/\">www.wired.com/story/dis&hellip;</a></p>\n",
