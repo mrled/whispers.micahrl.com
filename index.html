@@ -24,6 +24,45 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://whispers.micahrl.com/2025/10/10/idea-html-for-shortcodes/">Idea: HTML for shortcodes</a></h1>
+		
+
+		<a href="https://whispers.micahrl.com/2025/10/10/idea-html-for-shortcodes/" class="u-url"><time class="dt-published" datetime="2025-10-10 07:49:06 -0500">Oct 10, 2025</time></a>
+
+		<div class="e-content">
+			 <p>I have a lot of experience with Hugo and I like the concept of static site generators in general. I am not really a fan of the shortcode syntax, though. I&rsquo;d love to see a version of shortcodes that uses HTML instead.</p>
+<p>E.g.:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown"># Example post
+
+Here&#39;s my post. It was built at &lt;<span style="color:#f92672">shortcode-buildtime</span> <span style="color:#a6e22e">format</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;iso-8601&#34;</span>&gt;&lt;/<span style="color:#f92672">shortcode-buildtime</span>&gt;.
+
+&lt;<span style="color:#f92672">shortcode-quotefig</span>
+  <span style="color:#a6e22e">cite</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://ask.metafilter.com/55153/Whats-the-middle-ground-between-FU-and-Welcome#830421&#34;</span>
+  <span style="color:#a6e22e">caption</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;&lt;a href=&#39;https://ask.metafilter.com/55153/Whats-the-middle-ground-between-FU-and-Welcome#tangerine&#39;&gt;tangerine on MetaFilter&lt;/a&gt;&#34;</span>
+<span style="color:#66d9ef">&gt;
+</span><span style="color:#66d9ef"></span><span style="font-style:italic">  This is a classic case of Ask Culture meets Guess Culture....
+</span><span style="font-style:italic"></span><span style="color:#960050;background-color:#1e0010">&lt;/</span><span style="color:#a6e22e">shortcode-quotefig</span>&gt;
+</code></pre></div><p>The shortcode engine I&rsquo;m thinking of might convert that to this HTML</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">h1</span>&gt;Example post&lt;/<span style="color:#f92672">h1</span>&gt;
+
+&lt;<span style="color:#f92672">p</span>&gt;Here&#39;s my post. It was built at &lt;<span style="color:#f92672">time</span> <span style="color:#a6e22e">datetime</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;2025-10-10T00:05:04-12:00&#34;</span>&gt;2025-10-10T00:05:04-12:00&lt;/<span style="color:#f92672">time</span>&gt;.&lt;/<span style="color:#f92672">p</span>&gt;
+
+&lt;<span style="color:#f92672">figure</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;quotefig&#34;</span>&gt;
+  &lt;<span style="color:#f92672">blockquote</span> <span style="color:#a6e22e">cite</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://ask.metafilter.com/55153/Whats-the-middle-ground-between-FU-and-Welcome#830421&#34;</span>&gt;
+    &lt;<span style="color:#f92672">p</span>&gt;This is a classic case of Ask Culture meets Guess Culture....&lt;/<span style="color:#f92672">p</span>&gt;
+  &lt;/<span style="color:#f92672">blockquote</span>&gt;
+  &lt;<span style="color:#f92672">figcaption</span>&gt;
+    &lt;<span style="color:#f92672">a</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#39;https://ask.metafilter.com/55153/Whats-the-middle-ground-between-FU-and-Welcome#tangerine&#39;</span>&gt;tangerine on MetaFilter&lt;/<span style="color:#f92672">a</span>&gt;
+  &lt;/<span style="color:#f92672">figcaption</span>&gt;
+&lt;/<span style="color:#f92672">figure</span>&gt;
+</code></pre></div><p>HTML already has all the things shortcodes have to have: a name, optional attributes, and an optional body. They also automatically work great in any editor, and mix well in Markdown. And if you&rsquo;re using an SSG, you&rsquo;ll already know at least a little HTML.</p>
+<p>It would be kind of like web components implemented as static preprocessor macros. Or, to be spicy, you could call it &ldquo;Unreactive Server Components&rdquo;.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 			<h1><a href="https://whispers.micahrl.com/2025/09/30/startup-idea-tackle-builds-across/">Startup idea: tackle builds across the stack</a></h1>
 		
 
@@ -45,8 +84,8 @@
 <li>In exactly the same way, the cloud LLM tool needs access to all those same dependencies, and it has to know how to build the code anyway, and it might even be hosted by the same vendor that hosts your CI (i.e. GitHub).</li>
 </ul>
 <p>My spicy take is that the build system is the hard part, all the LLM stuff is just dressing. Here&rsquo;s my proof: no one has made a good build system yet, but all the other pieces that exist (Actions, Workspaces, Claude Code, containers) are fine. I&rsquo;m not sure why this is: every time I set up builds I can&rsquo;t believe I have to do it twice. The only project I&rsquo;m aware of that even tries to do both local and CI builds well is Bazel, but they&rsquo;re really up front that it&rsquo;s slow for small local stuff, and this tool would need to embody the principle of making easy things easy and hard things possible. That first clause means it has to be fast for local builds, and also easy to install (no separate JVM install step). Bazel has whiz bang features like pulling build artifacts over the network for local builds, which is nice if you&rsquo;re a company that is already big enough to fund your own build system(s), but not a feature I would start with.</p>
-<p>Microsoft has all the business pieces to make this pencil: CI builds, LLM CLI tool, and LLM cloud tool. But could it get adoption by tying</p>
-<p>How would a startup make money on this, though? No idea, I&rsquo;m just the technical cofounder, see, that&rsquo;s what I rely on all you idea guys for. Hop to it, please, the downtown office I&rsquo;m eyeing for our fully remote company won&rsquo;t pay rent on itself!</p>
+<p>Microsoft has all the business pieces to make this pencil: CI builds, LLM CLI tool, and LLM cloud tool. But could it get adoption by tying it all to their proprietary services like this, or would it have to be an open ecosystem?</p>
+<p>Would also be an interesting product space for a startup, but how to make money on it? No idea, I&rsquo;m just the technical cofounder, see, that&rsquo;s what I rely on all you idea guys for. Hop to it, please, the downtown office I&rsquo;m eyeing for our fully remote company won&rsquo;t pay rent on itself!</p>
 
 		</div>
 	  </div>
