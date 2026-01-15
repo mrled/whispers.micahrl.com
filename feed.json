@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2026/01/15/i-havent-had-a-laptop/",
+				
+				"content_html": "<p>I haven&rsquo;t had a laptop in several years, and I haven&rsquo;t worked from a coffee shop basically since my last bout of bad RSI in 2019. Today I spent a bunch of time working from a couple of coffee shops, including a lot of typing. The <a href=\"https://me.micahrl.com/blog/advantage360-keymap-summer-2025/\">Advantage 360</a> is&hellip; amazing. It&rsquo;s wireless and easier to move around than my ErgoDox and easier to hook up than the Voyager, and has built in palm rests. I was expecting the tables with the wrong height to bother me (bc my elbows aren&rsquo;t at 90 degrees), but that hasn&rsquo;t really happened, at least not yet. I don&rsquo;t want to overdo this&hellip; I still probably will never work all day in a coffee shop ever again. But it looks like I can take a laptop to a coffee shop for as much as several hours and get real work done. That&rsquo;s really huge for me.</p>\n",
+				"content_text": "I haven't had a laptop in several years, and I haven't worked from a coffee shop basically since my last bout of bad RSI in 2019. Today I spent a bunch of time working from a couple of coffee shops, including a lot of typing. The [Advantage 360](https://me.micahrl.com/blog/advantage360-keymap-summer-2025/) is... amazing. It's wireless and easier to move around than my ErgoDox and easier to hook up than the Voyager, and has built in palm rests. I was expecting the tables with the wrong height to bother me (bc my elbows aren't at 90 degrees), but that hasn't really happened, at least not yet. I don't want to overdo this... I still probably will never work all day in a coffee shop ever again. But it looks like I can take a laptop to a coffee shop for as much as several hours and get real work done. That's really huge for me.\n\n",
+				"date_published": "2026-01-15T13:58:06-06:00",
+				"url": "https://micahrl.me/2026/01/15/i-havent-had-a-laptop/"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2026/01/12/i-didnt-realize-that-every/",
 				
 				"content_html": "<p>I didn&rsquo;t realize that every blog hosted on <a href=\"https://en.wikipedia.org/wiki/Typepad\">Typepad</a> has been deleted. What a fucking disaster. It is sad to see such poor stewardship.</p>\n",
@@ -34,7 +42,7 @@
 				"id": "http://micahrl.micro.blog/2025/12/02/years-apart-merry-mas/",
 				
 				"content_html": "<p>2 years apart, merry ☧mas</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "2 years apart, merry ☧mas \n\n<img src=\"uploads/2025/0e6dcd8b3d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/023df2ac83.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "2 years apart, merry ☧mas \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/0e6dcd8b3d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2025/023df2ac83.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-12-02T20:36:37-06:00",
 				"url": "https://micahrl.me/2025/12/02/years-apart-merry-mas/"
 			},
