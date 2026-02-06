@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2026/02/06/would-cloudflare-or-cloudfront-please/",
+				
+				"content_html": "<p>Would CloudFlare or CloudFront please rename to something that doesn&rsquo;t start with CloudF, I don&rsquo;t care which.</p>\n",
+				"content_text": "Would CloudFlare or CloudFront please rename to something that doesn't start with CloudF, I don't care which.\n",
+				"date_published": "2026-02-06T06:59:28-06:00",
+				"url": "https://micahrl.me/2026/02/06/would-cloudflare-or-cloudfront-please/"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2026/02/02/the-circle-is-now-complete/",
 				
 				"content_html": "<p>The circle is now complete. When I left you I was but the learner. Now, I am the master.</p>\n<!-- raw HTML omitted -->\n",
