@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2026/02/18/every-time-chat-prefixes-something/",
+				
+				"content_html": "<p>every time chat prefixes something obvious with &ldquo;this is the subtle part:&rdquo; I think &ldquo;that haughty bitch is talking down to me&rdquo;</p>\n",
+				"content_text": "every time chat prefixes something obvious with \"this is the subtle part:\" I think \"that haughty bitch is talking down to me\"\n",
+				"date_published": "2026-02-18T13:33:43-06:00",
+				"url": "https://micahrl.me/2026/02/18/every-time-chat-prefixes-something/"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2026/02/06/would-cloudflare-or-cloudfront-please/",
 				
 				"content_html": "<p>Would CloudFlare or CloudFront please rename to something that doesn&rsquo;t start with CloudF, I don&rsquo;t care which.</p>\n",
