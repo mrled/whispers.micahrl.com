@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2026/08/06/im-tired-of-reading-about/",
+				
+				"content_html": "<p>I&rsquo;m tired of reading about how labs can run models without any safeguards but getting scolded by a fucking LLM when asking for help retrieving the Slack auth tokens on my own computer <a href=\"https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything\">simonwillison.net/2026/Aug/&hellip;</a></p>\n",
+				"content_text": "I'm tired of reading about how labs can run models without any safeguards but getting scolded by a fucking LLM when asking for help retrieving the Slack auth tokens on my own computer [simonwillison.net/2026/Aug/...](https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything)\n",
+				"date_published": "2026-08-06T08:39:35-05:00",
+				"url": "https://micahrl.me/2026/08/06/im-tired-of-reading-about/"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2026/06/03/im-gonna-do-it-i/",
 				
 				"content_html": "<p>i&rsquo;m gonna do it. i warned u but u wouldn&rsquo;t listen. i said this would happen. u did this, not me. im doin it. im automatically filtering emails with &ldquo;login notification&rdquo; and &ldquo;a new trusted device&rdquo; in the subject line.</p>\n",
@@ -49,7 +57,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2026/02/02/the-circle-is-now-complete/",
 				
-				"content_html": "<p>The circle is now complete. When I left you I was but the learner. Now, I am the master.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>The circle is now complete. When I left you I was but the learner. Now, I am the master.</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2026/screenshot-2026-02-02-at-21.25.32.png\" width=\"600\" height=\"174\" alt=\"\">\n",
 				"content_text": "The circle is now complete. When I left you I was but the learner. Now, I am the master.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2026/screenshot-2026-02-02-at-21.25.32.png\" width=\"600\" height=\"174\" alt=\"\">\n",
 				"date_published": "2026-02-02T22:29:48-05:00",
 				"url": "https://micahrl.me/2026/02/02/the-circle-is-now-complete/"
@@ -97,7 +105,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2025/12/02/years-apart-merry-mas/",
 				
-				"content_html": "<p>2 years apart, merry ☧mas</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>2 years apart, merry ☧mas</p>\n<p><img src=\"https://cdn.uploads.micro.blog/103095/2025/0e6dcd8b3d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2025/023df2ac83.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
 				"content_text": "2 years apart, merry ☧mas \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/0e6dcd8b3d.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2025/023df2ac83.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-12-02T21:36:37-05:00",
 				"url": "https://micahrl.me/2025/12/02/years-apart-merry-mas/"
@@ -225,7 +233,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2025/05/22/claude-finally-made-it-to/",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<details>\r\n<summary>\r\nClaude finally made it to AI 4, glad to see them catching up to ChatGPT which is probably going to release AI 5 soon.............\r\n</summary>\r\nis it considered a faux pas to shitpost on micro.blog? anyway i think about the <a href=\"http://www.slackware.com/faq/do_faq.php?faq=general#0\">slackware faq</a> a lot.\r\n</details>\r\n",
 				"content_text": "<details>\r\n<summary>\r\nClaude finally made it to AI 4, glad to see them catching up to ChatGPT which is probably going to release AI 5 soon.............\r\n</summary>\r\nis it considered a faux pas to shitpost on micro.blog? anyway i think about the <a href=\"http://www.slackware.com/faq/do_faq.php?faq=general#0\">slackware faq</a> a lot.\r\n</details>\r\n\r\n\r\n",
 				"date_published": "2025-05-22T16:53:04-05:00",
 				"url": "https://micahrl.me/2025/05/22/claude-finally-made-it-to/"
@@ -305,7 +313,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2025/02/09/cordwifto-part/",
 				"title": "Cordwifto Part 2",
-				"content_html": "<p>A screenshot of a web page running in an in-app browser, talking to an in-app <em>webserver</em>, inside an Apache Cordova application running on the iOS simulator. The in-app browser is displaying a site built by Hugo running in-process by way of a Swift wrapper.</p>\n<p>I kind of can&rsquo;t believe I just plugged it all together. Getting the compiled languages to talk to each other was a little difficult, and going from zero to one in Cordova took a little while, but really the whole thing&hellip; works. It&rsquo;s kind of a weird program in that all this functionality exists I just have to snap it together like Lego bricks.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>A screenshot of a web page running in an in-app browser, talking to an in-app <em>webserver</em>, inside an Apache Cordova application running on the iOS simulator. The in-app browser is displaying a site built by Hugo running in-process by way of a Swift wrapper.</p>\n<p>I kind of can&rsquo;t believe I just plugged it all together. Getting the compiled languages to talk to each other was a little difficult, and going from zero to one in Cordova took a little while, but really the whole thing&hellip; works. It&rsquo;s kind of a weird program in that all this functionality exists I just have to snap it together like Lego bricks.</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/screenshot-2025-02-09-at-15.48.57.png\" width=\"314\" height=\"600\" alt=\"\">\n",
 				"content_text": "A screenshot of a web page running in an in-app browser, talking to an in-app _webserver_, inside an Apache Cordova application running on the iOS simulator. The in-app browser is displaying a site built by Hugo running in-process by way of a Swift wrapper.\r\n\r\nI kind of can't believe I just plugged it all together. Getting the compiled languages to talk to each other was a little difficult, and going from zero to one in Cordova took a little while, but really the whole thing... works. It's kind of a weird program in that all this functionality exists I just have to snap it together like Lego bricks.\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/screenshot-2025-02-09-at-15.48.57.png\" width=\"314\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-09T16:51:36-05:00",
 				"url": "https://micahrl.me/2025/02/09/cordwifto-part/"
@@ -313,7 +321,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2025/02/08/cordwifto/",
 				"title": "Cordwifto",
-				"content_html": "<p>I embedded Hugo in a Go library in a Swift library in a Cordova plugin in a Cordova app to see if it would work. Looks like it does. That&rsquo;s Hugo logging to a <code>&lt;textarea&gt;</code> and generating a static HTML page on the iPhone simulator.</p>\n<p>Had this idea that it would be neat to be able to make an iPhone blog client that could render a new post exactly the way it would be on the site. Not sure if I&rsquo;ll take this anywhere yet.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>I embedded Hugo in a Go library in a Swift library in a Cordova plugin in a Cordova app to see if it would work. Looks like it does. That&rsquo;s Hugo logging to a <code>&lt;textarea&gt;</code> and generating a static HTML page on the iPhone simulator.</p>\n<p>Had this idea that it would be neat to be able to make an iPhone blog client that could render a new post exactly the way it would be on the site. Not sure if I&rsquo;ll take this anywhere yet.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/103095/2025/screenshot-2025-02-08-at-17.11.41.png\" width=\"302\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2025/screenshot-2025-02-08-at-17.13.10.png\" width=\"314\" height=\"600\" alt=\"\"></p>\n",
 				"content_text": "I embedded Hugo in a Go library in a Swift library in a Cordova plugin in a Cordova app to see if it would work. Looks like it does. That's Hugo logging to a `<textarea>` and generating a static HTML page on the iPhone simulator.\r\n\r\nHad this idea that it would be neat to be able to make an iPhone blog client that could render a new post exactly the way it would be on the site. Not sure if I'll take this anywhere yet.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/screenshot-2025-02-08-at-17.11.41.png\" width=\"302\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2025/screenshot-2025-02-08-at-17.13.10.png\" width=\"314\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-08T22:27:01-05:00",
 				"url": "https://micahrl.me/2025/02/08/cordwifto/"
@@ -321,7 +329,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2025/01/26/why-is-the-us-government/",
 				
-				"content_html": "<p>why is the US government wasting its time with a tiktok ban when there are REAL problems with chinese apps????</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>why is the US government wasting its time with a tiktok ban when there are REAL problems with chinese apps????</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/3f3f289e2a.png\" width=\"600\" height=\"209\" alt=\"\">\n",
 				"content_text": "why is the US government wasting its time with a tiktok ban when there are REAL problems with chinese apps????\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/3f3f289e2a.png\" width=\"600\" height=\"209\" alt=\"\">\n",
 				"date_published": "2025-01-26T14:04:47-05:00",
 				"url": "https://micahrl.me/2025/01/26/why-is-the-us-government/"
@@ -329,7 +337,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2025/01/25/my-first-sunrise-of-the/",
 				
-				"content_html": "<p>My first sunrise of the year this morning at Mueller Lake Park&hellip; planning to see one every month 🌅</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>My first sunrise of the year this morning at Mueller Lake Park&hellip; planning to see one every month 🌅</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/4d7c9f7f70.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "My first sunrise of the year this morning at Mueller Lake Park... planning to see one every month 🌅\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/4d7c9f7f70.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-01-25T20:47:31-05:00",
 				"url": "https://micahrl.me/2025/01/25/my-first-sunrise-of-the/"
@@ -337,7 +345,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2025/01/24/someone-told-me-this-yesterday/",
 				
-				"content_html": "<p>Someone told me this yesterday and I did not believe them. Funny in an X (formerly Twitter) sort of way.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Someone told me this yesterday and I did not believe them. Funny in an X (formerly Twitter) sort of way.</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/bfead13f38.jpg\" width=\"600\" height=\"395\" alt=\"\">\n",
 				"content_text": "Someone told me this yesterday and I did not believe them. Funny in an X (formerly Twitter) sort of way.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/bfead13f38.jpg\" width=\"600\" height=\"395\" alt=\"\">\n",
 				"date_published": "2025-01-24T16:46:55-05:00",
 				"url": "https://micahrl.me/2025/01/24/someone-told-me-this-yesterday/"
@@ -353,7 +361,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2025/01/22/the-most-inscrutable-icons-in/",
 				
-				"content_html": "<p>The most inscrutable icons in my dock are in the IDE and LLM sections</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>The most inscrutable icons in my dock are in the IDE and LLM sections</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/91b70e0db2.png\" width=\"600\" height=\"124\" alt=\"\">\n",
 				"content_text": "The most inscrutable icons in my dock are in the IDE and LLM sections\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/91b70e0db2.png\" width=\"600\" height=\"124\" alt=\"\">\n",
 				"date_published": "2025-01-22T18:23:57-05:00",
 				"url": "https://micahrl.me/2025/01/22/the-most-inscrutable-icons-in/"
@@ -385,7 +393,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2025/01/17/charming-captcha-is-such-a/",
 				
-				"content_html": "<p>Charming captcha (is such a thing possible?) from LibraryThing</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Charming captcha (is such a thing possible?) from LibraryThing</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/7a7167edb6.png\" width=\"600\" height=\"416\" alt=\"\">\n",
 				"content_text": "Charming captcha (is such a thing possible?) from LibraryThing \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/7a7167edb6.png\" width=\"600\" height=\"416\" alt=\"\">\n",
 				"date_published": "2025-01-17T08:25:03-05:00",
 				"url": "https://micahrl.me/2025/01/17/charming-captcha-is-such-a/"
@@ -401,7 +409,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2025/01/11/finally-able-to-give-the/",
 				
-				"content_html": "<p>Finally able to give the <a href=\"https://projectblue.bigcartel.com/product/projectblue\">Project Blue</a> gift that I&rsquo;ve been sitting on since February. Happy birthday <a href=\"https://www.ndled.us\">Noah</a>!</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Finally able to give the <a href=\"https://projectblue.bigcartel.com/product/projectblue\">Project Blue</a> gift that I&rsquo;ve been sitting on since February. Happy birthday <a href=\"https://www.ndled.us\">Noah</a>!</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/3a161c5f17.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Finally able to give the [Project Blue](https://projectblue.bigcartel.com/product/projectblue) gift that I've been sitting on since February. Happy birthday [Noah](https://www.ndled.us)!\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/3a161c5f17.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-11T11:21:13-05:00",
 				"url": "https://micahrl.me/2025/01/11/finally-able-to-give-the/"
@@ -409,7 +417,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2025/01/11/ice-crystals-in-the-morning/",
 				
-				"content_html": "<p>Ice crystals in the morning</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Ice crystals in the morning</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/f2a5bdd52f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Ice crystals in the morning \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/f2a5bdd52f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-01-11T11:17:59-05:00",
 				"url": "https://micahrl.me/2025/01/11/ice-crystals-in-the-morning/"
@@ -417,7 +425,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2025/01/10/been-a-gandi-customer-since/",
 				
-				"content_html": "<p>Been a Gandi customer since at least 2009, maybe before. As of today, I&rsquo;m fully migrated off. End of an era.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Been a Gandi customer since at least 2009, maybe before. As of today, I&rsquo;m fully migrated off. End of an era.</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/image.png\" width=\"600\" height=\"272\" alt=\"\">\n",
 				"content_text": "Been a Gandi customer since at least 2009, maybe before. As of today, I'm fully migrated off. End of an era.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/image.png\" width=\"600\" height=\"272\" alt=\"\">\n",
 				"date_published": "2025-01-10T15:25:03-05:00",
 				"url": "https://micahrl.me/2025/01/10/been-a-gandi-customer-since/"
@@ -441,7 +449,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2025/01/04/cool-stats-from-the-past/",
 				
-				"content_html": "<p>Cool stats from the past couple of years</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>Cool stats from the past couple of years</p>\n<p><img src=\"https://cdn.uploads.micro.blog/103095/2025/20e2a3b1e9.jpg\" width=\"337\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2025/983fdf939f.jpg\" width=\"337\" height=\"600\" alt=\"\"></p>\n",
 				"content_text": "Cool stats from the past couple of years\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/20e2a3b1e9.jpg\" width=\"337\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2025/983fdf939f.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-04T22:33:17-05:00",
 				"url": "https://micahrl.me/2025/01/04/cool-stats-from-the-past/"
@@ -449,7 +457,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2025/01/01/new-years-day-brunch-mini/",
 				
-				"content_html": "<p>New Years Day brunch, mini baked potatoes and caviar</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>New Years Day brunch, mini baked potatoes and caviar</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/fdb59377a0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "New Years Day brunch, mini baked potatoes and caviar\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2025/fdb59377a0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-01-01T17:04:52-05:00",
 				"url": "https://micahrl.me/2025/01/01/new-years-day-brunch-mini/"
@@ -473,7 +481,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2024/12/24/bakedinadvance-christmas-day-quiches-christmas/",
 				
-				"content_html": "<p>Baked-in-advance Christmas Day quiches (Christmas Eve whisky for scale)</p>\n<p>btw, quiche is mega easy and the best way to elevate it is to make your own crust. I bastardize <a href=\"https://www.marthastewart.com/336991/easy-pie-crust\">Martha</a> by combining the ingredients and smooshing them into the bottom of the pan. Dreadful, I know. Tastes good though</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Baked-in-advance Christmas Day quiches (Christmas Eve whisky for scale)</p>\n<p>btw, quiche is mega easy and the best way to elevate it is to make your own crust. I bastardize <a href=\"https://www.marthastewart.com/336991/easy-pie-crust\">Martha</a> by combining the ingredients and smooshing them into the bottom of the pan. Dreadful, I know. Tastes good though</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/cc08495c82.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Baked-in-advance Christmas Day quiches (Christmas Eve whisky for scale)\n\nbtw, quiche is mega easy and the best way to elevate it is to make your own crust. I bastardize [Martha](https://www.marthastewart.com/336991/easy-pie-crust) by combining the ingredients and smooshing them into the bottom of the pan. Dreadful, I know. Tastes good though \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/cc08495c82.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-12-24T22:52:04-05:00",
 				"url": "https://micahrl.me/2024/12/24/bakedinadvance-christmas-day-quiches-christmas/"
@@ -481,7 +489,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2024/12/17/noms-de-guerre/",
 				"title": "noms de guerre",
-				"content_html": "<p>Definitions</p>\n<h3 id=\"nom-de-guerre\">nom de guerre</h3>\n<p>noun</p>\n<ol>\n<li>pseudonym</li>\n<li>(historically) a fictitious name used in war\n<!-- raw HTML omitted --></li>\n</ol>\n<h3 id=\"nom-de-guerre-1\">nom de &lsquo;guerre</h3>\n<p>noun</p>\n<ol>\n<li>a fictitious name adopted by an actor or model</li>\n<li>(historically) a fictitious name adopted by the subject of daguerreotype photography\n<!-- raw HTML omitted --></li>\n</ol>\n<h3 id=\"nom-daguerre\">nom Daguerre</h3>\n<p>proper name</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Louis_Daguerre\">Louis</a></p>\n",
+				"content_html": "<p>Definitions</p>\n<h3 id=\"nom-de-guerre\">nom de guerre</h3>\n<p>noun</p>\n<ol>\n<li>pseudonym</li>\n<li>(historically) a fictitious name used in war\n<br/></li>\n</ol>\n<h3 id=\"nom-de-guerre-1\">nom de &lsquo;guerre</h3>\n<p>noun</p>\n<ol>\n<li>a fictitious name adopted by an actor or model</li>\n<li>(historically) a fictitious name adopted by the subject of daguerreotype photography\n<br/></li>\n</ol>\n<h3 id=\"nom-daguerre\">nom Daguerre</h3>\n<p>proper name</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Louis_Daguerre\">Louis</a></p>\n",
 				"content_text": "Definitions\n\n### nom de guerre\n\nnoun\n\n1. pseudonym\n2. (historically) a fictitious name used in war\n<br/>\n\n### nom de 'guerre\n\nnoun\n\n1. a fictitious name adopted by an actor or model\n1. (historically) a fictitious name adopted by the subject of daguerreotype photography\n<br/>\n\n### nom Daguerre\n\nproper name\n\n[Louis](https://en.wikipedia.org/wiki/Louis_Daguerre)\n",
 				"date_published": "2024-12-17T16:50:01-05:00",
 				"url": "https://micahrl.me/2024/12/17/noms-de-guerre/"
@@ -505,7 +513,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2024/11/24/the-ecstasy-of-triumph-the/",
 				
-				"content_html": "<p>The ecstasy of triumph / The agony of defeat</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>The ecstasy of triumph / The agony of defeat</p>\n<p><img src=\"https://cdn.uploads.micro.blog/103095/2024/acd01f61bb.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2024/31c24175a1.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
 				"content_text": "The ecstasy of triumph / The agony of defeat\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/acd01f61bb.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2024/31c24175a1.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-11-24T14:39:45-05:00",
 				"url": "https://micahrl.me/2024/11/24/the-ecstasy-of-triumph-the/"
@@ -521,7 +529,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2024/11/20/for-readability/",
 				"title": "For readability",
-				"content_html": "<p>Defenders of short lines in source code have won the day when it comes to defaults from automatic formatters, but when I look at the results I don&rsquo;t understand why. The last 6 lines here are the same as the first 14, and it looks much more readable to me.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>I don&rsquo;t mind this as a proverb, but like many proverbs, it would benefit from an equal and opposite counter-proverb.</p>\n<!-- raw HTML omitted -->\n<p>Perhaps:</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Defenders of short lines in source code have won the day when it comes to defaults from automatic formatters, but when I look at the results I don&rsquo;t understand why. The last 6 lines here are the same as the first 14, and it looks much more readable to me.</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/screenshot-2024-11-20-at-10.02.01.png\" width=\"600\" height=\"294\" alt=\"\">\n<hr/>\n<figure style=\"margin-left: 2em;\">\n<blockquote>\nFor readability we recommend against using more than 80 characters\n</blockquote>\n<figcaption style=\"margin-left: 1em\">\n— <a href=\"https://prettier.io/docs/en/options.html\">prettier</a>\n</figcaption>\n</figure>\n<p>I don&rsquo;t mind this as a proverb, but like many proverbs, it would benefit from an equal and opposite counter-proverb.</p>\n<figure style=\"margin-left: 2em;\">\n<blockquote>\n4 Answer not a fool according to his folly, lest thou also be like unto him.<br/>\n5 Answer a fool according to his folly, lest he be wise in his own conceit.\n</blockquote>\n<figcaption style=\"margin-left: 1em\">\n— <a href=\"https://www.biblegateway.com/passage/?search=Proverbs+26%3A4-5&version=KJV\">Proverbs 26:4-5</a>\n</figcaption>\n</figure>\n<p>Perhaps:</p>\n<figure style=\"margin-left: 2em;\">\n<blockquote>\nFor readability, break lines at 80 characters.<br/>\nFor readability, do not break statements into multiple lines.\n</blockquote>\n</figure>\n",
 				"content_text": "Defenders of short lines in source code have won the day when it comes to defaults from automatic formatters, but when I look at the results I don't understand why. The last 6 lines here are the same as the first 14, and it looks much more readable to me.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/screenshot-2024-11-20-at-10.02.01.png\" width=\"600\" height=\"294\" alt=\"\">\n\n<hr/>\n\n<figure style=\"margin-left: 2em;\">\n<blockquote>\nFor readability we recommend against using more than 80 characters\n</blockquote>\n<figcaption style=\"margin-left: 1em\">\n— <a href=\"https://prettier.io/docs/en/options.html\">prettier</a>\n</figcaption>\n</figure>\n\n\nI don't mind this as a proverb, but like many proverbs, it would benefit from an equal and opposite counter-proverb.\n\n<figure style=\"margin-left: 2em;\">\n<blockquote>\n4 Answer not a fool according to his folly, lest thou also be like unto him.<br/>\n5 Answer a fool according to his folly, lest he be wise in his own conceit.\n</blockquote>\n<figcaption style=\"margin-left: 1em\">\n— <a href=\"https://www.biblegateway.com/passage/?search=Proverbs+26%3A4-5&version=KJV\">Proverbs 26:4-5</a>\n</figcaption>\n</figure>\n\nPerhaps:\n\n<figure style=\"margin-left: 2em;\">\n<blockquote>\nFor readability, break lines at 80 characters.<br/>\nFor readability, do not break statements into multiple lines.\n</blockquote>\n</figure>\n\n",
 				"date_published": "2024-11-20T22:05:40-05:00",
 				"url": "https://micahrl.me/2024/11/20/for-readability/"
@@ -561,7 +569,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2024/10/28/last-night-at-lazarus/",
 				
-				"content_html": "<p>Last night at Lazarus</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Last night at Lazarus</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/6c51543ade.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"content_text": "Last night at Lazarus\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/6c51543ade.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-28T15:46:04-05:00",
 				"url": "https://micahrl.me/2024/10/28/last-night-at-lazarus/"
@@ -569,7 +577,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2024/10/28/finally-the-web-is-taking/",
 				
-				"content_html": "<p>Finally, the web is taking cues from the best UX in the world (PBX phone trees)</p>\n<!-- raw HTML omitted -->\n<p>(to be clear you have to type &ldquo;1&rdquo; or &ldquo;2&rdquo; in the little box and then click the button with your mouse)</p>\n",
+				"content_html": "<p>Finally, the web is taking cues from the best UX in the world (PBX phone trees)</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/screenshot-2024-10-07-at-10.40.37.png\" width=\"600\" height=\"184\" alt=\"\">\n<p>(to be clear you have to type &ldquo;1&rdquo; or &ldquo;2&rdquo; in the little box and then click the button with your mouse)</p>\n",
 				"content_text": "Finally, the web is taking cues from the best UX in the world (PBX phone trees)\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/screenshot-2024-10-07-at-10.40.37.png\" width=\"600\" height=\"184\" alt=\"\">\n\n(to be clear you have to type \"1\" or \"2\" in the little box and then click the button with your mouse)\n",
 				"date_published": "2024-10-28T15:43:55-05:00",
 				"url": "https://micahrl.me/2024/10/28/finally-the-web-is-taking/"
@@ -641,7 +649,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2024/08/08/stuff-like-this-makes-me/",
 				
-				"content_html": "<p>Stuff like <a href=\"https://shop.pimoroni.com/products/picosystem?variant=32369546985555\">this</a> makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Stuff like <a href=\"https://shop.pimoroni.com/products/picosystem?variant=32369546985555\">this</a> makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/picosystem-dark-square-1-768x768-crop-center.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"content_text": "Stuff like [this](https://shop.pimoroni.com/products/picosystem?variant=32369546985555) makes me want to make my own game. Something cool about not sending a link but physically carrying around or handing someone a thing you made. Perhaps not a game ruthlessly optimized for fun, but a game-like experience designed to be enjoyed in a few moments.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/picosystem-dark-square-1-768x768-crop-center.webp\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-08T10:21:05-05:00",
 				"url": "https://micahrl.me/2024/08/08/stuff-like-this-makes-me/"
@@ -777,7 +785,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2024/05/06/patterns/",
 				
-				"content_html": "<p>Patterns</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>Patterns</p>\n<p><img src=\"https://cdn.uploads.micro.blog/103095/2024/img-8106.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2024/img-8105.jpeg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
 				"content_text": "Patterns\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2024/img-8106.jpeg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2024/img-8105.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-05-06T23:46:19-05:00",
 				"url": "https://micahrl.me/2024/05/06/patterns/"
@@ -833,7 +841,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2023/05/23/i-am-seeing-more-and/",
 				
-				"content_html": "<p>I am seeing more and more bad hyphenation recently, this is just so sad :(</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>I am seeing more and more bad hyphenation recently, this is just so sad :(</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/a043cd4e0a.jpg\" width=\"600\" height=\"242\" alt=\"\">\n",
 				"content_text": "I am seeing more and more bad hyphenation recently, this is just so sad :( \n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/a043cd4e0a.jpg\" width=\"600\" height=\"242\" alt=\"\">\n",
 				"date_published": "2023-05-23T13:19:02-05:00",
 				"url": "https://micahrl.me/2023/05/23/i-am-seeing-more-and/"
@@ -889,7 +897,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2023/03/17/blue-skies-sierra-ferrel-chickenshit/",
 				
-				"content_html": "<p>Blue skies, Sierra Ferrel, chickenshit bingo. Thanks <a href=\"https://luckpresents.com/luck-tx-events/2023luckreunion\">Luck</a>.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>Blue skies, Sierra Ferrel, chickenshit bingo. Thanks <a href=\"https://luckpresents.com/luck-tx-events/2023luckreunion\">Luck</a>.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/103095/2023/4dd496c2b3.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/9131f124e3.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
 				"content_text": "Blue skies, Sierra Ferrel, chickenshit bingo. Thanks [Luck](https://luckpresents.com/luck-tx-events/2023luckreunion).\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/4dd496c2b3.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/9131f124e3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-17T22:37:49-05:00",
 				"url": "https://micahrl.me/2023/03/17/blue-skies-sierra-ferrel-chickenshit/"
@@ -913,7 +921,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2023/03/15/pls-do-not-take/",
 				
-				"content_html": "<p>PLS DO NOT TAKE</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>PLS DO NOT TAKE</p>\n<p><img src=\"https://cdn.uploads.micro.blog/103095/2023/e140fe4768.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/232337a204.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
 				"content_text": "PLS DO NOT TAKE\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/e140fe4768.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/103095/2023/232337a204.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-15T19:10:53-05:00",
 				"url": "https://micahrl.me/2023/03/15/pls-do-not-take/"
@@ -929,7 +937,7 @@
 			{
 				"id": "http://micahrl.micro.blog/2023/03/13/circa-or-so-my-family/",
 				
-				"content_html": "<p>Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/fcef8762b3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"content_text": "Circa 2000 or so, my family went on vacation to South Carolina to visit my grandparents. Here I am pictured with the most important member of my family (StarCraft) which I brought on the plane and insisted my grandfather install on the PC he used for work.\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2023/fcef8762b3.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-03-13T20:21:47-05:00",
 				"url": "https://micahrl.me/2023/03/13/circa-or-so-my-family/"
