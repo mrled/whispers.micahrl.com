@@ -7,10 +7,26 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2026/09/04/openai-give-out-resets-but/",
+				
+				"content_html": "<p>openai give out &ldquo;resets&rdquo;, but they do it for weird reasons, like to &ldquo;celebrate major milestones&rdquo;. yesterday one of their influencer-executives <a href=\"https://x.com/thsottiaux/status/2095651088502591861\">announced</a> a reset every day regular people can&rsquo;t use Astra. why do this? cryptocurrency airdrop ass business strategy</p>\n",
+				"content_text": "openai give out \"resets\", but they do it for weird reasons, like to \"celebrate major milestones\". yesterday one of their influencer-executives [announced](https://x.com/thsottiaux/status/2095651088502591861) a reset every day regular people can't use Astra. why do this? cryptocurrency airdrop ass business strategy\n",
+				"date_published": "2026-09-04T06:51:08-05:00",
+				"url": "https://micahrl.me/2026/09/04/openai-give-out-resets-but/"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2026/09/03/people-seem-to-think-that/",
+				
+				"content_html": "<p>People seem to think that UPPER_CASE is correct for all shell variables. No! It is for only a subset: environment variables and constants. But upper case is so pervasive online I can&rsquo;t even get AI to do it right. Sad!</p>\n",
+				"content_text": "People seem to think that UPPER_CASE is correct for all shell variables. No! It is for only a subset: environment variables and constants. But upper case is so pervasive online I can't even get AI to do it right. Sad!\n",
+				"date_published": "2026-09-03T05:31:09-05:00",
+				"url": "https://micahrl.me/2026/09/03/people-seem-to-think-that/"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2026/09/02/i-really-think-politicians-should/",
 				
-				"content_html": "<p>I really think politicians should ask questions like, is it good that parents should have to pay Sega to get Sonic the Hedgehog on a sign for a kids birthday party? Is Sega&rsquo;s interest in children&rsquo;s birthday signs worthy of government protection?</p>\n<p><a href=\"https://me.micahrl.com/blog/copyright-is-for-the-public/\">Copyright is for the public</a>. I&rsquo;m still stuck on this.</p>\n",
-				"content_text": "I really think politicians should ask questions like, is it good that parents should have to pay Sega to get Sonic the Hedgehog on a sign for a kids birthday party? Is Sega's interest in children's birthday signs worthy of government protection?\n\n[Copyright is for the public](https://me.micahrl.com/blog/copyright-is-for-the-public/). I'm still stuck on this.\n",
+				"content_html": "<p>I really think politicians should ask questions like, is it good that parents should have to pay Sega to get <a href=\"https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/\">Sonic the Hedgehog</a> on a sign for a kids birthday party? Is Sega&rsquo;s interest in children&rsquo;s birthday signs worthy of government protection?</p>\n<p><a href=\"https://me.micahrl.com/blog/copyright-is-for-the-public/\">Copyright is for the public</a>. I&rsquo;m still stuck on this.</p>\n",
+				"content_text": "I really think politicians should ask questions like, is it good that parents should have to pay Sega to get [Sonic the Hedgehog](https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/) on a sign for a kids birthday party? Is Sega's interest in children's birthday signs worthy of government protection?\n\n[Copyright is for the public](https://me.micahrl.com/blog/copyright-is-for-the-public/). I'm still stuck on this.\n\n",
 				"date_published": "2026-09-02T11:18:32-05:00",
 				"url": "https://micahrl.me/2026/09/02/i-really-think-politicians-should/"
 			},
@@ -33,8 +49,8 @@
 			{
 				"id": "http://micahrl.micro.blog/2026/08/23/were-all-in-this-together/",
 				
-				"content_html": "<p>&ldquo;we&rsquo;re all in this together&rdquo;, by which I mean, &ldquo;get the hell off my property&rdquo;</p>\n<img src=\"uploads/2026/09e4dd5f-425a-4245-bf92-51e3264ec42d-1-105-c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "\"we're all in this together\", by which I mean, \"get the hell off my property\"\n\n<img src=\"uploads/2026/09e4dd5f-425a-4245-bf92-51e3264ec42d-1-105-c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>&ldquo;we&rsquo;re all in this together&rdquo;, by which I mean, &ldquo;get the hell off my property&rdquo;</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2026/09e4dd5f-425a-4245-bf92-51e3264ec42d-1-105-c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "\"we're all in this together\", by which I mean, \"get the hell off my property\"\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2026/09e4dd5f-425a-4245-bf92-51e3264ec42d-1-105-c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-23T14:10:39-05:00",
 				"url": "https://micahrl.me/2026/08/23/were-all-in-this-together/"
 			},
