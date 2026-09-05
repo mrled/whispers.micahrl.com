@@ -7,10 +7,26 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2026/09/05/none-of-the-ai-labs/",
+				
+				"content_html": "<p>None of the AI labs are serious about <a href=\"https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/\">sandboxing</a>:</p>\n<blockquote>\n<p>It looks to me like OpenAI’s sandbox for this agent suffered from the (quite naïve) assumption that GET requests cannot be used to update data.</p>\n</blockquote>\n",
+				"content_text": "None of the AI labs are serious about [sandboxing](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/):\n\n> It looks to me like OpenAI’s sandbox for this agent suffered from the (quite naïve) assumption that GET requests cannot be used to update data.\n\n",
+				"date_published": "2026-09-05T08:08:23-05:00",
+				"url": "https://micahrl.me/2026/09/05/none-of-the-ai-labs/"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2026/09/04/the-world-runs-on-desktops/",
+				
+				"content_html": "<p>&ldquo;<a href=\"https://rakhim.exotext.com/windows-11-experience\">The world runs on desktops, but both Apple and Microsoft seem to actively despise it.</a>&rdquo;</p>\n",
+				"content_text": "\"[The world runs on desktops, but both Apple and Microsoft seem to actively despise it.](https://rakhim.exotext.com/windows-11-experience)\"\n",
+				"date_published": "2026-09-04T08:53:45-05:00",
+				"url": "https://micahrl.me/2026/09/04/the-world-runs-on-desktops/"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2026/09/04/openai-give-out-resets-but/",
 				
-				"content_html": "<p>openai give out &ldquo;resets&rdquo;, but they do it for weird reasons, like to &ldquo;celebrate major milestones&rdquo;. yesterday one of their influencer-executives <a href=\"https://x.com/thsottiaux/status/2095651088502591861\">announced</a> a reset every day regular people can&rsquo;t use Astra. why do this? cryptocurrency airdrop ass business strategy</p>\n",
-				"content_text": "openai give out \"resets\", but they do it for weird reasons, like to \"celebrate major milestones\". yesterday one of their influencer-executives [announced](https://x.com/thsottiaux/status/2095651088502591861) a reset every day regular people can't use Astra. why do this? cryptocurrency airdrop ass business strategy\n",
+				"content_html": "<p>openai gives out &ldquo;resets&rdquo;, but they do it for weird reasons, like to &ldquo;celebrate major milestones&rdquo;. yesterday one of their influencer-executives <a href=\"https://x.com/thsottiaux/status/2095651088502591861\">announced</a> a reset every day regular people can&rsquo;t use Astra. why do this? cryptocurrency airdrop ass business strategy</p>\n",
+				"content_text": "openai gives out \"resets\", but they do it for weird reasons, like to \"celebrate major milestones\". yesterday one of their influencer-executives [announced](https://x.com/thsottiaux/status/2095651088502591861) a reset every day regular people can't use Astra. why do this? cryptocurrency airdrop ass business strategy\n",
 				"date_published": "2026-09-04T06:51:08-05:00",
 				"url": "https://micahrl.me/2026/09/04/openai-give-out-resets-but/"
 			},
@@ -41,8 +57,8 @@
 			{
 				"id": "http://micahrl.micro.blog/2026/08/23/i-think-washing-hands-before/",
 				
-				"content_html": "<p>I think washing hands before returning to work is a good idea but I wish this restaurant provided somewhere else to do it</p>\n<img src=\"uploads/2026/5b4883f2-4096-45d7-8929-4b12f52aa8b8-1-105-c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "I think washing hands before returning to work is a good idea but I wish this restaurant provided somewhere else to do it\n\n<img src=\"uploads/2026/5b4883f2-4096-45d7-8929-4b12f52aa8b8-1-105-c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>I think washing hands before returning to work is a good idea but I wish this restaurant provided somewhere else to do it</p>\n<img src=\"https://cdn.uploads.micro.blog/103095/2026/5b4883f2-4096-45d7-8929-4b12f52aa8b8-1-105-c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "I think washing hands before returning to work is a good idea but I wish this restaurant provided somewhere else to do it\n\n<img src=\"https://cdn.uploads.micro.blog/103095/2026/5b4883f2-4096-45d7-8929-4b12f52aa8b8-1-105-c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-23T14:11:49-05:00",
 				"url": "https://micahrl.me/2026/08/23/i-think-washing-hands-before/"
 			},
