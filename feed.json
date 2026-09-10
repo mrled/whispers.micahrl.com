@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2026/09/10/most-people-dont-want-to/",
+				
+				"content_html": "<blockquote>\n<p>Most people don’t want to be more, do more, know more. They want to watch Netflix and die. They want the world of the Culture: an AI-run infinite vacation where they consume content for a few centuries, then autoeuthanize from boredom.</p>\n</blockquote>\n<p>&mdash; Fernando Borretti, <em><a href=\"https://borretti.me/article/the-other-road\">The Other Road</a></em></p>\n",
+				"content_text": "> Most people don’t want to be more, do more, know more. They want to watch Netflix and die. They want the world of the Culture: an AI-run infinite vacation where they consume content for a few centuries, then autoeuthanize from boredom.\n\n--- Fernando Borretti, _[The Other Road](https://borretti.me/article/the-other-road)_\n",
+				"date_published": "2026-09-10T06:56:20-05:00",
+				"url": "https://micahrl.me/2026/09/10/most-people-dont-want-to/"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2026/09/05/none-of-the-ai-labs/",
 				
 				"content_html": "<p>None of the AI labs are serious about <a href=\"https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/\">sandboxing</a>:</p>\n<blockquote>\n<p>It looks to me like OpenAI’s sandbox for this agent suffered from the (quite naïve) assumption that GET requests cannot be used to update data.</p>\n</blockquote>\n",
