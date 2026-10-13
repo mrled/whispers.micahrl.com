@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2026/10/13/feedback-to-anthropic-upon-canceling/",
+				
+				"content_html": "<p>Feedback to Anthropic upon canceling my subscription:</p>\n<blockquote>\n<p>I understand you are very concerned with &ldquo;alignment&rdquo;, but I don&rsquo;t think you are aligned with what I want. You pursue a more authoritarian alignment that groups preventing access to weapons of mass death with making sure that everyone knows I used an AI tool when writing prose. (I don&rsquo;t even do this! But you shouldn&rsquo;t be telling on me to the teacher if I did.) Pass.</p>\n</blockquote>\n",
+				"content_text": "Feedback to Anthropic upon canceling my subscription:\n\n> I understand you are very concerned with \"alignment\", but I don't think you are aligned with what I want. You pursue a more authoritarian alignment that groups preventing access to weapons of mass death with making sure that everyone knows I used an AI tool when writing prose. (I don't even do this! But you shouldn't be telling on me to the teacher if I did.) Pass.\n",
+				"date_published": "2026-10-13T14:59:14-05:00",
+				"url": "https://micahrl.me/2026/10/13/feedback-to-anthropic-upon-canceling/"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2026/10/05/good-job-guys-very-thoughtful/",
+				
+				"content_html": "<p>good job guys, very thoughtful design</p>\n<p><img src=\"uploads/2026/screenshot-2026-10-05-at-22.42.01.png\" width=\"600\" height=\"315\" alt=\"\"><img src=\"uploads/2026/screenshot-2026-10-05-at-22.42.15.png\" width=\"600\" height=\"268\" alt=\"\"></p>\n",
+				"content_text": "good job guys, very thoughtful design\n\n<img src=\"uploads/2026/screenshot-2026-10-05-at-22.42.01.png\" width=\"600\" height=\"315\" alt=\"\"><img src=\"uploads/2026/screenshot-2026-10-05-at-22.42.15.png\" width=\"600\" height=\"268\" alt=\"\">\n",
+				"date_published": "2026-10-05T22:42:56-05:00",
+				"url": "https://micahrl.me/2026/10/05/good-job-guys-very-thoughtful/"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2026/10/05/a-weird-trick-that-doctors/",
 				
 				"content_html": "<p>A weird trick that doctors don&rsquo;t know - when scheduling an event, it is permitted for the start time to account for the entire event. I don&rsquo;t actually need to know my slot on the doctor&rsquo;s calendar; if you need me there 15 minutes before that, we can agree on that when I make the appointment!</p>\n",
