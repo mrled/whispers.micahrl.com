@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2026/10/20/i-read-complaints-about-not/",
+				
+				"content_html": "<p>I read complaints about not washing hands in the restroom but that&rsquo;s not a tenth of the bad behavior I see. Someone just walked into a shitter drinking from a full mug of coffee. The other day my brother stood next to someone who was talking on the phone while eating an apple at the urinal.</p>\n",
+				"content_text": "I read complaints about not washing hands in the restroom but that's not a tenth of the bad behavior I see. Someone just walked into a shitter drinking from a full mug of coffee. The other day my brother stood next to someone who was talking on the phone while eating an apple at the urinal.\n",
+				"date_published": "2026-10-20T10:31:38-05:00",
+				"url": "https://micahrl.me/2026/10/20/i-read-complaints-about-not/"
+			},
+			{
+				"id": "http://micahrl.micro.blog/2026/10/14/if-you-give-a-mouse/",
+				
+				"content_html": "<blockquote>\n<p><em>If You Give a Mouse a Cookie</em> is an allegory about a nameless boy who unwittingly enslaves himself to the rapacious whims of a rodent.</p>\n</blockquote>\n",
+				"content_text": "> _If You Give a Mouse a Cookie_ is an allegory about a nameless boy who unwittingly enslaves himself to the rapacious whims of a rodent.\n",
+				"date_published": "2026-10-14T14:04:12-05:00",
+				"url": "https://micahrl.me/2026/10/14/if-you-give-a-mouse/"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2026/10/13/feedback-to-anthropic-upon-canceling/",
 				
 				"content_html": "<p>Feedback to Anthropic upon canceling my subscription:</p>\n<blockquote>\n<p>I understand you are very concerned with &ldquo;alignment&rdquo;, but I don&rsquo;t think you are aligned with what I want. You pursue a more authoritarian alignment that groups preventing access to weapons of mass death with making sure that everyone knows I used an AI tool when writing prose. (I don&rsquo;t even do this! But you shouldn&rsquo;t be telling on me to the teacher if I did.) Pass.</p>\n</blockquote>\n",
