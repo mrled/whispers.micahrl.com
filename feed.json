@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://micahrl.micro.blog/2026/10/24/my-linux-workstation-install-ritual/",
+				
+				"content_html": "<p>My Linux workstation install ritual: install Linux, fiddle around, walk away, come back, see that the OS has tried to sleep, hit the keyboard, move the mouse, tap the power button once, try to SSH in remotely, try the keyboard again, wait to see if it worked, hard reboot, and then disable sleep.</p>\n",
+				"content_text": "My Linux workstation install ritual: install Linux, fiddle around, walk away, come back, see that the OS has tried to sleep, hit the keyboard, move the mouse, tap the power button once, try to SSH in remotely, try the keyboard again, wait to see if it worked, hard reboot, and then disable sleep.\n",
+				"date_published": "2026-10-24T08:52:14-05:00",
+				"url": "https://micahrl.me/2026/10/24/my-linux-workstation-install-ritual/"
+			},
+			{
 				"id": "http://micahrl.micro.blog/2026/10/20/i-read-complaints-about-not/",
 				
 				"content_html": "<p>I read complaints about not washing hands in the restroom but that&rsquo;s not a tenth of the bad behavior I see. Someone just walked into a shitter drinking from a full mug of coffee. The other day my brother stood next to someone who was talking on the phone while eating an apple at the urinal.</p>\n",
